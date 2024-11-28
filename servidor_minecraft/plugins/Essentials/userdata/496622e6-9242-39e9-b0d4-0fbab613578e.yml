@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.132.237.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732670259798
+  login: 1732670235690
+money: '0'
+last-account-name: ManuEV
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -6.989724948559745
+  y: 127.0
+  z: -1.1139209358899624
+  yaw: -90.80652618408203
+  pitch: 4.655587196350098
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -1084.699999988079
+  y: 99.5625
+  z: -1510.23680581954
+  yaw: -104.88134765625
+  pitch: 24.6409969329834

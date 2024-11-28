@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.132.174.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732765031969
+  login: 1732757749854
+money: '0'
+last-account-name: drinne
+logoutlocation:
+  world: 0002db0d-ff51-4509-ac7d-a073f71e544c
+  world-name: world_nether
+  x: -3555.7251767682305
+  y: 43.0
+  z: -1147.2372853630802
+  yaw: -177.291015625
+  pitch: 34.20000076293945
+lastlocation:
+  world: 0002db0d-ff51-4509-ac7d-a073f71e544c
+  world-name: world_nether
+  x: -3400.097375956769
+  y: 71.0
+  z: -1133.0655396314219
+  yaw: -143.89971923828125
+  pitch: 48.74996566772461

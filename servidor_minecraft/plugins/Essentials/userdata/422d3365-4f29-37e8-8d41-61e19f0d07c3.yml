@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.69.78.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732825247166
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732825183505
+  login: 1732825053519
+money: '0'
+last-account-name: Panzi01
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -442.69999998807907
+  y: 17.0
+  z: -679.3917289412591
+  yaw: -166.69183349609375
+  pitch: 16.606307983398438
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -36275.2407005467
+  y: 119.0
+  z: -20202.679280774002
+  yaw: 143.61766052246094
+  pitch: 11.716477394104004

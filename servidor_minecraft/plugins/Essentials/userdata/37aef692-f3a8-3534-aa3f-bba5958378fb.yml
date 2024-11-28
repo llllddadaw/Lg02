@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.55.103.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732765058727
+  login: 1732757935504
+money: '0'
+last-account-name: zGander
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -34981.99833192194
+  y: 99.0
+  z: -25306.529266175075
+  yaw: -98.8939208984375
+  pitch: 37.98495864868164
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: 157.69999998807907
+  y: 68.41999998688698
+  z: -2602.523101279226
+  yaw: -114.44439697265625
+  pitch: 10.049701690673828

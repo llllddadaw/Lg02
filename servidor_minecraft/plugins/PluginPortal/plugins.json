@@ -1,0 +1,20 @@
+[
+  {
+    "platformId": "5qkQnnWO",
+    "name": "PluginPortal",
+    "version": "2.0.4",
+    "platform": "MODRINTH",
+    "sha256": "d20005a2d712b5180dd39edd059425edc7b49abcfa64a33a887955c76d1bd25a",
+    "sha512": "f6b0596a5481966b2eed7797f2792d26e1328402ed506e23cd52240e7bd563859de9e3c19f256f4f1b1afadfc6a2c9191105e309261b767e622096c39cd4127b",
+    "installedAt": 1732334388759
+  },
+  {
+    "platformId": "95118",
+    "name": "HeadDatabase",
+    "version": "1.2.0",
+    "platform": "SPIGOTMC",
+    "sha256": "c1c4dbfc9a0ad43dd57e954ce96b1679e407b2ec8bfcd6b79dc71c9c4ee73f2b",
+    "sha512": "8758d4dbc1a636f6c9d2b0a852c35234d72b2f95ab1f28c3709ff51a0e19f2cc3fe3e6c4b981ee4fd82ab863949bfee845300f3d1284fc090daf86d62807e047",
+    "installedAt": 1732336563662
+  }
+]

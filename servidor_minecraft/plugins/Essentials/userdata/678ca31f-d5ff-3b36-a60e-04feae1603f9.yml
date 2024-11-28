@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.197.137.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732586598878
+  login: 1732584608074
+money: '0'
+last-account-name: abdiel2707
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: 163.6900995923848
+  y: -39.1875
+  z: -103.09757112543194
+  yaw: -109.79859924316406
+  pitch: 80.0999984741211

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.179.81.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732580461233
+  login: 1732578467578
+money: '0'
+last-account-name: aaron_123_KLJK
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: 41.69999998807907
+  y: 102.0
+  z: -17.986596686933026
+  yaw: -72.7724609375
+  pitch: 20.100034713745117

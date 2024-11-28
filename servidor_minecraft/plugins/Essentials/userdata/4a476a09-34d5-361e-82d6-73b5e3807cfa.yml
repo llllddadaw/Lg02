@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732513946673
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732514070654
+  login: 1732512878282
+money: '0'
+last-account-name: soviietics
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: 92.3052081176972
+  y: 94.5625
+  z: 433.4856534992979
+  yaw: 125.89179229736328
+  pitch: 32.39974594116211
+nickname: §7§KHerobrine
+logoutlocation:
+  world: 0002db0d-ff51-4509-ac7d-a073f71e544c
+  world-name: world_nether
+  x: -252.81831191732022
+  y: 55.0
+  z: -336.69999998807907
+  yaw: 30.387683868408203
+  pitch: 25.077659606933594
