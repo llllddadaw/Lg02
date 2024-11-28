@@ -367,3 +367,4 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [20:31:55] [Server thread/INFO]: Panzi01 has made the advancement [Hot Stuff]
 [20:32:01] [Server thread/INFO]: Panzi01 issued server command: /tp v783
 [20:38:22] [Server thread/INFO]: Panzi01 issued server command: /tp v783
+[20:47:53] [Server thread/INFO]: Panzi01 issued server command: /p h 
