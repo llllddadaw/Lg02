@@ -325,3 +325,45 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [20:21:03] [Server thread/INFO]: Scanning for legacy world dragon fight...
 [20:21:03] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
 [20:21:04] [Server thread/INFO]: Panzi01 has made the advancement [The End?]
+[20:23:45] [Server thread/INFO]: v783 issued server command: /give v783 minecraft:barrier}
+[20:23:46] [Server thread/INFO]: v783 issued server command: /give v783 minecraft:barrier
+[20:25:17] [Server thread/INFO]: v783 issued server command: /gamemode survival
+[20:25:36] [Server thread/INFO]: v783 issued server command: /gamemode creative
+[20:25:55] [Server thread/INFO]: Panzi01 issued server command: /tp v783
+[20:29:08] [Server thread/INFO]: v783 issued server command: /gamemode survival
+[20:29:47] [Server thread/INFO]: v783 issued server command: /gamemode creative
+[20:31:37] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:37] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:38] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:38] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:39] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:39] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:40] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:40] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:41] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:41] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:42] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:42] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:46] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:46] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:47] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:47] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:48] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:48] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:49] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:49] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:50] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:50] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:51] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:51] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:52] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[20:31:52] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[20:31:55] [Server thread/INFO]: Panzi01 has made the advancement [Hot Stuff]
+[20:32:01] [Server thread/INFO]: Panzi01 issued server command: /tp v783
+[20:38:22] [Server thread/INFO]: Panzi01 issued server command: /tp v783
