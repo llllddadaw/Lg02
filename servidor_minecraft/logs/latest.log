@@ -372,3 +372,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [20:53:52] [Server thread/INFO]: Panzi01 issued server command: /tp v783
 [20:57:31] [Server thread/INFO]: Panzi01 has reached the goal [Hired Help]
 [20:57:44] [Server thread/INFO]: Panzi01 issued server command: /tp v783
+[21:01:12] [Server thread/INFO]: v783 issued server command: /tp Panzi01
+[21:05:57] [Server thread/INFO]: Panzi01 issued server command: /tp v783
