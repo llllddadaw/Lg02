@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732920939287
+  logout: 1732923315555
   login: 1732921085742
 money: '0'
 last-account-name: ManuEV
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: 5025.863364583453
-  y: 0.2522033402537239
-  z: -6300.699999988079
-  yaw: -70.9051513671875
-  pitch: -3.6989569664001465
+  x: -1050.5
+  y: 64.0
+  z: -1571.5
+  yaw: -133.5345458984375
+  pitch: 5.296745300292969
