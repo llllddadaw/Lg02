@@ -23,11 +23,11 @@ last-account-name: ManuEV
 lastlocation:
   world: bf7b7afd-f343-4ea0-8cff-a5890a4565b9
   world-name: world_the_end
-  x: 61.36506207030101
-  y: 61.0
-  z: 3.707180070125824
-  yaw: -99.40386962890625
-  pitch: 8.618317604064941
+  x: -1.5789677378892022
+  y: 64.0
+  z: 15.544263924184298
+  yaw: 102.33538055419922
+  pitch: 11.657516479492188
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
