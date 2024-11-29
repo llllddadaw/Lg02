@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1732920469767
-  login: 1732920454342
+  login: 1732920624892
 money: '0'
 last-account-name: abdiel2707
 logoutlocation:
@@ -28,3 +28,11 @@ logoutlocation:
   z: 57.69999998807907
   yaw: 83.99966430664062
   pitch: 2.9999821186065674
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -8.699999988079071
+  y: 132.0
+  z: 3.699999988079071
+  yaw: 135.74977111816406
+  pitch: 27.750099182128906
