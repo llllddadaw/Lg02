@@ -29,10 +29,10 @@ logoutlocation:
   yaw: -98.8939208984375
   pitch: 37.98495864868164
 lastlocation:
-  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
-  world-name: world
-  x: 5019.026654347529
-  y: -2.0
-  z: -6301.300000011921
-  yaw: 129.1702117919922
-  pitch: 38.9654426574707
+  world: bf7b7afd-f343-4ea0-8cff-a5890a4565b9
+  world-name: world_the_end
+  x: 101.55459783982936
+  y: 49.0
+  z: -1.1317910559687132
+  yaw: 59.79315948486328
+  pitch: -6.55547571182251

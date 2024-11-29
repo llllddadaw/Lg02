@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732920152110
+  logout: 1732921448946
   login: 1732920156047
 money: '0'
 last-account-name: Promega_DX
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: 3.5
-  y: 133.0
-  z: -4.5
-  yaw: 31.67536735534668
-  pitch: 52.7036247253418
+  x: 5030.300000011921
+  y: 3.0
+  z: -6299.8641274858555
+  yaw: 69.1307144165039
+  pitch: -1.3002808094024658
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
