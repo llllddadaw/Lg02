@@ -1601,5 +1601,11 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-11-29 23:22:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
