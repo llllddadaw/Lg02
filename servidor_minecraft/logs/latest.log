@@ -1,425 +1,210 @@
-[20:13:38] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:13:39] [ServerMain/INFO]: Loaded 7 recipes
-[20:13:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:13:40] [Server thread/INFO]: Loading properties
-[20:13:40] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[20:13:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:13:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:13:40] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[22:28:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:28:56] [ServerMain/INFO]: Loaded 7 recipes
+[22:28:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:28:57] [Server thread/INFO]: Loading properties
+[22:28:57] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[22:28:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:28:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:28:57] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[20:13:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[20:13:40] [Server thread/WARN]: Unable to read file whitelist.json, backing it up to {0}.backup and creating new copy.
-com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 2 column 2 path $[1]
-	at com.google.gson.Gson.fromJson(Gson.java:1229) ~[gson-2.10.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1062) ~[gson-2.10.jar:?]
-	at net.minecraft.server.players.StoredUserList.load(StoredUserList.java:184) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.loadWhiteList(DedicatedPlayerList.java:118) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.loadAndSaveFiles(DedicatedPlayerList.java:31) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:215) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at line 2 column 2 path $[1]
-	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar:?]
-	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:485) ~[gson-2.10.jar:?]
-	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:422) ~[gson-2.10.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:779) ~[gson-2.10.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar:?]
-	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
-	... 9 more
-[20:13:41] [Server thread/INFO]: Default game type: SURVIVAL
-[20:13:41] [Server thread/INFO]: Generating keypair
-[20:13:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:13:41] [Server thread/INFO]: Using epoll channel type
-[20:13:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:13:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:13:41] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[20:13:44] [Server thread/WARN]: Legacy plugin FrameDupe v1.6 does not specify an api-version.
-[20:13:44] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[20:13:44] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.20
-[20:13:44] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.431
-[20:13:44] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.5.0.0.1242
-[20:13:44] [Server thread/INFO]: [CombatLogX] Configuration version is recent, no major changes necessary.
-[20:13:44] [Server thread/INFO]: [CombatLogX] Loading expansions...
-[20:13:45] [Server thread/INFO]: [CombatLogX] Loading expansion 'SuperVanish Compatibility v17.1'...
-[20:13:45] [Server thread/INFO]: [CombatLogX]  
-[20:13:45] [Server thread/INFO]: [CombatLogX] Successfully loaded 1 expansion.
-[20:13:45] [Server thread/INFO]: [FrameDupe] Loading server plugin FrameDupe v1.6
-[20:13:45] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[20:13:45] [Server thread/INFO]: [HeadDatabase] Loading server plugin HeadDatabase v1.2.0
-[20:13:45] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.7.0-FORK-b53
-[20:13:45] [Server thread/INFO]: [PluginPortal] Loading server plugin PluginPortal v2.0.4
-[20:13:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:13:45] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.431
-[20:13:45] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
-[20:13:45] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
-[20:13:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[20:13:45] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[20:13:45] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[20:13:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[20:13:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:13:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:13:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:13:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:13:46] [Server thread/INFO]: Preparing level "world"
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[20:13:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[20:13:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:13:46] [Server thread/INFO]: Time elapsed: 192 ms
-[20:13:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:13:46] [Server thread/INFO]: Time elapsed: 58 ms
-[20:13:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:13:46] [Server thread/INFO]: Time elapsed: 48 ms
-[20:13:46] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[20:13:47] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[20:13:47] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[20:13:47] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[20:13:47] [Server thread/INFO]: [Essentials] Using locale en
-[20:13:47] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[20:13:47] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[20:13:47] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
-[20:13:47] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
-[20:13:47] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.20
-[20:13:47] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
-[20:13:47] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
-[20:13:47] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.5.0.0.1242
-[20:13:48] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
-[20:13:48] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
-[20:13:48] [Server thread/INFO]: CombatLogX was loaded successfully.
-[20:13:48] [Server thread/INFO]: [CombatLogX] Enabling expansions...
-[20:13:48] [Server thread/INFO]: [CombatLogX] Enabling expansion 'SuperVanish Compatibility v17.1'...
-[20:13:48] [Server thread/WARN]: [CombatLogX] [SuperVanish Compatibility] A dependency is not installed on the server: PremiumVanish
-[20:13:48] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Missing PremiumVanish, checking for regular SuperVanish...
-[20:13:48] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Successfully found a dependency: SuperVanish v6.2.20
-[20:13:48] [Server thread/INFO]: [CombatLogX]  
-[20:13:48] [Server thread/INFO]: [CombatLogX] Successfully enabled 1 expansion.
-[20:13:48] [Server thread/INFO]: CombatLogX was enabled successfully.
-[20:13:48] [Server thread/INFO]: [FrameDupe] Enabling FrameDupe v1.6*
-[20:13:48] [Server thread/INFO]: FrameDupe by MrRafter loaded successfully
-[20:13:48] [Server thread/INFO]: [HeadDatabase] Enabling HeadDatabase v1.2.0
-[20:13:49] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
-[20:13:49] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
-[20:13:49] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[20:13:49] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[20:13:49] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
-[20:13:49] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/Lg02/servidor_minecraft/plugins/Essentials/spawn.yml'
-[20:13:49] [Server thread/INFO]: [AuthMe] 
+[22:28:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:28:58] [Server thread/INFO]: Default game type: SURVIVAL
+[22:28:58] [Server thread/INFO]: Generating keypair
+[22:28:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:28:58] [Server thread/INFO]: Using epoll channel type
+[22:28:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:28:58] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:28:58] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:29:02] [Server thread/WARN]: Legacy plugin FrameDupe v1.6 does not specify an api-version.
+[22:29:02] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[22:29:02] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.20
+[22:29:02] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.431
+[22:29:02] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.5.0.0.1242
+[22:29:02] [Server thread/INFO]: [CombatLogX] Configuration version is recent, no major changes necessary.
+[22:29:02] [Server thread/INFO]: [CombatLogX] Loading expansions...
+[22:29:02] [Server thread/INFO]: [CombatLogX] Loading expansion 'SuperVanish Compatibility v17.1'...
+[22:29:02] [Server thread/INFO]: [CombatLogX]  
+[22:29:02] [Server thread/INFO]: [CombatLogX] Successfully loaded 1 expansion.
+[22:29:02] [Server thread/INFO]: [FrameDupe] Loading server plugin FrameDupe v1.6
+[22:29:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[22:29:02] [Server thread/INFO]: [HeadDatabase] Loading server plugin HeadDatabase v1.2.0
+[22:29:02] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.7.0-FORK-b53
+[22:29:02] [Server thread/INFO]: [PluginPortal] Loading server plugin PluginPortal v2.0.4
+[22:29:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:29:02] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.431
+[22:29:02] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
+[22:29:02] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
+[22:29:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[22:29:02] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:29:02] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[22:29:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:29:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:29:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:29:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:29:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:29:03] [Server thread/INFO]: Preparing level "world"
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:29:03] [Server thread/INFO]: Time elapsed: 223 ms
+[22:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:29:03] [Server thread/INFO]: Time elapsed: 103 ms
+[22:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:29:04] [Server thread/INFO]: Time elapsed: 51 ms
+[22:29:04] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[22:29:04] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:29:04] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:29:04] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[22:29:04] [Server thread/INFO]: [Essentials] Using locale en
+[22:29:04] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:29:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:29:04] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[22:29:04] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[22:29:05] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.20
+[22:29:05] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
+[22:29:05] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[22:29:05] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.5.0.0.1242
+[22:29:05] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
+[22:29:05] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
+[22:29:05] [Server thread/INFO]: CombatLogX was loaded successfully.
+[22:29:06] [Server thread/INFO]: [CombatLogX] Enabling expansions...
+[22:29:06] [Server thread/INFO]: [CombatLogX] Enabling expansion 'SuperVanish Compatibility v17.1'...
+[22:29:06] [Server thread/WARN]: [CombatLogX] [SuperVanish Compatibility] A dependency is not installed on the server: PremiumVanish
+[22:29:06] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Missing PremiumVanish, checking for regular SuperVanish...
+[22:29:06] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Successfully found a dependency: SuperVanish v6.2.20
+[22:29:06] [Server thread/INFO]: [CombatLogX]  
+[22:29:06] [Server thread/INFO]: [CombatLogX] Successfully enabled 1 expansion.
+[22:29:06] [Server thread/INFO]: CombatLogX was enabled successfully.
+[22:29:06] [Server thread/INFO]: [FrameDupe] Enabling FrameDupe v1.6*
+[22:29:06] [Server thread/INFO]: FrameDupe by MrRafter loaded successfully
+[22:29:06] [Server thread/INFO]: [HeadDatabase] Enabling HeadDatabase v1.2.0
+[22:29:06] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
+[22:29:06] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
+[22:29:07] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[22:29:07] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[22:29:07] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[22:29:07] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/Lg02/servidor_minecraft/plugins/Essentials/spawn.yml'
+[22:29:07] [Server thread/INFO]: [AuthMe] 
     ___         __  __    __  ___   
    /   | __  __/ /_/ /_  /  |/  /__ 
   / /| |/ / / / __/ __ \/ /|_/ / _ \
  / ___ / /_/ / /_/ / / / /  / /  __/
 /_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
                                     
-[20:13:49] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
-[20:13:49] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
-[20:13:49] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
-[20:13:49] [Server thread/INFO]: [AuthMe] Checking for updates...
-[20:13:49] [Server thread/INFO]: [PluginPortal] Enabling PluginPortal v2.0.4
-[20:13:50] [Server thread/INFO]: [PluginPortal] SYSTEM LOAD_PLUGINS Loaded 2 plugins from local cache
-[20:13:50] [Server thread/INFO]: Running delayed init tasks
-[20:13:50] [Server thread/INFO]: [CombatLogX] Successfully enabled 0 late-load expansion.
-[20:13:50] [Server thread/INFO]: Done (10.737s)! For help, type "help"
-[20:13:50] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[20:13:50] [Server thread/INFO]: Timings Reset
-[20:13:50] [Craft Scheduler Thread - 4 - HeadDatabase/INFO]: [HeadDatabase] Trying to download heads [Try 1/10]
-[20:13:51] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] You are running the latest version.
-[20:13:51] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core]  
-[20:13:51] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
-[20:13:51] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core]  
-[20:13:51] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Found a possible update for plugin 'BlueSlimeCore'.
-[20:13:51] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Local Version: 2.9.6.431
-[20:13:51] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Remote Version: 2.9.6.444
-[20:13:51] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Download Link: https://hangar.papermc.io/SirBlobman/BlueSlimeCore
-[20:13:51] [User Authenticator #0/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:13:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@78d28824[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@5368acfd]},legacy=false] (/127.69.78.99:59829): You are not whitelisted on this server!
-[20:13:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@78d28824[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@5368acfd]},legacy=false] (/127.69.78.99:59829) lost connection: You are not whitelisted on this server!
-[20:13:54] [Craft Scheduler Thread - 4 - HeadDatabase/INFO]: [HeadDatabase] Updated local database
-[20:14:01] [User Authenticator #0/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:14:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2dbd8e42[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@4f44ec43]},legacy=false] (/127.69.78.99:53843): You are not whitelisted on this server!
-[20:14:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@2dbd8e42[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@4f44ec43]},legacy=false] (/127.69.78.99:53843) lost connection: You are not whitelisted on this server!
-[20:14:09] [User Authenticator #0/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:14:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@521687f8[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@6f7ace61]},legacy=false] (/127.69.78.99:50033): You are not whitelisted on this server!
-[20:14:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@521687f8[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@6f7ace61]},legacy=false] (/127.69.78.99:50033) lost connection: You are not whitelisted on this server!
-[20:14:44] [User Authenticator #0/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:14:44] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@18d4d64a[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@66233e9d]},legacy=false] (/127.69.78.99:50893): You are not whitelisted on this server!
-[20:14:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@18d4d64a[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@66233e9d]},legacy=false] (/127.69.78.99:50893) lost connection: You are not whitelisted on this server!
-[20:14:50] [User Authenticator #0/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:14:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2b1ddd7b[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@75ae895f]},legacy=false] (/127.69.78.99:44773): You are not whitelisted on this server!
-[20:14:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b1ddd7b[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@75ae895f]},legacy=false] (/127.69.78.99:44773) lost connection: You are not whitelisted on this server!
-[20:16:35] [User Authenticator #1/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:16:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@53485ecf[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@3b095530]},legacy=false] (/127.69.78.99:38755): You are not whitelisted on this server!
-[20:16:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@53485ecf[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@3b095530]},legacy=false] (/127.69.78.99:38755) lost connection: You are not whitelisted on this server!
-[20:16:36] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[20:16:36] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[20:16:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:16:36] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:16:36] [Server thread/INFO]: [PluginPortal] Disabling PluginPortal v2.0.4
-[20:16:36] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
-[20:16:36] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
-[20:16:36] [Server thread/INFO]: [HeadDatabase] Disabling HeadDatabase v1.2.0
-[20:16:36] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
-[20:16:36] [Server thread/INFO]: [FrameDupe] Disabling FrameDupe v1.6
-[20:16:36] [Server thread/INFO]: [CombatLogX] Disabling CombatLogX v11.5.0.0.1242
-[20:16:36] [Server thread/INFO]: [CombatLogX] Disabling expansions...
-[20:16:36] [Server thread/INFO]: [CombatLogX] Disabling expansion 'SuperVanish Compatibility v17.1'...
-[20:16:36] [Server thread/INFO]: [CombatLogX]  
-[20:16:36] [Server thread/INFO]: [CombatLogX] Successfully disabled all expansions.
-[20:16:36] [Server thread/INFO]: CombatLogX was disabled successfully.
-[20:16:36] [Server thread/INFO]: [Blue Slime Core] Disabling BlueSlimeCore v2.9.6.431
-[20:16:36] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.20
-[20:16:36] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
-[20:16:36] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
-[20:16:36] [Server thread/INFO]: Loaded 7 recipes
-[20:16:37] [Server thread/WARN]: Legacy plugin FrameDupe v1.6 does not specify an api-version.
-[20:16:37] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[20:16:37] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.20
-[20:16:37] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.431
-[20:16:37] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.5.0.0.1242
-[20:16:37] [Server thread/INFO]: [CombatLogX] Configuration version is recent, no major changes necessary.
-[20:16:37] [Server thread/INFO]: [CombatLogX] Loading expansions...
-[20:16:37] [Server thread/INFO]: [CombatLogX] Loading expansion 'SuperVanish Compatibility v17.1'...
-[20:16:37] [Server thread/INFO]: [CombatLogX]  
-[20:16:37] [Server thread/INFO]: [CombatLogX] Successfully loaded 1 expansion.
-[20:16:37] [Server thread/INFO]: [FrameDupe] Loading server plugin FrameDupe v1.6
-[20:16:37] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[20:16:37] [Server thread/INFO]: [HeadDatabase] Loading server plugin HeadDatabase v1.2.0
-[20:16:37] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.7.0-FORK-b53
-[20:16:37] [Server thread/INFO]: [PluginPortal] Loading server plugin PluginPortal v2.0.4
-[20:16:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:16:37] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.431
-[20:16:37] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
-[20:16:37] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
-[20:16:37] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[20:16:37] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[20:16:37] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[20:16:37] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[20:16:37] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[20:16:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.4.4
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: dc501c7
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[20:16:38] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[20:16:38] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[20:16:38] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[20:16:38] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[20:16:38] [Server thread/INFO]: [Essentials] Using locale en
-[20:16:38] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[20:16:38] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[20:16:38] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
-[20:16:38] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
-[20:16:38] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.20
-[20:16:38] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
-[20:16:38] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
-[20:16:38] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.5.0.0.1242
-[20:16:38] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
-[20:16:38] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
-[20:16:38] [Server thread/INFO]: CombatLogX was loaded successfully.
-[20:16:38] [Server thread/INFO]: [CombatLogX] Enabling expansions...
-[20:16:38] [Server thread/INFO]: [CombatLogX] Enabling expansion 'SuperVanish Compatibility v17.1'...
-[20:16:38] [Server thread/WARN]: [CombatLogX] [SuperVanish Compatibility] A dependency is not installed on the server: PremiumVanish
-[20:16:38] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Missing PremiumVanish, checking for regular SuperVanish...
-[20:16:38] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Successfully found a dependency: SuperVanish v6.2.20
-[20:16:38] [Server thread/INFO]: [CombatLogX]  
-[20:16:38] [Server thread/INFO]: [CombatLogX] Successfully enabled 1 expansion.
-[20:16:38] [Server thread/INFO]: CombatLogX was enabled successfully.
-[20:16:38] [Server thread/INFO]: [FrameDupe] Enabling FrameDupe v1.6*
-[20:16:38] [Server thread/INFO]: FrameDupe by MrRafter loaded successfully
-[20:16:38] [Server thread/INFO]: [HeadDatabase] Enabling HeadDatabase v1.2.0
-[20:16:38] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
-[20:16:38] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
-[20:16:38] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[20:16:38] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[20:16:38] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
-[20:16:38] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/Lg02/servidor_minecraft/plugins/Essentials/spawn.yml'
-[20:16:39] [Server thread/INFO]: [AuthMe] 
-    ___         __  __    __  ___   
-   /   | __  __/ /_/ /_  /  |/  /__ 
-  / /| |/ / / / __/ __ \/ /|_/ / _ \
- / ___ / /_/ / /_/ / / / /  / /  __/
-/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
-                                    
-[20:16:39] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
-[20:16:39] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
-[20:16:39] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
-[20:16:39] [Server thread/INFO]: [AuthMe] Checking for updates...
-[20:16:39] [Server thread/INFO]: [PluginPortal] Enabling PluginPortal v2.0.4
-[20:16:39] [Server thread/INFO]: [PluginPortal] SYSTEM LOAD_PLUGINS Loaded 2 plugins from local cache
-[20:16:39] [Server thread/INFO]: CONSOLE: Reload complete.
-[20:16:39] [Server thread/INFO]: Timings Reset
-[20:16:39] [Server thread/INFO]: [CombatLogX] Successfully enabled 0 late-load expansion.
-[20:16:39] [Craft Scheduler Thread - 10 - Essentials/INFO]: [Essentials] Fetching version information...
-[20:16:39] [Craft Scheduler Thread - 12 - HeadDatabase/INFO]: [HeadDatabase] Trying to download heads [Try 1/10]
-[20:16:39] [Craft Scheduler Thread - 8 - BlueSlimeCore/INFO]: [Blue Slime Core]  
-[20:16:39] [Craft Scheduler Thread - 8 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
-[20:16:39] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] You are running the latest version.
-[20:16:39] [Craft Scheduler Thread - 9 - BlueSlimeCore/INFO]: [Blue Slime Core]  
-[20:16:39] [Craft Scheduler Thread - 9 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Found a possible update for plugin 'BlueSlimeCore'.
-[20:16:39] [Craft Scheduler Thread - 9 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Local Version: 2.9.6.431
-[20:16:39] [Craft Scheduler Thread - 9 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Remote Version: 2.9.6.444
-[20:16:39] [Craft Scheduler Thread - 9 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Download Link: https://hangar.papermc.io/SirBlobman/BlueSlimeCore
-[20:16:41] [Craft Scheduler Thread - 12 - HeadDatabase/INFO]: [HeadDatabase] Updated local database
-[20:16:42] [User Authenticator #1/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:16:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6fab3e22[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@22c867d4]},legacy=false] (/127.69.78.99:37655): You are not whitelisted on this server!
-[20:16:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fab3e22[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@22c867d4]},legacy=false] (/127.69.78.99:37655) lost connection: You are not whitelisted on this server!
-[20:16:47] [User Authenticator #1/INFO]: UUID of player v783 is 39f69b13-e587-344f-b79f-eb9654de9c83
-[20:16:47] [Server thread/INFO]: v783[/127.51.33.129:56169] logged in with entity id 109 at ([world]-36340.15766384132, 85.16738270538771, -20188.617269700786)
-[20:16:47] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] v783 logged in 127.51.33.129
-[20:16:53] [User Authenticator #1/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:16:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3b2b3d4f[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@1b7ee431]},legacy=false] (/127.69.78.99:42203): You are not whitelisted on this server!
-[20:16:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b2b3d4f[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@1b7ee431]},legacy=false] (/127.69.78.99:42203) lost connection: You are not whitelisted on this server!
-[20:17:08] [User Authenticator #1/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:17:08] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2d73f89[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@df9627e]},legacy=false] (/127.69.78.99:38699): You are not whitelisted on this server!
-[20:17:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@2d73f89[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@df9627e]},legacy=false] (/127.69.78.99:38699) lost connection: You are not whitelisted on this server!
-[20:17:12] [User Authenticator #1/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:17:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@24aa8ca5[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@28090d2c]},legacy=false] (/127.69.78.99:52769): You are not whitelisted on this server!
-[20:17:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@24aa8ca5[id=422d3365-4f29-37e8-8d41-61e19f0d07c3,name=Panzi01,properties={textures=[com.mojang.authlib.properties.Property@28090d2c]},legacy=false] (/127.69.78.99:52769) lost connection: You are not whitelisted on this server!
-[20:17:17] [Server thread/INFO]: Made Panzi01 a server operator
-[20:17:23] [Server thread/INFO]: Made Makit0oo a server operator
-[20:17:33] [User Authenticator #1/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[20:17:33] [Server thread/INFO]: Panzi01[/127.69.78.99:34543] logged in with entity id 394 at ([world]-442.69999998807907, 17.0, -679.3917289412591)
-[20:17:33] [Craft Scheduler Thread - 19 - AuthMe/INFO]: [AuthMe] Panzi01 logged in 127.69.78.99
-[20:18:25] [Server thread/INFO]: Panzi01 issued server command: /tp Herobrine
-[20:18:38] [Server thread/INFO]: [CombatLogX] Using non-NMS Paper EntityHandler
-[20:19:20] [Server thread/INFO]: Panzi01 issued server command: /gamemode 1
-[20:19:27] [Server thread/INFO]: v783 issued server command: /alts fabini_
-[20:19:33] [Server thread/INFO]: v783 issued server command: /vanish
-[20:19:35] [Server thread/INFO]: Panzi01 issued server command: /v
-[20:19:38] [Async Chat Thread - #1/INFO]: [Not Secure] <Herobrine> asd
-[20:19:39] [Server thread/INFO]: Panzi01 issued server command: /v
-[20:19:44] [Server thread/INFO]: Panzi01 issued server command: /v
-[20:19:46] [Server thread/INFO]: Panzi01 issued server command: /v
-[20:19:49] [Server thread/INFO]: v783 issued server command: /vanish
-[20:19:50] [Server thread/INFO]: v783 issued server command: /vanish
-[20:19:52] [Server thread/INFO]: v783 issued server command: /vanish
-[20:19:53] [Server thread/INFO]: v783 issued server command: /vanish
-[20:20:32] [Server thread/INFO]: Panzi01 issued server command: /tp end
-[20:20:40] [Server thread/INFO]: Panzi01 issued server command: /tp Panzi01
-[20:20:43] [Server thread/INFO]: Panzi01 issued server command: /tp v783
-[20:20:45] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
-[20:20:46] [Server thread/INFO]: Panzi01 issued server command: /
-[20:20:47] [Server thread/INFO]: Panzi01 issued server command: /tp v783
-[20:20:47] [Server thread/INFO]: Panzi01 has made the advancement [Eye Spy]
-[20:21:03] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[20:21:03] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[20:21:04] [Server thread/INFO]: Panzi01 has made the advancement [The End?]
-[20:23:45] [Server thread/INFO]: v783 issued server command: /give v783 minecraft:barrier}
-[20:23:46] [Server thread/INFO]: v783 issued server command: /give v783 minecraft:barrier
-[20:25:17] [Server thread/INFO]: v783 issued server command: /gamemode survival
-[20:25:36] [Server thread/INFO]: v783 issued server command: /gamemode creative
-[20:25:55] [Server thread/INFO]: Panzi01 issued server command: /tp v783
-[20:29:08] [Server thread/INFO]: v783 issued server command: /gamemode survival
-[20:29:47] [Server thread/INFO]: v783 issued server command: /gamemode creative
-[20:31:37] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:37] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:38] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:38] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:39] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:39] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:40] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:40] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:41] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:41] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:42] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:42] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:46] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:46] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:47] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:47] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:48] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:48] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:49] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:49] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:50] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:50] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:51] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:51] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:52] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[20:31:52] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[20:31:55] [Server thread/INFO]: Panzi01 has made the advancement [Hot Stuff]
-[20:32:01] [Server thread/INFO]: Panzi01 issued server command: /tp v783
-[20:38:22] [Server thread/INFO]: Panzi01 issued server command: /tp v783
-[20:47:53] [Server thread/INFO]: Panzi01 issued server command: /p h 
-[20:53:04] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[20:53:52] [Server thread/INFO]: Panzi01 issued server command: /tp v783
-[20:57:31] [Server thread/INFO]: Panzi01 has reached the goal [Hired Help]
-[20:57:44] [Server thread/INFO]: Panzi01 issued server command: /tp v783
-[21:01:12] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[21:05:57] [Server thread/INFO]: Panzi01 issued server command: /tp v783
-[21:11:22] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[21:12:45] [Server thread/INFO]: Panzi01 issued server command: /enchant sharpness 100000
-[21:12:47] [Server thread/INFO]: Panzi01 issued server command: /enchant sharpness 1000
-[21:12:50] [Server thread/INFO]: Panzi01 issued server command: /enchant sharpness 10
-[21:12:51] [Server thread/INFO]: Panzi01 issued server command: /enchant sharpness
-[21:12:56] [Server thread/INFO]: Panzi01 issued server command: /enchant sharpness 10
-[21:12:59] [Server thread/INFO]: Panzi01 issued server command: /enchant sharpness 5
-[21:15:35] [Server thread/INFO]: v783 issued server command: /back
-[21:16:11] [Server thread/INFO]: v783 issued server command: /back
-[21:16:12] [Server thread/INFO]: v783 issued server command: /back
-[21:16:13] [Server thread/INFO]: v783 issued server command: /back
-[21:16:14] [Server thread/INFO]: v783 issued server command: /back
-[21:16:16] [Server thread/INFO]: v783 issued server command: /back
-[21:16:19] [Server thread/INFO]: v783 issued server command: /back Panzi01
-[21:16:21] [Server thread/INFO]: v783 issued server command: /back Panzi01
-[21:16:24] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[21:16:38] [Server thread/INFO]: v783 issued server command: /whitelist add Panzi01
-[21:16:38] [Server thread/INFO]: [v783: Added Panzi01 to the whitelist]
-[21:17:03] [Server thread/INFO]: v783 issued server command: /whitelist add Makit0oo
-[21:17:03] [Server thread/INFO]: [v783: Added Makit0oo to the whitelist]
-[21:17:56] [Server thread/INFO]: v783 issued server command: /tp -454 64 -182
-[21:18:02] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[21:18:14] [Server thread/INFO]: Panzi01 issued server command: /locate biome #minecraft:allows_surface_slime_spawns
-[21:18:17] [Server thread/INFO]: Panzi01 issued server command: /locate biome #minecraft:allows_surface_slime_spawns
-[21:18:28] [Server thread/INFO]: Panzi01 issued server command: /locate biome
-[21:18:39] [Server thread/INFO]: Panzi01 issued server command: /locate biome #minecraft:has_structure/end_city
-[21:18:39] [Server thread/INFO]: Locating element #minecraft:has_structure/end_city (minecraft:end_highlands) took 15 ms
-[21:18:41] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:41] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:42] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:42] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:43] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:43] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:46] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:46] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:46] [Server thread/INFO]: Panzi01 issued server command: /tp @s 764 121 733
-[21:18:47] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:47] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:48] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:48] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:52] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:52] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:57] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:57] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:18:58] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[21:18:58] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[21:19:02] [Server thread/INFO]: Panzi01 issued server command: /locate biome #minecraft:has_structure/buried_treasure
+[22:29:07] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
+[22:29:07] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
+[22:29:07] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[22:29:07] [Server thread/INFO]: [AuthMe] Checking for updates...
+[22:29:07] [Server thread/INFO]: [PluginPortal] Enabling PluginPortal v2.0.4
+[22:29:08] [Server thread/INFO]: [PluginPortal] SYSTEM LOAD_PLUGINS Loaded 2 plugins from local cache
+[22:29:08] [Server thread/INFO]: Running delayed init tasks
+[22:29:08] [Server thread/INFO]: [CombatLogX] Successfully enabled 0 late-load expansion.
+[22:29:08] [Server thread/INFO]: Done (11.718s)! For help, type "help"
+[22:29:08] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:29:08] [Server thread/INFO]: Timings Reset
+[22:29:08] [Craft Scheduler Thread - 4 - HeadDatabase/INFO]: [HeadDatabase] Trying to download heads [Try 1/10]
+[22:29:08] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] You are running the latest version.
+[22:29:08] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[22:29:08] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
+[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Found a possible update for plugin 'BlueSlimeCore'.
+[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Local Version: 2.9.6.431
+[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Remote Version: 2.9.6.444
+[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Download Link: https://hangar.papermc.io/SirBlobman/BlueSlimeCore
+[22:29:09] [User Authenticator #0/INFO]: UUID of player JzYq is afc0ef30-7ea8-3d46-8f83-24c2ce8af24e
+[22:29:10] [Server thread/INFO]: JzYq[/127.51.33.129:55161] logged in with entity id 108 at ([world]-440.70602777196194, 17.0, -679.902134052641)
+[22:29:10] [Craft Scheduler Thread - 1 - AuthMe/INFO]: [AuthMe] JzYq logged in 127.51.33.129
+[22:29:12] [Craft Scheduler Thread - 4 - HeadDatabase/INFO]: [HeadDatabase] Updated local database
+[22:29:17] [Server thread/INFO]: JzYq lost connection: Disconnected
+[22:29:23] [User Authenticator #0/INFO]: UUID of player v783 is 39f69b13-e587-344f-b79f-eb9654de9c83
+[22:29:23] [Server thread/INFO]: v783[/127.51.33.129:32769] logged in with entity id 469 at ([world]-519.2767994964556, 71.16450435152352, 1257.7674538712185)
+[22:29:23] [Craft Scheduler Thread - 1 - AuthMe/INFO]: [AuthMe] v783 logged in 127.51.33.129
+[22:29:25] [User Authenticator #0/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
+[22:29:25] [Server thread/INFO]: Panzi01[/127.69.78.99:43633] logged in with entity id 655 at ([world]-509.30000001192093, 68.9375, 1256.5136457272765)
+[22:29:25] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] Panzi01 logged in 127.69.78.99
+[22:30:00] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
+[22:30:40] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
+[22:30:43] [Server thread/INFO]: v783 issued server command: /tp Panzi01
+[22:30:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Herobrine> ya esta Panzi01
+[22:30:50] [Async Chat Thread - #1/INFO]: [Not Secure] <Panzi01> tp
+[22:30:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Panzi01> altq
+[22:30:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Herobrine> Inicia
+[22:30:53] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
+[22:30:57] [Server thread/INFO]: v783 issued server command: /tp Panzi01 v783
+[22:31:04] [Server thread/INFO]: v783 issued server command: /vanish
+[22:31:07] [Server thread/INFO]: v783 issued server command: /vanish
+[22:31:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Panzi01> mis cosas idiota
+[22:31:12] [Async Chat Thread - #1/INFO]: [Not Secure] <Herobrine> tiene que entrar bq
+[22:32:26] [User Authenticator #1/INFO]: UUID of player zGander is 37aef692-f3a8-3534-aa3f-bba5958378fb
+[22:32:26] [Server thread/INFO]: zGander[/127.55.103.64:36915] logged in with entity id 1289 at ([world]-34981.99833192194, 99.0, -25306.529266175075)
+[22:32:26] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] zGander logged in 127.55.103.64
+[22:32:32] [Async Chat Thread - #2/INFO]: [Not Secure] <zGander> ola bb
+[22:32:32] [User Authenticator #1/INFO]: UUID of player abdiel2707 is 678ca31f-d5ff-3b36-a60e-04feae1603f9
+[22:32:32] [Server thread/INFO]: abdiel2707[/127.37.165.151:57621] logged in with entity id 1552 at ([world]163.6900995923848, -39.49181682745754, -103.09757112543194)
+[22:32:43] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] abdiel2707 logged in 127.37.165.151
+[22:33:06] [User Authenticator #1/INFO]: UUID of player DAVID_PY is d23e8853-c241-3acd-8959-bdfa9cecc57a
+[22:33:06] [Server thread/INFO]: DAVID_PY[/127.63.115.110:45039] logged in with entity id 1857 at ([world]-34404.69999998808, 61.0, -26286.30000001192)
+[22:33:10] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
+[22:33:12] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] DAVID_PY logged in 127.63.115.110
+[22:33:16] [Server thread/INFO]: v783 issued server command: /tp Panzi01
+[22:33:37] [Server thread/INFO]: [CombatLogX] Using non-NMS Paper EntityHandler
+[22:34:06] [Server thread/INFO]: abdiel2707 was slain by Zombie
+[22:34:30] [Server thread/INFO]: v783 issued server command: /tp Panzi01 v783
+[22:34:51] [Server thread/INFO]: v783 issued server command: /msg Panzi01 oe
+[22:34:54] [Server thread/INFO]: Panzi01 issued server command: /r dime
+[22:34:55] [Server thread/INFO]: v783 issued server command: /r peudes ver mis bloques?
+[22:34:56] [User Authenticator #2/INFO]: UUID of player scorpion741 is 02279d4c-9384-3335-978c-a3c6bfcfc96d
+[22:34:56] [Server thread/INFO]: scorpion741[/127.48.192.30:33575] logged in with entity id 3946 at ([world]345.5748247151834, 109.0, 1459.3916782254157)
+[22:35:00] [Server thread/INFO]: v783 issued server command: /r en mi mano
+[22:35:01] [Server thread/INFO]: Panzi01 issued server command: /r no
+[22:35:03] [Craft Scheduler Thread - 18 - AuthMe/INFO]: [AuthMe] scorpion741 logged in 127.48.192.30
+[22:35:08] [Async Chat Thread - #4/INFO]: [Not Secure] <scorpion741> quien team
+[22:35:08] [Server thread/INFO]: v783 issued server command: /r ?
+[22:35:14] [Async Chat Thread - #4/INFO]: [Not Secure] <abdiel2707> busco equipo
+[22:35:16] [Async Chat Thread - #5/INFO]: [Not Secure] <DAVID_PY> tu tia
+[22:35:17] [Async Chat Thread - #5/INFO]: [Not Secure] <Panzi01> no
+[22:35:24] [Async Chat Thread - #4/INFO]: [Not Secure] <scorpion741> shh _3.14
+[22:35:33] [Async Chat Thread - #4/INFO]: [Not Secure] <zGander> scorpion741 quiere venir conmigo bb
+[22:35:47] [Async Chat Thread - #5/INFO]: [Not Secure] <scorpion741> si tienes comida si :V
+[22:35:48] [Server thread/INFO]: v783 issued server command: /tp @a v783
+[22:36:07] [Async Chat Thread - #5/INFO]: [Not Secure] <zGander> ya si estas dispuesto a recorrer 30.000 bloques te dupeo mi armor
+[22:36:29] [Async Chat Thread - #6/INFO]: [Not Secure] <zGander> o paasame tus coordenadas y te busco bb
+[22:36:37] [Async Chat Thread - #4/INFO]: [Not Secure] <Panzi01> zGander eres no premium???
+[22:36:39] [Async Chat Thread - #4/INFO]: [Not Secure] <scorpion741> 0 /67 / 0
+[22:36:49] [Async Chat Thread - #4/INFO]: [Not Secure] <zGander> si :C
+[22:36:58] [Async Chat Thread - #6/INFO]: [Not Secure] <zGander> comprame bb
+[22:37:13] [Server thread/INFO]: scorpion741 issued server command: /msg zGander 205 /106/1477
+[22:37:20] [Server thread/INFO]: scorpion741 issued server command: /me gnete
+[22:37:25] [Server thread/INFO]: scorpion741 issued server command: /me asd
+[22:37:26] [Server thread/INFO]: zGander issued server command: /r voy pa ya
+[22:37:28] [Async Chat Thread - #6/INFO]: [Not Secure] <Panzi01> t
+[22:37:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Herobrine> &4 asd
+[22:37:30] [Async Chat Thread - #6/INFO]: [Not Secure] <Herobrine> a no
+[22:37:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Panzi01> &4 rad
+[22:37:37] [Async Chat Thread - #6/INFO]: [Not Secure] <DAVID_PY> a
+[22:37:40] [Server thread/INFO]: scorpion741 issued server command: /me que hacen estos xd
+[22:37:40] [Async Chat Thread - #7/INFO]: [Not Secure] <DAVID_PY> &4asd
+[22:37:43] [Server thread/INFO]: scorpion741 issued server command: /me mas monos
+[22:37:45] [Async Chat Thread - #4/INFO]: [Not Secure] <zGander> XD
+[22:38:00] [Server thread/INFO]: scorpion741 issued server command: /me poniendo &4 xdsldad
+[22:38:06] [Async Chat Thread - #6/INFO]: [Not Secure] <Herobrine> &4 asd
+[22:38:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Herobrine> chistosito
+[22:38:14] [Server thread/INFO]: zGander issued server command: /r mentira ya no voy XD -34810/ 96 / -25283 XD
+[22:38:15] [Server thread/INFO]: abdiel2707 fell from a high place
+[22:38:27] [Server thread/INFO]: scorpion741 issued server command: /msg zGander asi eres?
+[22:38:32] [Server thread/INFO]: scorpion741 issued server command: /msg zGander ya ps voy pa lla
+[22:38:35] [Server thread/INFO]: Panzi01 lost connection: Disconnected
+[22:38:38] [Server thread/INFO]: zGander issued server command: /r XD
+[22:38:44] [Async Chat Thread - #7/INFO]: [Not Secure] <zGander> desde el end te giveo

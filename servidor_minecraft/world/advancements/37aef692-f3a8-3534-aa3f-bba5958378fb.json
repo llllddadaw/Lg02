@@ -2687,15 +2687,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_emerald_block": "2024-11-28 02:10:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-11-28 02:03:57 +0000"
+      "has_wood_slab": "2024-11-28 02:00:53 +0000"
     },
     "done": true
   },
@@ -2705,15 +2699,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_wood_slab": "2024-11-28 02:00:53 +0000"
+      "has_paper": "2024-11-28 02:03:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_emerald": "2024-11-28 02:07:55 +0000"
+      "has_book": "2024-11-28 02:03:57 +0000"
     },
     "done": true
   },
@@ -2729,15 +2723,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-11-28 02:03:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-28 02:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-11-28 02:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-11-28 02:10:11 +0000"
     },
     "done": true
   },

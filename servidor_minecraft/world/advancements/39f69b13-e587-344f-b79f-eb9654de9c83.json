@@ -1541,6 +1541,24 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-11-28 20:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-11-28 20:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-11-28 20:21:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2024-11-28 20:43:30 +0000"
@@ -1565,27 +1583,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-11-28 20:21:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/summon_iron_golem": {
-    "criteria": {
-      "summoned_golem": "2024-11-28 20:57:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2024-11-28 20:43:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2024-11-28 20:21:03 +0000"
     },
     "done": true
   },
@@ -1595,9 +1595,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "entered_end": "2024-11-28 20:21:03 +0000"
+      "summoned_golem": "2024-11-28 20:57:31 +0000"
     },
     "done": true
   },
