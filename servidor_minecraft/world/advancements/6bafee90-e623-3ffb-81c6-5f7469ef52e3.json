@@ -23,6 +23,7 @@
       "minecraft:forest": "2024-11-24 22:53:32 +0000",
       "minecraft:lush_caves": "2024-11-25 01:17:05 +0000",
       "minecraft:desert": "2024-11-27 04:07:07 +0000",
+      "minecraft:deep_frozen_ocean": "2024-11-29 22:47:57 +0000",
       "minecraft:jungle": "2024-11-24 22:55:59 +0000",
       "minecraft:warm_ocean": "2024-11-27 04:02:53 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-26 23:06:28 +0000",
@@ -2541,6 +2542,12 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2024-11-28 02:02:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-11-29 22:47:57 +0000"
     },
     "done": true
   },

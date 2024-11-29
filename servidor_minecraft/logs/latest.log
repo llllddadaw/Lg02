@@ -208,3 +208,84 @@
 [22:38:35] [Server thread/INFO]: Panzi01 lost connection: Disconnected
 [22:38:38] [Server thread/INFO]: zGander issued server command: /r XD
 [22:38:44] [Async Chat Thread - #7/INFO]: [Not Secure] <zGander> desde el end te giveo
+[22:38:57] [Server thread/INFO]: zGander issued server command: /r cuando nos metan al end te la paso las cosas
+[22:39:12] [Server thread/INFO]: scorpion741 fell from a high place
+[22:40:25] [User Authenticator #3/INFO]: UUID of player Yesvy is 6bafee90-e623-3ffb-81c6-5f7469ef52e3
+[22:40:25] [Server thread/INFO]: Yesvy[/127.124.98.179:49777] logged in with entity id 8926 at ([world]-200.06194934519232, 63.0, -397.66009338095245)
+[22:40:25] [Craft Scheduler Thread - 23 - AuthMe/INFO]: [AuthMe] Yesvy logged in 127.124.98.179
+[22:40:52] [User Authenticator #3/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
+[22:40:52] [Server thread/INFO]: Panzi01[/127.69.78.99:37691] logged in with entity id 9600 at ([world]5010.686597653141, 2.0, -6307.061860671768)
+[22:40:52] [Craft Scheduler Thread - 24 - AuthMe/INFO]: [AuthMe] Panzi01 logged in 127.69.78.99
+[22:41:05] [Server thread/INFO]: v783 issued server command: /tp @a
+[22:41:07] [Server thread/INFO]: v783 issued server command: /tp @a v783
+[22:41:10] [Server thread/INFO]: v783 issued server command: /tp @a 4993 -6 -6308
+[22:41:10] [Server thread/INFO]: Yesvy lost connection: Disconnected
+[22:41:54] [Server thread/INFO]: v783 issued server command: /tp Panzi01 v783
+[22:42:02] [User Authenticator #4/INFO]: UUID of player Promega_DX is a6aba029-a081-3aeb-94d9-84f756a9715a
+[22:42:02] [Server thread/INFO]: Promega_DX[/127.150.120.86:45799] logged in with entity id 10825 at ([world]3.5, 133.0, -4.5)
+[22:42:11] [User Authenticator #4/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
+[22:42:12] [Server thread/INFO]: ManuEV[/127.106.94.89:60189] logged in with entity id 10905 at ([world]-1084.699999988079, 99.5625, -1510.23680581954)
+[22:42:22] [Craft Scheduler Thread - 29 - AuthMe/INFO]: [AuthMe] ManuEV logged in 127.106.94.89
+[22:42:32] [Server thread/INFO]: Promega_DX lost connection: Disconnected
+[22:42:35] [User Authenticator #4/INFO]: UUID of player Promega_DX is a6aba029-a081-3aeb-94d9-84f756a9715a
+[22:42:36] [Server thread/INFO]: Promega_DX[/127.150.120.86:52895] logged in with entity id 11343 at ([world]3.5, 133.0, -4.5)
+[22:43:26] [User Authenticator #4/INFO]: UUID of player Yesvy is 6bafee90-e623-3ffb-81c6-5f7469ef52e3
+[22:43:26] [Server thread/INFO]: Yesvy[/127.124.98.179:54287] logged in with entity id 12014 at ([world]-255.37074763150488, 68.0, -338.81553668585894)
+[22:43:26] [Craft Scheduler Thread - 34 - AuthMe/INFO]: [AuthMe] Yesvy logged in 127.124.98.179
+[22:44:22] [Server thread/INFO]: [AuthMe] Promega_DX registered 127.150.120.86
+[22:44:22] [Craft Scheduler Thread - 39 - AuthMe/INFO]: [AuthMe] Promega_DX logged in 127.150.120.86
+[22:44:24] [Async Chat Thread - #8/INFO]: [Not Secure] <Promega_DX> aaa
+[22:44:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Panzi01> pudiste?
+[22:44:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Promega_DX> yea
+[22:44:45] [Async Chat Thread - #8/INFO]: [Not Secure] <Promega_DX> tp si o q
+[22:45:26] [Server thread/INFO]: abdiel2707 lost connection: Disconnected
+[22:46:09] [Async Chat Thread - #10/INFO]: [Not Secure] <zGander> dijo que no puede ahorita
+[22:46:13] [Async Chat Thread - #11/INFO]: [Not Secure] <zGander> va entrar mas al rato
+[22:46:16] [Server thread/INFO]: Promega_DX has made the advancement [Stone Age]
+[22:47:34] [User Authenticator #5/INFO]: UUID of player abdiel2707 is 678ca31f-d5ff-3b36-a60e-04feae1603f9
+[22:47:34] [Server thread/INFO]: abdiel2707[/127.37.165.151:34427] logged in with entity id 18725 at ([world]-21.30000001192093, 115.0, 57.69999998807907)
+[22:47:34] [Craft Scheduler Thread - 44 - AuthMe/INFO]: [AuthMe] abdiel2707 logged in 127.37.165.151
+[22:47:49] [Server thread/INFO]: abdiel2707 lost connection: Disconnected
+[22:47:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Panzi01> tpall
+[22:47:57] [Server thread/INFO]: v783 issued server command: /tpall
+[22:47:57] [Server thread/INFO]: Yesvy has made the advancement [Eye Spy]
+[22:47:57] [Server thread/INFO]: DAVID_PY has made the advancement [Eye Spy]
+[22:47:57] [Server thread/INFO]: ManuEV has made the advancement [Eye Spy]
+[22:47:58] [Server thread/INFO]: scorpion741 has made the advancement [Eye Spy]
+[22:47:58] [Server thread/INFO]: Promega_DX has made the advancement [Eye Spy]
+[22:48:01] [Async Chat Thread - #12/INFO]: [Not Secure] <DAVID_PY> pendejo
+[22:48:13] [Async Chat Thread - #14/INFO]: [Not Secure] <zGander> dame un marco oe
+[22:48:13] [Async Chat Thread - #12/INFO]: [Not Secure] <ManuEV> Te amo scorpion741
+[22:48:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Herobrine> veo una muerte por un estupido y ban
+[22:48:39] [Async Chat Thread - #12/INFO]: [Not Secure] <ManuEV> GRR DAME FLECHA
+[22:48:48] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:48] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:49] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:49] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:50] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:50] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:51] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:51] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:52] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:52] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:54] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:54] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:54] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:54] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:55] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:55] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:56] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:56] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:56] [Server thread/INFO]: Promega_DX was struck by lightning
+[22:48:56] [Server thread/INFO]: v783 issued server command: /vanish
+[22:48:57] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[22:48:57] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[22:48:57] [Server thread/INFO]: scorpion741 was struck by lightning
+[22:48:58] [Server thread/INFO]: v783 issued server command: /vanish
+[22:48:59] [Server thread/INFO]: v783 issued server command: /vanish
+[22:49:01] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> XD
+[22:49:04] [Server thread/INFO]: v783 issued server command: /vanish
+[22:49:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Promega_DX> XDD
+[22:49:09] [Async Chat Thread - #13/INFO]: [Not Secure] <ManuEV> Saquen a ese
+[22:49:13] [Async Chat Thread - #12/INFO]: [Not Secure] <scorpion741> me magno mataron
+[22:49:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Promega_DX> MIS 34 de madera

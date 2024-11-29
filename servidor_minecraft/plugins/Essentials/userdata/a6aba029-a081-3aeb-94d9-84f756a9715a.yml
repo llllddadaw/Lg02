@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.150.120.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732920152110
+  login: 1732920156047
+money: '0'
+last-account-name: Promega_DX
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: 3.5
+  y: 133.0
+  z: -4.5
+  yaw: 31.67536735534668
+  pitch: 52.7036247253418
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: 12.466461915561059
+  y: 130.0
+  z: 0.30000001192092896
+  yaw: -99.2244873046875
+  pitch: 2.7505300045013428
