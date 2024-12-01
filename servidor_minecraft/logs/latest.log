@@ -1,1061 +1,236 @@
-[22:28:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:28:56] [ServerMain/INFO]: Loaded 7 recipes
-[22:28:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[22:28:57] [Server thread/INFO]: Loading properties
-[22:28:57] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[22:28:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:28:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:28:57] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[00:10:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:10:03] [ServerMain/INFO]: Loaded 7 recipes
+[00:10:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:10:04] [Server thread/INFO]: Loading properties
+[00:10:04] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[00:10:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:10:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:10:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[22:28:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[22:28:58] [Server thread/INFO]: Default game type: SURVIVAL
-[22:28:58] [Server thread/INFO]: Generating keypair
-[22:28:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:28:58] [Server thread/INFO]: Using epoll channel type
-[22:28:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:28:58] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[22:28:58] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[22:29:02] [Server thread/WARN]: Legacy plugin FrameDupe v1.6 does not specify an api-version.
-[22:29:02] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
-[22:29:02] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.20
-[22:29:02] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.431
-[22:29:02] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.5.0.0.1242
-[22:29:02] [Server thread/INFO]: [CombatLogX] Configuration version is recent, no major changes necessary.
-[22:29:02] [Server thread/INFO]: [CombatLogX] Loading expansions...
-[22:29:02] [Server thread/INFO]: [CombatLogX] Loading expansion 'SuperVanish Compatibility v17.1'...
-[22:29:02] [Server thread/INFO]: [CombatLogX]  
-[22:29:02] [Server thread/INFO]: [CombatLogX] Successfully loaded 1 expansion.
-[22:29:02] [Server thread/INFO]: [FrameDupe] Loading server plugin FrameDupe v1.6
-[22:29:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[22:29:02] [Server thread/INFO]: [HeadDatabase] Loading server plugin HeadDatabase v1.2.0
-[22:29:02] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.7.0-FORK-b53
-[22:29:02] [Server thread/INFO]: [PluginPortal] Loading server plugin PluginPortal v2.0.4
-[22:29:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:29:02] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.431
-[22:29:02] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
-[22:29:02] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
-[22:29:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[22:29:02] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[22:29:02] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[22:29:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[22:29:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:29:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:29:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:29:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:29:03] [Server thread/INFO]: Preparing level "world"
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[22:29:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[22:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:29:03] [Server thread/INFO]: Time elapsed: 223 ms
-[22:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:29:03] [Server thread/INFO]: Time elapsed: 103 ms
-[22:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:29:04] [Server thread/INFO]: Time elapsed: 51 ms
-[22:29:04] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
-[22:29:04] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[22:29:04] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[22:29:04] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[22:29:04] [Server thread/INFO]: [Essentials] Using locale en
-[22:29:04] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[22:29:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[22:29:04] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
-[22:29:04] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
-[22:29:05] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.20
-[22:29:05] [Server thread/INFO]: [SuperVanish] Please install ProtocolLib to be able to use all SuperVanish features: https://www.spigotmc.org/resources/protocollib.1997/
-[22:29:05] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
-[22:29:05] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.5.0.0.1242
-[22:29:05] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
-[22:29:05] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
-[22:29:05] [Server thread/INFO]: CombatLogX was loaded successfully.
-[22:29:06] [Server thread/INFO]: [CombatLogX] Enabling expansions...
-[22:29:06] [Server thread/INFO]: [CombatLogX] Enabling expansion 'SuperVanish Compatibility v17.1'...
-[22:29:06] [Server thread/WARN]: [CombatLogX] [SuperVanish Compatibility] A dependency is not installed on the server: PremiumVanish
-[22:29:06] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Missing PremiumVanish, checking for regular SuperVanish...
-[22:29:06] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Successfully found a dependency: SuperVanish v6.2.20
-[22:29:06] [Server thread/INFO]: [CombatLogX]  
-[22:29:06] [Server thread/INFO]: [CombatLogX] Successfully enabled 1 expansion.
-[22:29:06] [Server thread/INFO]: CombatLogX was enabled successfully.
-[22:29:06] [Server thread/INFO]: [FrameDupe] Enabling FrameDupe v1.6*
-[22:29:06] [Server thread/INFO]: FrameDupe by MrRafter loaded successfully
-[22:29:06] [Server thread/INFO]: [HeadDatabase] Enabling HeadDatabase v1.2.0
-[22:29:06] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
-[22:29:06] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
-[22:29:07] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[22:29:07] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[22:29:07] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
-[22:29:07] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/Lg02/servidor_minecraft/plugins/Essentials/spawn.yml'
-[22:29:07] [Server thread/INFO]: [AuthMe] 
+[00:10:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[00:10:05] [Server thread/INFO]: Default game type: SURVIVAL
+[00:10:05] [Server thread/INFO]: Generating keypair
+[00:10:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:10:05] [Server thread/INFO]: Using epoll channel type
+[00:10:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:10:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:10:06] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:10:10] [Server thread/WARN]: Legacy plugin FrameDupe v1.6 does not specify an api-version.
+[00:10:10] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[00:10:11] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[00:10:11] [Server thread/INFO]: [LibsDisguises] Loading server plugin LibsDisguises v10.0.44
+[00:10:11] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.20
+[00:10:11] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.431
+[00:10:11] [Server thread/INFO]: [NoteBlockAPI] Loading server plugin NoteBlockAPI v1.6.3
+[00:10:11] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.5.0.0.1242
+[00:10:11] [Server thread/INFO]: [CombatLogX] Configuration version is recent, no major changes necessary.
+[00:10:11] [Server thread/INFO]: [CombatLogX] Loading expansions...
+[00:10:11] [Server thread/INFO]: [CombatLogX] Loading expansion 'SuperVanish Compatibility v17.1'...
+[00:10:11] [Server thread/INFO]: [CombatLogX]  
+[00:10:11] [Server thread/INFO]: [CombatLogX] Successfully loaded 1 expansion.
+[00:10:11] [Server thread/INFO]: [FrameDupe] Loading server plugin FrameDupe v1.6
+[00:10:11] [Server thread/INFO]: [Herobrine] Loading server plugin Herobrine v2.5.0
+[00:10:11] [Server thread/INFO]: [TrollV4] Loading server plugin TrollV4 v4.5.29
+[00:10:11] [Server thread/INFO]: [ProAntiTab] Loading server plugin ProAntiTab v1.9.0
+[00:10:11] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[00:10:11] [Server thread/INFO]: [HeadDatabase] Loading server plugin HeadDatabase v1.2.0
+[00:10:11] [Server thread/INFO]: [ClansLite] Loading server plugin ClansLite v1.5.4
+[00:10:12] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:12] [Server thread/INFO]: ClansLite: A supported Minecraft version has been detected!
+[00:10:12] [Server thread/INFO]: ClansLite: Your server version is: git-Paper-196 (MC: 1.20.1)
+[00:10:12] [Server thread/INFO]: ClansLite: Continuing plugin startup
+[00:10:12] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:12] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:12] [Server thread/INFO]: ClansLite: ClansLite-API has been registered successfully!
+[00:10:12] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:12] [Server thread/INFO]: [AuthMe] Loading server plugin AuthMe v5.7.0-FORK-b53
+[00:10:12] [Server thread/INFO]: [PluginPortal] Loading server plugin PluginPortal v2.0.4
+[00:10:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:10:12] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[00:10:12] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.431
+[00:10:12] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
+[00:10:12] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
+[00:10:12] [Server thread/INFO]: [Herobrine] Enabling Herobrine v2.5.0
+[00:10:12] [Server thread/ERROR]: No data fixer registered for mzombie
+[00:10:12] [Server thread/ERROR]: No data fixer registered for mskeleton
+[00:10:12] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[00:10:12] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[00:10:13] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[00:10:13] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:10:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:10:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:10:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:10:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:10:13] [Server thread/INFO]: Preparing level "world"
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:10:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:10:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:10:14] [Server thread/INFO]: Time elapsed: 239 ms
+[00:10:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:10:14] [Server thread/INFO]: Time elapsed: 79 ms
+[00:10:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:10:14] [Server thread/INFO]: Time elapsed: 41 ms
+[00:10:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[00:10:15] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:10:15] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:10:15] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[00:10:15] [Server thread/INFO]: [Essentials] Using locale en
+[00:10:16] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:10:16] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:10:16] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[00:10:16] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[00:10:16] [Server thread/INFO]: [LibsDisguises] Enabling LibsDisguises v10.0.44
+[00:10:16] [Server thread/INFO]: [LibsDisguises] File Name: LibsDisguises.jar
+[00:10:16] [Server thread/INFO]: [LibsDisguises] Discovered nms version: (Package: v1_20_R1) (LD: v1_20_R1) (MC: 1.20.1)
+[00:10:16] [Server thread/INFO]: [LibsDisguises] Jenkins Build: #1314
+[00:10:16] [Server thread/INFO]: [LibsDisguises] Build Date: 10/04/2024 02:12
+[00:10:16] [Server thread/INFO]: [LibsDisguises] If you own the plugin, place the premium jar downloaded from https://www.spigotmc.org/resources/libs-disguises.32453/ in plugins/LibsDisguises/
+[00:10:16] [Server thread/INFO]: [LibsDisguises] You are running the free version, commands limited to non-players and operators. (Console, Command Blocks, Admins)
+[00:10:16] [Server thread/INFO]: [LibsDisguises] Config 'TallSelfDisguises' is set to 'false', LD will hide oversized disguises from self disguise. https://www.spigotmc.org/wiki/lib-s-disguises-faq/#tall-disguises-self-disguises
+[00:10:19] [Server thread/INFO]: [LibsDisguises] Loaded custom disguise libraryaddict
+[00:10:19] [Server thread/INFO]: [LibsDisguises] Loaded 1 custom disguise
+[00:10:19] [Server thread/INFO]: [LibsDisguises] Config is up to date!
+[00:10:19] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.20
+[00:10:19] [Server thread/INFO]: [SuperVanish] Hooked into PaperSpigot for server list ping support
+[00:10:19] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[00:10:19] [Server thread/INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.6.3
+[00:10:19] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.5.0.0.1242
+[00:10:20] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
+[00:10:20] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
+[00:10:20] [Server thread/INFO]: CombatLogX was loaded successfully.
+[00:10:20] [Server thread/INFO]: [CombatLogX] Enabling expansions...
+[00:10:20] [Server thread/INFO]: [CombatLogX] Enabling expansion 'SuperVanish Compatibility v17.1'...
+[00:10:20] [Server thread/WARN]: [CombatLogX] [SuperVanish Compatibility] A dependency is not installed on the server: PremiumVanish
+[00:10:20] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Missing PremiumVanish, checking for regular SuperVanish...
+[00:10:20] [Server thread/INFO]: [CombatLogX] [SuperVanish Compatibility] Successfully found a dependency: SuperVanish v6.2.20
+[00:10:20] [Server thread/INFO]: [CombatLogX]  
+[00:10:20] [Server thread/INFO]: [CombatLogX] Successfully enabled 1 expansion.
+[00:10:20] [Server thread/INFO]: CombatLogX was enabled successfully.
+[00:10:20] [Server thread/INFO]: [FrameDupe] Enabling FrameDupe v1.6*
+[00:10:20] [Server thread/INFO]: FrameDupe by MrRafter loaded successfully
+[00:10:20] [Server thread/INFO]: [TrollV4] Enabling TrollV4 v4.5.29
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Downloading Language: de_de
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Version comparing: de_de!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Language file de_de is up to date!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Downloading Language: en_us
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Version comparing: en_us!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Language file en_us is up to date!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Downloading Language: es_es
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Version comparing: es_es!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Language file es_es is up to date!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Downloading Language: id_id
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Version comparing: id_id!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Language file id_id is up to date!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Downloading Language: it_it
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Version comparing: it_it!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Language file it_it is up to date!
+[00:10:20] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Downloading Language: ru_ru
+[00:10:21] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Version comparing: ru_ru!
+[00:10:21] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Language file ru_ru is up to date!
+[00:10:21] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Downloading Language: zh_cn
+[00:10:21] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Version comparing: zh_cn!
+[00:10:21] [Server thread/INFO]: [de.presti.trollv4.config.language.LanguageService] Language file zh_cn is up to date!
+[00:10:21] [Server thread/INFO]: [TrollV4] -----------------------------------
+[00:10:21] [Server thread/INFO]: [TrollV4] TrollV4.5.29 by Presti
+[00:10:21] [Server thread/INFO]: [TrollV4] In case of errors please report:
+[00:10:21] [Server thread/INFO]: [TrollV4] Email: presti@presti.me
+[00:10:21] [Server thread/INFO]: [TrollV4] YouTube: Not Memerinoto
+[00:10:21] [Server thread/INFO]: [TrollV4] Otherwise have fun!
+[00:10:21] [Server thread/INFO]: [TrollV4] ------------------------------------
+[00:10:21] [Server thread/INFO]: [TrollV4] Plugin Version: 4.5.29
+[00:10:21] [Server thread/INFO]: [TrollV4] Server Version: 1.20.1
+[00:10:21] [Server thread/INFO]: [TrollV4] Server Software: PAPER
+[00:10:21] [Server thread/INFO]: [TrollV4] Community Surprise is disabled!
+[00:10:21] [Server thread/INFO]: [ProAntiTab] Enabling ProAntiTab v1.9.0
+[00:10:21] [Server thread/INFO]: [HeadDatabase] Enabling HeadDatabase v1.2.0
+[00:10:21] [Server thread/INFO]: [ClansLite] Enabling ClansLite v1.5.4
+[00:10:21] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:21] [Server thread/INFO]: ClansLite: Adventure Library hooked successfully!
+[00:10:21] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:21] [Server thread/INFO]: ClansLite: All clans loaded from clans.yml successfully!
+[00:10:21] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: ClansLite: All users loaded from usermap.yml successfully!
+[00:10:22] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: ClansLite: Global GUI system enabled!
+[00:10:22] [Server thread/INFO]: ClansLite: Chest protection system disabled!
+[00:10:22] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: ClansLite: PlaceholderAPI not found!
+[00:10:22] [Server thread/INFO]: ClansLite: External placeholders disabled!
+[00:10:22] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: ClansLite: FloodgateApi not found!
+[00:10:22] [Server thread/INFO]: ClansLite: Bedrock support may not function!
+[00:10:22] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: ClansLite: Plugin by: Loving11ish
+[00:10:22] [Server thread/INFO]: ClansLite: has been loaded successfully
+[00:10:22] [Server thread/INFO]: ClansLite: Plugin Version: 1.5.4
+[00:10:22] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: ClansLite: -------------------------------------------
+[00:10:22] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
+[00:10:22] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
+[00:10:23] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[00:10:23] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[00:10:23] [Server thread/INFO]: [AuthMe] Hooked successfully into Essentials
+[00:10:23] [Server thread/INFO]: [AuthMe] Essentials spawn file not found: '/workspaces/Lg02/servidor_minecraft/plugins/Essentials/spawn.yml'
+[00:10:24] [Server thread/INFO]: [AuthMe] 
     ___         __  __    __  ___   
    /   | __  __/ /_/ /_  /  |/  /__ 
   / /| |/ / / / __/ __ \/ /|_/ / _ \
  / ___ / /_/ / /_/ / / / /  / /  __/
 /_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
                                     
-[22:29:07] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
-[22:29:07] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
-[22:29:07] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
-[22:29:07] [Server thread/INFO]: [AuthMe] Checking for updates...
-[22:29:07] [Server thread/INFO]: [PluginPortal] Enabling PluginPortal v2.0.4
-[22:29:08] [Server thread/INFO]: [PluginPortal] SYSTEM LOAD_PLUGINS Loaded 2 plugins from local cache
-[22:29:08] [Server thread/INFO]: Running delayed init tasks
-[22:29:08] [Server thread/INFO]: [CombatLogX] Successfully enabled 0 late-load expansion.
-[22:29:08] [Server thread/INFO]: Done (11.718s)! For help, type "help"
-[22:29:08] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
-[22:29:08] [Server thread/INFO]: Timings Reset
-[22:29:08] [Craft Scheduler Thread - 4 - HeadDatabase/INFO]: [HeadDatabase] Trying to download heads [Try 1/10]
-[22:29:08] [Craft Scheduler Thread - 6 - AuthMe/INFO]: [AuthMe] You are running the latest version.
-[22:29:08] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core]  
-[22:29:08] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
-[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core]  
-[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Found a possible update for plugin 'BlueSlimeCore'.
-[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Local Version: 2.9.6.431
-[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Remote Version: 2.9.6.444
-[22:29:09] [Craft Scheduler Thread - 1 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Download Link: https://hangar.papermc.io/SirBlobman/BlueSlimeCore
-[22:29:09] [User Authenticator #0/INFO]: UUID of player JzYq is afc0ef30-7ea8-3d46-8f83-24c2ce8af24e
-[22:29:10] [Server thread/INFO]: JzYq[/127.51.33.129:55161] logged in with entity id 108 at ([world]-440.70602777196194, 17.0, -679.902134052641)
-[22:29:10] [Craft Scheduler Thread - 1 - AuthMe/INFO]: [AuthMe] JzYq logged in 127.51.33.129
-[22:29:12] [Craft Scheduler Thread - 4 - HeadDatabase/INFO]: [HeadDatabase] Updated local database
-[22:29:17] [Server thread/INFO]: JzYq lost connection: Disconnected
-[22:29:23] [User Authenticator #0/INFO]: UUID of player v783 is 39f69b13-e587-344f-b79f-eb9654de9c83
-[22:29:23] [Server thread/INFO]: v783[/127.51.33.129:32769] logged in with entity id 469 at ([world]-519.2767994964556, 71.16450435152352, 1257.7674538712185)
-[22:29:23] [Craft Scheduler Thread - 1 - AuthMe/INFO]: [AuthMe] v783 logged in 127.51.33.129
-[22:29:25] [User Authenticator #0/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[22:29:25] [Server thread/INFO]: Panzi01[/127.69.78.99:43633] logged in with entity id 655 at ([world]-509.30000001192093, 68.9375, 1256.5136457272765)
-[22:29:25] [Craft Scheduler Thread - 4 - AuthMe/INFO]: [AuthMe] Panzi01 logged in 127.69.78.99
-[22:30:00] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
-[22:30:40] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
-[22:30:43] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[22:30:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Herobrine> ya esta Panzi01
-[22:30:50] [Async Chat Thread - #1/INFO]: [Not Secure] <Panzi01> tp
-[22:30:51] [Async Chat Thread - #0/INFO]: [Not Secure] <Panzi01> altq
-[22:30:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Herobrine> Inicia
-[22:30:53] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
-[22:30:57] [Server thread/INFO]: v783 issued server command: /tp Panzi01 v783
-[22:31:04] [Server thread/INFO]: v783 issued server command: /vanish
-[22:31:07] [Server thread/INFO]: v783 issued server command: /vanish
-[22:31:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Panzi01> mis cosas idiota
-[22:31:12] [Async Chat Thread - #1/INFO]: [Not Secure] <Herobrine> tiene que entrar bq
-[22:32:26] [User Authenticator #1/INFO]: UUID of player zGander is 37aef692-f3a8-3534-aa3f-bba5958378fb
-[22:32:26] [Server thread/INFO]: zGander[/127.55.103.64:36915] logged in with entity id 1289 at ([world]-34981.99833192194, 99.0, -25306.529266175075)
-[22:32:26] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] zGander logged in 127.55.103.64
-[22:32:32] [Async Chat Thread - #2/INFO]: [Not Secure] <zGander> ola bb
-[22:32:32] [User Authenticator #1/INFO]: UUID of player abdiel2707 is 678ca31f-d5ff-3b36-a60e-04feae1603f9
-[22:32:32] [Server thread/INFO]: abdiel2707[/127.37.165.151:57621] logged in with entity id 1552 at ([world]163.6900995923848, -39.49181682745754, -103.09757112543194)
-[22:32:43] [Craft Scheduler Thread - 10 - AuthMe/INFO]: [AuthMe] abdiel2707 logged in 127.37.165.151
-[22:33:06] [User Authenticator #1/INFO]: UUID of player DAVID_PY is d23e8853-c241-3acd-8959-bdfa9cecc57a
-[22:33:06] [Server thread/INFO]: DAVID_PY[/127.63.115.110:45039] logged in with entity id 1857 at ([world]-34404.69999998808, 61.0, -26286.30000001192)
-[22:33:10] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
-[22:33:12] [Craft Scheduler Thread - 14 - AuthMe/INFO]: [AuthMe] DAVID_PY logged in 127.63.115.110
-[22:33:16] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[22:33:37] [Server thread/INFO]: [CombatLogX] Using non-NMS Paper EntityHandler
-[22:34:06] [Server thread/INFO]: abdiel2707 was slain by Zombie
-[22:34:30] [Server thread/INFO]: v783 issued server command: /tp Panzi01 v783
-[22:34:51] [Server thread/INFO]: v783 issued server command: /msg Panzi01 oe
-[22:34:54] [Server thread/INFO]: Panzi01 issued server command: /r dime
-[22:34:55] [Server thread/INFO]: v783 issued server command: /r peudes ver mis bloques?
-[22:34:56] [User Authenticator #2/INFO]: UUID of player scorpion741 is 02279d4c-9384-3335-978c-a3c6bfcfc96d
-[22:34:56] [Server thread/INFO]: scorpion741[/127.48.192.30:33575] logged in with entity id 3946 at ([world]345.5748247151834, 109.0, 1459.3916782254157)
-[22:35:00] [Server thread/INFO]: v783 issued server command: /r en mi mano
-[22:35:01] [Server thread/INFO]: Panzi01 issued server command: /r no
-[22:35:03] [Craft Scheduler Thread - 18 - AuthMe/INFO]: [AuthMe] scorpion741 logged in 127.48.192.30
-[22:35:08] [Async Chat Thread - #4/INFO]: [Not Secure] <scorpion741> quien team
-[22:35:08] [Server thread/INFO]: v783 issued server command: /r ?
-[22:35:14] [Async Chat Thread - #4/INFO]: [Not Secure] <abdiel2707> busco equipo
-[22:35:16] [Async Chat Thread - #5/INFO]: [Not Secure] <DAVID_PY> tu tia
-[22:35:17] [Async Chat Thread - #5/INFO]: [Not Secure] <Panzi01> no
-[22:35:24] [Async Chat Thread - #4/INFO]: [Not Secure] <scorpion741> shh _3.14
-[22:35:33] [Async Chat Thread - #4/INFO]: [Not Secure] <zGander> scorpion741 quiere venir conmigo bb
-[22:35:47] [Async Chat Thread - #5/INFO]: [Not Secure] <scorpion741> si tienes comida si :V
-[22:35:48] [Server thread/INFO]: v783 issued server command: /tp @a v783
-[22:36:07] [Async Chat Thread - #5/INFO]: [Not Secure] <zGander> ya si estas dispuesto a recorrer 30.000 bloques te dupeo mi armor
-[22:36:29] [Async Chat Thread - #6/INFO]: [Not Secure] <zGander> o paasame tus coordenadas y te busco bb
-[22:36:37] [Async Chat Thread - #4/INFO]: [Not Secure] <Panzi01> zGander eres no premium???
-[22:36:39] [Async Chat Thread - #4/INFO]: [Not Secure] <scorpion741> 0 /67 / 0
-[22:36:49] [Async Chat Thread - #4/INFO]: [Not Secure] <zGander> si :C
-[22:36:58] [Async Chat Thread - #6/INFO]: [Not Secure] <zGander> comprame bb
-[22:37:13] [Server thread/INFO]: scorpion741 issued server command: /msg zGander 205 /106/1477
-[22:37:20] [Server thread/INFO]: scorpion741 issued server command: /me gnete
-[22:37:25] [Server thread/INFO]: scorpion741 issued server command: /me asd
-[22:37:26] [Server thread/INFO]: zGander issued server command: /r voy pa ya
-[22:37:28] [Async Chat Thread - #6/INFO]: [Not Secure] <Panzi01> t
-[22:37:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Herobrine> &4 asd
-[22:37:30] [Async Chat Thread - #6/INFO]: [Not Secure] <Herobrine> a no
-[22:37:33] [Async Chat Thread - #4/INFO]: [Not Secure] <Panzi01> &4 rad
-[22:37:37] [Async Chat Thread - #6/INFO]: [Not Secure] <DAVID_PY> a
-[22:37:40] [Server thread/INFO]: scorpion741 issued server command: /me que hacen estos xd
-[22:37:40] [Async Chat Thread - #7/INFO]: [Not Secure] <DAVID_PY> &4asd
-[22:37:43] [Server thread/INFO]: scorpion741 issued server command: /me mas monos
-[22:37:45] [Async Chat Thread - #4/INFO]: [Not Secure] <zGander> XD
-[22:38:00] [Server thread/INFO]: scorpion741 issued server command: /me poniendo &4 xdsldad
-[22:38:06] [Async Chat Thread - #6/INFO]: [Not Secure] <Herobrine> &4 asd
-[22:38:09] [Async Chat Thread - #7/INFO]: [Not Secure] <Herobrine> chistosito
-[22:38:14] [Server thread/INFO]: zGander issued server command: /r mentira ya no voy XD -34810/ 96 / -25283 XD
-[22:38:15] [Server thread/INFO]: abdiel2707 fell from a high place
-[22:38:27] [Server thread/INFO]: scorpion741 issued server command: /msg zGander asi eres?
-[22:38:32] [Server thread/INFO]: scorpion741 issued server command: /msg zGander ya ps voy pa lla
-[22:38:35] [Server thread/INFO]: Panzi01 lost connection: Disconnected
-[22:38:38] [Server thread/INFO]: zGander issued server command: /r XD
-[22:38:44] [Async Chat Thread - #7/INFO]: [Not Secure] <zGander> desde el end te giveo
-[22:38:57] [Server thread/INFO]: zGander issued server command: /r cuando nos metan al end te la paso las cosas
-[22:39:12] [Server thread/INFO]: scorpion741 fell from a high place
-[22:40:25] [User Authenticator #3/INFO]: UUID of player Yesvy is 6bafee90-e623-3ffb-81c6-5f7469ef52e3
-[22:40:25] [Server thread/INFO]: Yesvy[/127.124.98.179:49777] logged in with entity id 8926 at ([world]-200.06194934519232, 63.0, -397.66009338095245)
-[22:40:25] [Craft Scheduler Thread - 23 - AuthMe/INFO]: [AuthMe] Yesvy logged in 127.124.98.179
-[22:40:52] [User Authenticator #3/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
-[22:40:52] [Server thread/INFO]: Panzi01[/127.69.78.99:37691] logged in with entity id 9600 at ([world]5010.686597653141, 2.0, -6307.061860671768)
-[22:40:52] [Craft Scheduler Thread - 24 - AuthMe/INFO]: [AuthMe] Panzi01 logged in 127.69.78.99
-[22:41:05] [Server thread/INFO]: v783 issued server command: /tp @a
-[22:41:07] [Server thread/INFO]: v783 issued server command: /tp @a v783
-[22:41:10] [Server thread/INFO]: v783 issued server command: /tp @a 4993 -6 -6308
-[22:41:10] [Server thread/INFO]: Yesvy lost connection: Disconnected
-[22:41:54] [Server thread/INFO]: v783 issued server command: /tp Panzi01 v783
-[22:42:02] [User Authenticator #4/INFO]: UUID of player Promega_DX is a6aba029-a081-3aeb-94d9-84f756a9715a
-[22:42:02] [Server thread/INFO]: Promega_DX[/127.150.120.86:45799] logged in with entity id 10825 at ([world]3.5, 133.0, -4.5)
-[22:42:11] [User Authenticator #4/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:42:12] [Server thread/INFO]: ManuEV[/127.106.94.89:60189] logged in with entity id 10905 at ([world]-1084.699999988079, 99.5625, -1510.23680581954)
-[22:42:22] [Craft Scheduler Thread - 29 - AuthMe/INFO]: [AuthMe] ManuEV logged in 127.106.94.89
-[22:42:32] [Server thread/INFO]: Promega_DX lost connection: Disconnected
-[22:42:35] [User Authenticator #4/INFO]: UUID of player Promega_DX is a6aba029-a081-3aeb-94d9-84f756a9715a
-[22:42:36] [Server thread/INFO]: Promega_DX[/127.150.120.86:52895] logged in with entity id 11343 at ([world]3.5, 133.0, -4.5)
-[22:43:26] [User Authenticator #4/INFO]: UUID of player Yesvy is 6bafee90-e623-3ffb-81c6-5f7469ef52e3
-[22:43:26] [Server thread/INFO]: Yesvy[/127.124.98.179:54287] logged in with entity id 12014 at ([world]-255.37074763150488, 68.0, -338.81553668585894)
-[22:43:26] [Craft Scheduler Thread - 34 - AuthMe/INFO]: [AuthMe] Yesvy logged in 127.124.98.179
-[22:44:22] [Server thread/INFO]: [AuthMe] Promega_DX registered 127.150.120.86
-[22:44:22] [Craft Scheduler Thread - 39 - AuthMe/INFO]: [AuthMe] Promega_DX logged in 127.150.120.86
-[22:44:24] [Async Chat Thread - #8/INFO]: [Not Secure] <Promega_DX> aaa
-[22:44:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Panzi01> pudiste?
-[22:44:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Promega_DX> yea
-[22:44:45] [Async Chat Thread - #8/INFO]: [Not Secure] <Promega_DX> tp si o q
-[22:45:26] [Server thread/INFO]: abdiel2707 lost connection: Disconnected
-[22:46:09] [Async Chat Thread - #10/INFO]: [Not Secure] <zGander> dijo que no puede ahorita
-[22:46:13] [Async Chat Thread - #11/INFO]: [Not Secure] <zGander> va entrar mas al rato
-[22:46:16] [Server thread/INFO]: Promega_DX has made the advancement [Stone Age]
-[22:47:34] [User Authenticator #5/INFO]: UUID of player abdiel2707 is 678ca31f-d5ff-3b36-a60e-04feae1603f9
-[22:47:34] [Server thread/INFO]: abdiel2707[/127.37.165.151:34427] logged in with entity id 18725 at ([world]-21.30000001192093, 115.0, 57.69999998807907)
-[22:47:34] [Craft Scheduler Thread - 44 - AuthMe/INFO]: [AuthMe] abdiel2707 logged in 127.37.165.151
-[22:47:49] [Server thread/INFO]: abdiel2707 lost connection: Disconnected
-[22:47:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Panzi01> tpall
-[22:47:57] [Server thread/INFO]: v783 issued server command: /tpall
-[22:47:57] [Server thread/INFO]: Yesvy has made the advancement [Eye Spy]
-[22:47:57] [Server thread/INFO]: DAVID_PY has made the advancement [Eye Spy]
-[22:47:57] [Server thread/INFO]: ManuEV has made the advancement [Eye Spy]
-[22:47:58] [Server thread/INFO]: scorpion741 has made the advancement [Eye Spy]
-[22:47:58] [Server thread/INFO]: Promega_DX has made the advancement [Eye Spy]
-[22:48:01] [Async Chat Thread - #12/INFO]: [Not Secure] <DAVID_PY> pendejo
-[22:48:13] [Async Chat Thread - #14/INFO]: [Not Secure] <zGander> dame un marco oe
-[22:48:13] [Async Chat Thread - #12/INFO]: [Not Secure] <ManuEV> Te amo scorpion741
-[22:48:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Herobrine> veo una muerte por un estupido y ban
-[22:48:39] [Async Chat Thread - #12/INFO]: [Not Secure] <ManuEV> GRR DAME FLECHA
-[22:48:48] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:48] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:49] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:49] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:50] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:50] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:51] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:51] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:52] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:52] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:54] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:54] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:54] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:54] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:55] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:55] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:56] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:56] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:56] [Server thread/INFO]: Promega_DX was struck by lightning
-[22:48:56] [Server thread/INFO]: v783 issued server command: /vanish
-[22:48:57] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:48:57] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:48:57] [Server thread/INFO]: scorpion741 was struck by lightning
-[22:48:58] [Server thread/INFO]: v783 issued server command: /vanish
-[22:48:59] [Server thread/INFO]: v783 issued server command: /vanish
-[22:49:01] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> XD
-[22:49:04] [Server thread/INFO]: v783 issued server command: /vanish
-[22:49:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Promega_DX> XDD
-[22:49:09] [Async Chat Thread - #13/INFO]: [Not Secure] <ManuEV> Saquen a ese
-[22:49:13] [Async Chat Thread - #12/INFO]: [Not Secure] <scorpion741> me magno mataron
-[22:49:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Promega_DX> MIS 34 de madera
-[22:49:34] [Async Chat Thread - #13/INFO]: [Not Secure] <ManuEV> GRR
-[22:49:35] [Server thread/INFO]: v783 issued server command: /tpall
-[22:49:43] [Async Chat Thread - #13/INFO]: [Not Secure] <ManuEV> Promega_DX hdp
-[22:49:55] [Async Chat Thread - #12/INFO]: [Not Secure] <DAVID_PY> qien tiene flechas
-[22:49:58] [Async Chat Thread - #13/INFO]: [Not Secure] <scorpion741> chicos tengo el mapa siganme
-[22:50:13] [Async Chat Thread - #12/INFO]: [Not Secure] <ManuEV> Tienen madera?
-[22:50:14] [Async Chat Thread - #13/INFO]: [Not Secure] <ManuEV> XD
-[22:50:24] [User Authenticator #6/INFO]: UUID of player abdiel2707 is 678ca31f-d5ff-3b36-a60e-04feae1603f9
-[22:50:24] [Server thread/INFO]: abdiel2707[/127.37.165.151:45241] logged in with entity id 20005 at ([world]-21.30000001192093, 115.0, 57.69999998807907)
-[22:50:24] [Craft Scheduler Thread - 49 - AuthMe/INFO]: [AuthMe] abdiel2707 logged in 127.37.165.151
-[22:50:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> vente
-[22:50:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Yesvy> vente
-[22:50:53] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> panzi tp pls
-[22:50:57] [Server thread/INFO]: Promega_DX has made the advancement [Suit Up]
-[22:51:02] [Server thread/INFO]: v783 issued server command: /tpall
-[22:51:02] [Server thread/INFO]: abdiel2707 has made the advancement [Eye Spy]
-[22:51:11] [Async Chat Thread - #12/INFO]: [Not Secure] <Herobrine> equipense
-[22:51:23] [Async Chat Thread - #13/INFO]: [Not Secure] <zGander> hubieran avisado oe
-[22:51:37] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> quien me dopea cosas?
-[22:51:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> den lana nomas
-[22:51:42] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> XD
-[22:51:46] [Async Chat Thread - #13/INFO]: [Not Secure] <zGander> da marco
-[22:51:53] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> yo tengo
-[22:51:57] [Async Chat Thread - #13/INFO]: [Not Secure] <Yesvy> 5}
-[22:52:03] [Async Chat Thread - #13/INFO]: [Not Secure] <ManuEV> HDP
-[22:52:11] [Async Chat Thread - #13/INFO]: [Not Secure] <scorpion741> toma
-[22:52:13] [Async Chat Thread - #12/INFO]: [Not Secure] <scorpion741> te lo reparo
-[22:52:15] [Server thread/INFO]: v783 issued server command: /tp scorpion741
-[22:52:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Herobrine> dupe
-[22:52:18] [Async Chat Thread - #15/INFO]: [Not Secure] <DAVID_PY> dame una notch Panzi01
-[22:52:20] [Async Chat Thread - #12/INFO]: [Not Secure] <scorpion741> xd
-[22:52:21] [Async Chat Thread - #13/INFO]: [Not Secure] <ManuEV> Te amo
-[22:52:26] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:26] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:27] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:27] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:28] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:28] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:36] [Async Chat Thread - #12/INFO]: [Not Secure] <zGander> q
-[22:52:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Yesvy> chupa
-[22:52:41] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:41] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:41] [Server thread/INFO]: abdiel2707 was struck by lightning
-[22:52:41] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:41] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Yesvy> ok no
-[22:52:41] [Async Chat Thread - #12/INFO]: [Not Secure] <zGander> XD
-[22:52:42] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:42] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:43] [Async Chat Thread - #12/INFO]: [Not Secure] <ManuEV> XD
-[22:52:43] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:43] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:45] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:45] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:47] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:47] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:47] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:47] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:47] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:47] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:48] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:52:49] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:52:49] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:52:56] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:52:57] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:52:57] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:08] [Async Chat Thread - #13/INFO]: [Not Secure] <Promega_DX> Que me den cosa sJAJA
-[22:53:09] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:10] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:10] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:19] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:19] [Async Chat Thread - #12/INFO]: [Not Secure] <DAVID_PY> deja wn te voy a dupear
-[22:53:21] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:25] [Async Chat Thread - #12/INFO]: [Not Secure] <DAVID_PY> scorpion741
-[22:53:31] [Async Chat Thread - #13/INFO]: [Not Secure] <DAVID_PY> marikong
-[22:53:33] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> david me das cosas?
-[22:53:34] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> david me das cosas?
-[22:53:35] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:36] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:36] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:39] [Async Chat Thread - #12/INFO]: [Not Secure] <ManuEV> Compartan
-[22:53:40] [Async Chat Thread - #13/INFO]: [Not Secure] <DAVID_PY> pasa eso scorpion741
-[22:53:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Promega_DX> ami me prometieron un dupe
-[22:53:43] [Async Chat Thread - #13/INFO]: [Not Secure] <DAVID_PY> el totem
-[22:53:44] [Async Chat Thread - #13/INFO]: [Not Secure] <DAVID_PY> ven
-[22:53:47] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:48] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:48] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:53:53] [Async Chat Thread - #13/INFO]: [Not Secure] <zGander> solo dupie eso por ahora esperate
-[22:53:56] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:53:56] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:53:57] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:53:57] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:53:58] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:53:58] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:54:00] [Server thread/INFO]: DAVID_PY issued server command: /msg scorpion741 tira
-[22:54:00] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:54:00] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:54:06] [Server thread/INFO]: DAVID_PY issued server command: /r tu totem
-[22:54:15] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:15] [Server thread/INFO]: DAVID_PY issued server command: /r pasa wn
-[22:54:16] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp plst
-[22:54:18] [Server thread/INFO]: Promega_DX has reached the goal [Postmortal]
-[22:54:18] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:18] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:19] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:26] [Async Chat Thread - #12/INFO]: [Not Secure] <zGander> pasa marco DAVID_PY
-[22:54:28] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:28] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:29] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:32] [Async Chat Thread - #13/INFO]: [Not Secure] <DAVID_PY> arhux pasa un totem
-[22:54:39] [Async Chat Thread - #16/INFO]: [Not Secure] <Yesvy> qn eres
-[22:54:42] [Async Chat Thread - #13/INFO]: [Not Secure] <DAVID_PY> grande
-[22:54:44] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:45] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:45] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:45] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:46] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:46] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:47] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp plst
-[22:54:49] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:49] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:50] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:54:54] [Async Chat Thread - #12/INFO]: [Not Secure] <zGander> pasate otro marco
-[22:55:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> ya te di uno oe
-[22:55:01] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:02] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:02] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:06] [Async Chat Thread - #13/INFO]: [Not Secure] <zGander> me lo quito el panzas
-[22:55:07] [Async Chat Thread - #12/INFO]: [Not Secure] <Promega_DX> eyy
-[22:55:12] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Promega_DX> ami me lo va a dar
-[22:55:14] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:14] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:14] [Async Chat Thread - #12/INFO]: [Not Secure] <Promega_DX> XD
-[22:55:15] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:15] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:15] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:16] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:16] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:17] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:17] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:17] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:18] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:18] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:20] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:24] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:55:24] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:55:25] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:55:25] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:55:25] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[22:55:25] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[22:55:30] [Async Chat Thread - #16/INFO]: [Not Secure] <Herobrine> dejen dupear si no ban
-[22:55:33] [Async Chat Thread - #13/INFO]: [Not Secure] <ManuEV> herobrine me lo chupa
-[22:55:34] [Async Chat Thread - #13/INFO]: [Not Secure] <zGander> ya ps
-[22:55:39] [Server thread/INFO]: v783 issued server command: /ban ManuEV
-[22:55:39] [Server thread/INFO]: ManuEV lost connection: You have been banned:
-The Ban Hammer has spoken!
-[22:55:39] [Server thread/INFO]: [Essentials] Player Herobrine banned ManuEV for: You have been banned:
-The Ban Hammer has spoken!.
-[22:55:41] [Async Chat Thread - #16/INFO]: [Not Secure] <Panzi01> dale el pantalon herobrine de mrd
-[22:55:43] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:44] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:44] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:44] [Async Chat Thread - #13/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:55:48] [User Authenticator #7/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:55:48] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5bb17eb4[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@64a46a6c]},legacy=false] (/127.106.94.89:59941): You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:55:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@5bb17eb4[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@64a46a6c]},legacy=false] (/127.106.94.89:59941) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:55:49] [Async Chat Thread - #16/INFO]: [Not Secure] <Yesvy> q
-[22:55:50] [Async Chat Thread - #16/INFO]: [Not Secure] <Panzi01> hazle tp
-[22:55:50] [Async Chat Thread - #13/INFO]: [Not Secure] <Promega_DX> Yesvy por mi esta dupeando xdd
-[22:55:51] [Async Chat Thread - #16/INFO]: [Not Secure] <zGander> psa nochs :C
-[22:55:51] [Async Chat Thread - #16/INFO]: [Not Secure] <Panzi01> herobirne
-[22:55:58] [Async Chat Thread - #16/INFO]: [Not Secure] <zGander> mis manzanas no brillan
-[22:55:58] [Async Chat Thread - #16/INFO]: [Not Secure] <Yesvy> ya di 64
-[22:55:59] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:56:00] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:56:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> XD
-[22:56:00] [Async Chat Thread - #16/INFO]: [Not Secure] <abdiel2707> tp pls
-[22:56:01] [Server thread/INFO]: v783 issued server command: /tp abdiel2707 v783
-[22:56:03] [Async Chat Thread - #16/INFO]: [Not Secure] <zGander> dame 12
-[22:56:06] [User Authenticator #7/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:56:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@41e50f01[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@577de7a8]},legacy=false] (/127.106.94.89:49689): You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:56:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@41e50f01[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@577de7a8]},legacy=false] (/127.106.94.89:49689) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:56:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> una pregunta
-[22:56:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Herobrine> Panzi01 -1
-[22:56:20] [User Authenticator #7/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:56:20] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@42cae748[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@4c790b20]},legacy=false] (/127.106.94.89:42155): You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:56:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@42cae748[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@4c790b20]},legacy=false] (/127.106.94.89:42155) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:56:21] [Async Chat Thread - #16/INFO]: [Not Secure] <Herobrine> otra mas
-[22:56:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> cuando estemos en el end
-[22:56:27] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> se podra pegar?
-[22:56:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Herobrine> dupea pa los que no tienen nada
-[22:56:36] [Async Chat Thread - #16/INFO]: [Not Secure] <Panzi01> estoy dupeando para ellos ...-
-[22:56:40] [Async Chat Thread - #16/INFO]: [Not Secure] <Yesvy> voy a dupear obsi
-[22:56:42] [User Authenticator #7/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:56:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@541d83e[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@5f6d6af5]},legacy=false] (/127.106.94.89:53021): You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:56:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@541d83e[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@5f6d6af5]},legacy=false] (/127.106.94.89:53021) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:56:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> o no puedo?
-[22:56:59] [Async Chat Thread - #16/INFO]: [Not Secure] <Herobrine> No soy yo pan
-[22:57:01] [Async Chat Thread - #17/INFO]: [Not Secure] <abdiel2707> panzi me das algo pls
-[22:57:12] [User Authenticator #7/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:57:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@278e4c70[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@58cee653]},legacy=false] (/127.106.94.89:34161): You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:57:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@278e4c70[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@58cee653]},legacy=false] (/127.106.94.89:34161) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:57:27] [User Authenticator #7/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:57:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@373b4c51[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@5b0cf44f]},legacy=false] (/127.106.94.89:46501): You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:57:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@373b4c51[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@5b0cf44f]},legacy=false] (/127.106.94.89:46501) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:57:33] [User Authenticator #7/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:57:33] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1a71be4b[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@36fa8f81]},legacy=false] (/127.106.94.89:58497): You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:57:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@1a71be4b[id=496622e6-9242-39e9-b0d4-0fbab613578e,name=ManuEV,properties={textures=[com.mojang.authlib.properties.Property@36fa8f81]},legacy=false] (/127.106.94.89:58497) lost connection: You are banned from this server. Reason: The Ban Hammer has spoken!
-[22:57:45] [Server thread/INFO]: v783 issued server command: /unban manuev
-[22:57:45] [Server thread/INFO]: [Essentials] Player Herobrine unbanned ManuEV
-[22:57:50] [Async Chat Thread - #17/INFO]: [Not Secure] <zGander> sale duo?
-[22:57:55] [Async Chat Thread - #12/INFO]: [Not Secure] <DAVID_PY> va
-[22:57:56] [Async Chat Thread - #17/INFO]: [Not Secure] <zGander> beso riko
-[22:57:57] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> yo lo puedo intentar?
-[22:57:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> se podra pegar cuando estemos?
-[22:57:59] [Async Chat Thread - #17/INFO]: [Not Secure] <DAVID_PY> per deja dupear
-[22:58:02] [Server thread/INFO]: Promega_DX has completed the challenge [Cover Me in Debris]
-[22:58:05] [User Authenticator #7/INFO]: UUID of player ManuEV is 496622e6-9242-39e9-b0d4-0fbab613578e
-[22:58:05] [Server thread/INFO]: ManuEV[/127.106.94.89:47459] logged in with entity id 21709 at ([world]5025.863364583453, 0.2552196017627665, -6300.699999988079)
-[22:58:05] [Craft Scheduler Thread - 56 - AuthMe/INFO]: [AuthMe] ManuEV logged in 127.106.94.89
-[22:58:14] [Async Chat Thread - #12/INFO]: [Not Secure] <Panzi01> oe herobrine qutale ban a manuel
-[22:58:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Promega_DX> Que me den otro marco
-[22:58:18] [Async Chat Thread - #17/INFO]: [Not Secure] <ManuEV> Listo
-[22:58:26] [Server thread/INFO]: scorpion741 has completed the challenge [Cover Me in Debris]
-[22:58:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> vente
-[22:58:52] [Async Chat Thread - #17/INFO]: [Not Secure] <Herobrine> scorpion741
-[22:58:57] [Server thread/INFO]: v783 issued server command: /invsee scorpion741
-[22:58:59] [Async Chat Thread - #12/INFO]: [Not Secure] <DAVID_PY> denle kick
-[22:59:01] [Async Chat Thread - #17/INFO]: [Not Secure] <Yesvy> XDD
-[22:59:03] [Server thread/INFO]: v783 issued server command: /invsee
-[22:59:05] [Server thread/INFO]: v783 issued server command: /invsee Panzi01
-[22:59:05] [Async Chat Thread - #12/INFO]: [Not Secure] <Yesvy> SE VE QUE ESTOY con la obi?
-[22:59:10] [Async Chat Thread - #17/INFO]: [Not Secure] <ManuEV> Si
-[22:59:12] [Async Chat Thread - #17/INFO]: [Not Secure] <Yesvy> XD
-[22:59:19] [Async Chat Thread - #17/INFO]: [Not Secure] <ManuEV> XD
-[22:59:20] [Async Chat Thread - #17/INFO]: [Not Secure] <Yesvy> panzi mira
-[22:59:36] [Server thread/INFO]: scorpion741 issued server command: /height
-[22:59:39] [Server thread/INFO]: scorpion741 issued server command: /height abdiel2707
-[22:59:55] [Async Chat Thread - #17/INFO]: [Not Secure] <ManuEV> Mantenganse humildes
-[22:59:56] [Server thread/INFO]: zGander issued server command: /height
-[23:00:02] [Server thread/INFO]: scorpion741 has made the advancement [Ice Bucket Challenge]
-[23:00:07] [User Authenticator #8/INFO]: UUID of player JzYq is afc0ef30-7ea8-3d46-8f83-24c2ce8af24e
-[23:00:07] [Server thread/INFO]: JzYq[/127.51.33.129:47087] logged in with entity id 22082 at ([world]-441.69999998807907, 13.0, -681.8001075063414)
-[23:00:07] [Craft Scheduler Thread - 60 - AuthMe/INFO]: [AuthMe] JzYq logged in 127.51.33.129
-[23:00:14] [Async Chat Thread - #12/INFO]: [Not Secure] <ManuEV> Grr
-[23:00:19] [Async Chat Thread - #12/INFO]: [Not Secure] <DAVID_PY> tepeen cuando comienzen
-[23:00:35] [Server thread/INFO]: JzYq lost connection: Disconnected
-[23:00:44] [User Authenticator #8/INFO]: UUID of player JzYq is afc0ef30-7ea8-3d46-8f83-24c2ce8af24e
-[23:00:44] [Server thread/INFO]: JzYq[/127.51.33.129:34807] logged in with entity id 22459 at ([world]-441.69999998807907, 13.0, -681.8001075063414)
-[23:00:44] [Craft Scheduler Thread - 62 - AuthMe/INFO]: [AuthMe] JzYq logged in 127.51.33.129
-[23:00:51] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> me falta oantalon casco y una espada y nothck
-[23:00:56] [Async Chat Thread - #17/INFO]: [Not Secure] <JzYq> tp
-[23:01:00] [Server thread/INFO]: abdiel2707 has completed the challenge [Cover Me in Debris]
-[23:01:04] [Server thread/INFO]: v783 issued server command: /tp JzYq a v783
-[23:01:07] [Server thread/INFO]: v783 issued server command: /tp JzYq v783
-[23:01:08] [Server thread/INFO]: JzYq has made the advancement [Eye Spy]
-[23:01:18] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> espada solo me falta
-[23:01:44] [Async Chat Thread - #17/INFO]: [Not Secure] <abdiel2707> es omegs
-[23:01:46] [Server thread/INFO]: scorpion741 has made the advancement [Diamonds!]
-[23:01:48] [Async Chat Thread - #17/INFO]: [Not Secure] <ManuEV> XD
-[23:01:51] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> me falta espada
-[23:01:54] [Async Chat Thread - #18/INFO]: [Not Secure] <ManuEV> Ese logro lo dice todo
-[23:02:02] [Async Chat Thread - #12/INFO]: [Not Secure] <zGander> a mi igual
-[23:02:07] [Async Chat Thread - #17/INFO]: [Not Secure] <zGander> la mia no tiene encantamientos
-[23:02:21] [Async Chat Thread - #12/INFO]: [Not Secure] <scorpion741> no funca
-[23:02:23] [Async Chat Thread - #18/INFO]: [Not Secure] <scorpion741> xd
-[23:03:02] [Async Chat Thread - #12/INFO]: [Not Secure] <Herobrine> deja tu armor en tu inv
-[23:03:09] [Async Chat Thread - #18/INFO]: [Not Secure] <Herobrine> lo que quieras dupear
-[23:03:12] [Server thread/INFO]: v783 issued server command: /invsee Panzi01
-[23:03:35] [Async Chat Thread - #12/INFO]: [Not Secure] <abdiel2707> notch?
-[23:03:45] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> notch pls
-[23:03:48] [Async Chat Thread - #18/INFO]: [Not Secure] <zGander> espada
-[23:03:49] [Async Chat Thread - #19/INFO]: [Not Secure] <Yesvy> no se puede dupear carajo DAVID_PY
-[23:03:56] [Async Chat Thread - #12/INFO]: [Not Secure] <zGander> espada
-[23:04:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Herobrine> Quien le falta cosas?
-[23:04:08] [Server thread/INFO]: Promega_DX lost connection: Disconnected
-[23:04:19] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> vamos ps
-[23:04:21] [Async Chat Thread - #12/INFO]: [Not Secure] <zGander> espada
-[23:04:25] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
-[23:04:38] [Async Chat Thread - #18/INFO]: [Not Secure] <zGander> no tenia encantamientos
-[23:04:52] [Server thread/INFO]: v783 issued server command: /tpall
-[23:05:00] [Async Chat Thread - #18/INFO]: [Not Secure] <Yesvy> XDD
-[23:05:01] [Async Chat Thread - #20/INFO]: [Not Secure] <ManuEV> Todo chetados XD
-[23:05:03] [Async Chat Thread - #20/INFO]: [Not Secure] <scorpion741> oe panzi espada
-[23:05:03] [Async Chat Thread - #20/INFO]: [Not Secure] <scorpion741> oe panzi espada
-[23:05:04] [Async Chat Thread - #20/INFO]: [Not Secure] <scorpion741> oe panzi espada
-[23:05:04] [Async Chat Thread - #20/INFO]: [Not Secure] <Panzi01> no se tiren
-[23:05:04] [Async Chat Thread - #20/INFO]: [Not Secure] <scorpion741> xd
-[23:05:05] [Async Chat Thread - #12/INFO]: [Not Secure] <scorpion741> xd
-[23:05:06] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> no se tiren}
-[23:05:06] [Async Chat Thread - #20/INFO]: [Not Secure] <scorpion741> oe panzi espada
-[23:05:16] [Async Chat Thread - #18/INFO]: [Not Secure] <scorpion741> espada
-[23:05:21] [Async Chat Thread - #20/INFO]: [Not Secure] <abdiel2707> a las 1
-[23:05:24] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> a las 2
-[23:05:30] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> y a las 2.5
-[23:05:39] [Async Chat Thread - #18/INFO]: [Not Secure] <zGander> toma
-[23:05:39] [Async Chat Thread - #18/INFO]: [Not Secure] <ManuEV> Nice
-[23:05:41] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> a las 2.6
-[23:05:44] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[23:05:49] [Server thread/INFO]: ManuEV has completed the challenge [Cover Me in Debris]
-[23:05:55] [Async Chat Thread - #18/INFO]: [Not Secure] <Yesvy> Panzi01 el david esta que empuja
-[23:05:58] [Async Chat Thread - #20/INFO]: [Not Secure] <Yesvy> pegale
-[23:06:00] [Server thread/INFO]: v783 issued server command: /tpall
-[23:06:17] [Async Chat Thread - #20/INFO]: [Not Secure] <JzYq> scorpion741 otr mas y te baneo
-[23:06:38] [Server thread/INFO]: abdiel2707 has made the advancement [The End?]
-[23:06:40] [Async Chat Thread - #20/INFO]: [Not Secure] <Panzi01> 3
-[23:06:41] [Async Chat Thread - #20/INFO]: [Not Secure] <Panzi01> 2
-[23:06:41] [Async Chat Thread - #20/INFO]: [Not Secure] <abdiel2707> perdon
-[23:06:43] [Async Chat Thread - #20/INFO]: [Not Secure] <Panzi01> 1
-[23:06:44] [Server thread/INFO]: JzYq has made the advancement [The End?]
-[23:06:45] [Server thread/INFO]: DAVID_PY has made the advancement [The End?]
-[23:06:45] [Server thread/INFO]: scorpion741 has made the advancement [The End?]
-[23:06:45] [Server thread/INFO]: zGander has made the advancement [The End?]
-[23:06:46] [Server thread/INFO]: Yesvy has made the advancement [The End?]
-[23:06:48] [Async Chat Thread - #20/INFO]: [Not Secure] <Panzi01> no se muevan
-[23:06:50] [Server thread/INFO]: ManuEV has made the advancement [The End?]
-[23:06:50] [Server thread/INFO]: scorpion741 has made the advancement [Sneak 100]
-[23:06:52] [Async Chat Thread - #20/INFO]: [Not Secure] <Panzi01> Miren el directo
-[23:06:53] [Async Chat Thread - #20/INFO]: [Not Secure] <ManuEV> alm
-[23:06:56] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> vengan
-[23:06:58] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> No salgan
-[23:07:04] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> HEROBRINE TPA ALL POR FAVOR
-[23:07:06] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> A ESTOS IDIOTAS
-[23:07:07] [Async Chat Thread - #20/INFO]: [Not Secure] <DAVID_PY> mano jaoco q es esto
-[23:07:14] [Server thread/INFO]: v783 issued server command: /tpall
-[23:07:14] [Server thread/INFO]: v783 issued server command: /tpall
-[23:07:15] [Async Chat Thread - #18/INFO]: [Not Secure] <Herobrine> wt
-[23:07:17] [Server thread/INFO]: ManuEV has made the advancement [Sneak 100]
-[23:07:18] [Server thread/INFO]: v783 issued server command: /tpall
-[23:07:22] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> me falta pico
-[23:07:23] [Async Chat Thread - #18/INFO]: [Not Secure] <Herobrine> ajdjawdada
-[23:07:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> MIREN EL DIRECTO
-[23:07:29] [Server thread/INFO]: abdiel2707 has made the advancement [Sneak 100]
-[23:07:37] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> MIOREN EL DIRECTO LES VOY A COMENTAR
-[23:07:37] [Async Chat Thread - #18/INFO]: [Not Secure] <JzYq> solo tomen manzana y sobreviven
-[23:08:01] [Server thread/INFO]: v783 issued server command: /kick DAVID_PY
-[23:08:01] [Server thread/INFO]: DAVID_PY lost connection: Kicked from server.
-[23:08:01] [Server thread/INFO]: [Essentials] Player Herobrine kicked DAVID_PY for Kicked from server..
-[23:08:03] [Server thread/INFO]: v783 issued server command: /kick scorpion741
-[23:08:03] [Server thread/INFO]: scorpion741 lost connection: Kicked from server.
-[23:08:03] [Server thread/INFO]: [Essentials] Player Herobrine kicked scorpion741 for Kicked from server..
-[23:08:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@1304ebdb[id=d23e8853-c241-3acd-8959-bdfa9cecc57a,name=DAVID_PY,properties={},legacy=false] (/127.63.115.110:56475) lost connection: Disconnected
-[23:08:06] [User Authenticator #9/INFO]: UUID of player DAVID_PY is d23e8853-c241-3acd-8959-bdfa9cecc57a
-[23:08:06] [User Authenticator #10/INFO]: UUID of player scorpion741 is 02279d4c-9384-3335-978c-a3c6bfcfc96d
-[23:08:06] [Server thread/INFO]: scorpion741[/127.48.192.30:44249] logged in with entity id 24102 at ([world_the_end]97.49140494101175, 51.0, -4.149117994573515)
-[23:08:06] [Craft Scheduler Thread - 68 - AuthMe/INFO]: [AuthMe] scorpion741 logged in 127.48.192.30
-[23:08:11] [Async Chat Thread - #21/INFO]: [Not Secure] <Herobrine> no le pegen pe
-[23:08:15] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> MIREN EL DIRECTO
-[23:08:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> VOY A EXPLCIAR
-[23:08:19] [Server thread/INFO]: v783 issued server command: /kick abdiel2707
-[23:08:19] [Server thread/INFO]: abdiel2707 lost connection: Kicked from server.
-[23:08:19] [Server thread/INFO]: [Essentials] Player Herobrine kicked abdiel2707 for Kicked from server..
-[23:08:19] [Async Chat Thread - #21/INFO]: [Not Secure] <Panzi01> EL EVENTOI
-[23:08:22] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> ESTUDIOSSS
-[23:08:23] [Async Chat Thread - #18/INFO]: [Not Secure] <scorpion741> ok
-[23:08:37] [User Authenticator #10/INFO]: UUID of player abdiel2707 is 678ca31f-d5ff-3b36-a60e-04feae1603f9
-[23:08:37] [Server thread/INFO]: abdiel2707[/127.37.165.151:50077] logged in with entity id 24134 at ([world_the_end]97.30000001192093, 51.0, -3.3934806806152302)
-[23:08:37] [Craft Scheduler Thread - 70 - AuthMe/INFO]: [AuthMe] abdiel2707 logged in 127.37.165.151
-[23:08:43] [User Authenticator #10/INFO]: UUID of player DAVID_PY is d23e8853-c241-3acd-8959-bdfa9cecc57a
-[23:08:43] [Server thread/INFO]: DAVID_PY[/127.63.115.110:40485] logged in with entity id 24139 at ([world_the_end]97.69999998807907, 51.0, -4.699999988079071)
-[23:08:43] [Craft Scheduler Thread - 70 - AuthMe/INFO]: [AuthMe] DAVID_PY logged in 127.63.115.110
-[23:08:49] [Async Chat Thread - #21/INFO]: [Not Secure] <JzYq> oe mano escuchen
-[23:08:52] [Async Chat Thread - #21/INFO]: [Not Secure] <JzYq> monos de mierda
-[23:08:52] [Async Chat Thread - #20/INFO]: [Not Secure] <abdiel2707> tp me muero
-[23:08:53] [Async Chat Thread - #21/INFO]: [Not Secure] <DAVID_PY> tepea wn
-[23:08:57] [Server thread/INFO]: v783 issued server command: /tpall
-[23:09:06] [Async Chat Thread - #20/INFO]: [Not Secure] <Panzi01> ptmrrrr
-[23:09:08] [Async Chat Thread - #18/INFO]: [Not Secure] <JzYq> jadjawd
-[23:09:10] [Async Chat Thread - #21/INFO]: [Not Secure] <Panzi01> MIREN EL DIRECTO Q ANDO DICIENDO T
-[23:09:12] [Async Chat Thread - #21/INFO]: [Not Secure] <Panzi01> LAS COSAS
-[23:09:15] [Async Chat Thread - #20/INFO]: [Not Secure] <Panzi01> TMERRRRR
-[23:09:17] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> NO ES TAN DIFICL
-[23:09:18] [Async Chat Thread - #20/INFO]: [Not Secure] <Yesvy> alguien tepio arriba XD
-[23:09:21] [Server thread/INFO]: v783 issued server command: /tpall
-[23:09:29] [Async Chat Thread - #21/INFO]: [Not Secure] <scorpion741> cubran con obsi la salida ps
-[23:09:45] [Async Chat Thread - #21/INFO]: [Not Secure] <JzYq> tomen manzanas
-[23:09:46] [Async Chat Thread - #21/INFO]: [Not Secure] <JzYq> tomen manzanas
-[23:09:47] [Async Chat Thread - #18/INFO]: [Not Secure] <JzYq> tomen manzanas
-[23:09:51] [Async Chat Thread - #18/INFO]: [Not Secure] <ManuEV> El primero que le agarre el huevo al dragón
-[23:09:55] [Server thread/INFO]: v783 issued server command: /invsee JzYq
-[23:10:03] [Async Chat Thread - #21/INFO]: [Not Secure] <scorpion741> como el primera en que se la agarre?
-[23:10:07] [Async Chat Thread - #18/INFO]: [Not Secure] <Herobrine> Si
-[23:10:18] [Async Chat Thread - #18/INFO]: [Not Secure] <scorpion741> ya ps _3.14 gano
-[23:11:15] [Async Chat Thread - #21/INFO]: [Not Secure] <JzYq> jajjaja
-[23:11:17] [Async Chat Thread - #21/INFO]: [Not Secure] <abdiel2707> me dan pico pls
-[23:11:28] [Async Chat Thread - #21/INFO]: [Not Secure] <JzYq> jaduhjawujddjajdwa
-[23:11:30] [User Authenticator #11/INFO]: UUID of player Promega_DX is a6aba029-a081-3aeb-94d9-84f756a9715a
-[23:11:30] [Server thread/INFO]: Promega_DX[/127.150.120.86:34353] logged in with entity id 24396 at ([world]5030.300000011921, 3.0, -6299.8641274858555)
-[23:11:30] [Craft Scheduler Thread - 74 - AuthMe/INFO]: [AuthMe] Promega_DX logged in 127.150.120.86
-[23:11:31] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:31] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:32] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:32] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:32] [Async Chat Thread - #22/INFO]: [Not Secure] <abdiel2707> me dan pico pls
-[23:11:32] [Async Chat Thread - #21/INFO]: [Not Secure] <abdiel2707> me dan pico pls
-[23:11:32] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:32] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:34] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:34] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:35] [Async Chat Thread - #18/INFO]: [Not Secure] <Panzi01> JzYq TP AL Promega_DX
-[23:11:36] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:36] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:36] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:36] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:36] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:11:36] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:11:37] [Async Chat Thread - #21/INFO]: [Not Secure] <Panzi01> POR FAVOR
-[23:11:40] [Server thread/INFO]: v783 issued server command: /tpaall
-[23:11:45] [Server thread/INFO]: zGander issued server command: /tpaceppt
-[23:11:45] [Server thread/INFO]: Panzi01 issued server command: /tpaccept
-[23:11:45] [Server thread/INFO]: [Essentials] Panzi01 was denied access to command.
-[23:11:47] [Server thread/INFO]: DAVID_PY issued server command: /tpaccept
-[23:11:47] [Server thread/INFO]: [Essentials] DAVID_PY was denied access to command.
-[23:11:48] [Server thread/INFO]: Yesvy issued server command: /tpaccept
-[23:11:48] [Server thread/INFO]: [Essentials] Yesvy was denied access to command.
-[23:11:48] [Server thread/INFO]: v783 issued server command: /tpall
-[23:11:48] [Server thread/INFO]: Promega_DX has made the advancement [The End?]
-[23:11:49] [Server thread/INFO]: abdiel2707 issued server command: /tpaccept
-[23:11:49] [Server thread/INFO]: [Essentials] abdiel2707 was denied access to command.
-[23:11:55] [Async Chat Thread - #21/INFO]: [Not Secure] <abdiel2707> me dan pico pls
-[23:11:56] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> me dan pico pls
-[23:11:56] [Async Chat Thread - #21/INFO]: [Not Secure] <abdiel2707> me dan pico pls
-[23:12:09] [Async Chat Thread - #21/INFO]: [Not Secure] <Promega_DX> no tengo espada ni nada XDD
-[23:12:13] [Server thread/INFO]: Yesvy issued server command: /msg JzYq tienes botellas?
-[23:12:15] [Async Chat Thread - #21/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:12:20] [Server thread/INFO]: v783 issued server command: /invsee Panzi01
-[23:12:29] [Server thread/INFO]: v783 issued server command: /invsee Yesvy
-[23:12:31] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:12:31] [Async Chat Thread - #18/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:12:32] [Server thread/INFO]: v783 issued server command: /invsee Yesvy
-[23:12:33] [Async Chat Thread - #21/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:21] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:21] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:24] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:24] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:25] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:25] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:26] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:26] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:27] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:27] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:28] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:28] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:29] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:29] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:30] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:30] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:32] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:32] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:32] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:32] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:33] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:33] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:36] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:36] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:37] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:37] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:38] [Async Chat Thread - #23/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:38] [Async Chat Thread - #24/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:39] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:39] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:39] [Async Chat Thread - #24/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:39] [Async Chat Thread - #23/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:40] [Async Chat Thread - #23/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:40] [Async Chat Thread - #23/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:40] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:13:40] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:13:51] [Async Chat Thread - #23/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:51] [Async Chat Thread - #23/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:52] [Async Chat Thread - #23/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:13:52] [Async Chat Thread - #24/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:14:00] [Async Chat Thread - #23/INFO]: [Not Secure] <Promega_DX> me dan arco?
-[23:14:14] [Server thread/INFO]: Promega_DX has made the advancement [Monster Hunter]
-[23:14:49] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:49] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:14:50] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:50] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:14:51] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:51] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:14:52] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:52] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:14:53] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:53] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:14:54] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:54] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:14:55] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:55] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:14:55] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:55] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:14:57] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:14:57] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:02] [Async Chat Thread - #25/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:15:04] [Async Chat Thread - #26/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:15:04] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:04] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:04] [Async Chat Thread - #27/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:15:04] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:04] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:05] [Async Chat Thread - #27/INFO]: [Not Secure] <abdiel2707> me dan picos pls
-[23:15:05] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:05] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:06] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:06] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:08] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:08] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:08] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:08] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:09] [Async Chat Thread - #26/INFO]: [Not Secure] <abdiel2707> o bloques
-[23:15:10] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:10] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:11] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:11] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:12] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:12] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:14] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:15:14] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:15:18] [Async Chat Thread - #25/INFO]: [Not Secure] <Promega_DX> abdiel2707 adond eestas
-[23:15:24] [Async Chat Thread - #25/INFO]: [Not Secure] <abdiel2707> en el centro
-[23:15:37] [Async Chat Thread - #25/INFO]: [Not Secure] <zGander> DAVID_PY mira
-[23:15:47] [Async Chat Thread - #25/INFO]: [Not Secure] <DAVID_PY> xd
-[23:15:48] [Async Chat Thread - #25/INFO]: [Not Secure] <zGander> shhh
-[23:15:48] [Async Chat Thread - #25/INFO]: [Not Secure] <DAVID_PY> pasa
-[23:15:57] [Async Chat Thread - #27/INFO]: [Not Secure] <Promega_DX> dnd
-[23:16:15] [Server thread/INFO]: JzYq lost connection: Disconnected
-[23:16:26] [Async Chat Thread - #27/INFO]: [Not Secure] <Yesvy> no dupe
-[23:16:29] [Async Chat Thread - #27/INFO]: [Not Secure] <zGander> pipi
-[23:16:30] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:16:30] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:16:31] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:16:31] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:16:32] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:16:32] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:16:33] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:16:33] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:16:34] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:16:34] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:16:34] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:16:34] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:16:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:16:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:16:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:16:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:16:38] [Async Chat Thread - #25/INFO]: [Not Secure] <zGander> despues nos perman ;C
-[23:16:40] [Async Chat Thread - #25/INFO]: [Not Secure] <Panzi01> 7kill dragon idiota
-[23:16:50] [Async Chat Thread - #27/INFO]: [Not Secure] <ManuEV> Drgon de mierda
-[23:17:06] [Server thread/INFO]: scorpion741 issued server command: /msg ManuEV ven
-[23:17:15] [Server thread/INFO]: scorpion741 issued server command: /msg ManuEV no tienes epada?
-[23:17:22] [Server thread/INFO]: ManuEV issued server command: /r nope
-[23:17:49] [Server thread/INFO]: scorpion741 issued server command: /msg ManuEV ahi
-[23:17:51] [Server thread/INFO]: scorpion741 issued server command: /msg ManuEV en ti ivnentario
-[23:18:13] [Async Chat Thread - #28/INFO]: [Not Secure] <abdiel2707> destrullan todo del medio
-[23:18:18] [Async Chat Thread - #28/INFO]: [Not Secure] <Yesvy> aaa
-[23:18:34] [Async Chat Thread - #28/INFO]: [Not Secure] <abdiel2707> destrullan todo del medio
-[23:18:35] [Async Chat Thread - #29/INFO]: [Not Secure] <abdiel2707> destrullan todo del medio
-[23:18:40] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:40] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:41] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:41] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:41] [Async Chat Thread - #29/INFO]: [Not Secure] <scorpion741> alguien tiene camas?
-[23:18:42] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:42] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:43] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:43] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:43] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:43] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:45] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:45] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:45] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:45] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:45] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:45] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:47] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:18:47] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:18:49] [Async Chat Thread - #28/INFO]: [Not Secure] <Panzi01> tu mamita la esta usandio
-[23:18:56] [Async Chat Thread - #28/INFO]: [Not Secure] <scorpion741> que hablas hrmnito xd
-[23:19:17] [User Authenticator #12/INFO]: UUID of player JzYq is afc0ef30-7ea8-3d46-8f83-24c2ce8af24e
-[23:19:17] [Server thread/INFO]: JzYq[/127.51.33.129:56987] logged in with entity id 26067 at ([world_the_end]-11.317471312894568, 64.0, -9.680745109340927)
-[23:19:17] [Craft Scheduler Thread - 80 - AuthMe/INFO]: [AuthMe] JzYq logged in 127.51.33.129
-[23:19:25] [Async Chat Thread - #29/INFO]: [Not Secure] <zGander> abdiel2707 deja
-[23:19:31] [Async Chat Thread - #29/INFO]: [Not Secure] <abdiel2707> nooo molesta
-[23:19:35] [Async Chat Thread - #30/INFO]: [Not Secure] <zGander> deja quieto
-[23:19:35] [Server thread/INFO]: JzYq issued server command: /heal bqyz
-[23:19:35] [Server thread/INFO]: [Essentials] JzYq was denied access to command.
-[23:19:52] [Async Chat Thread - #29/INFO]: [Not Secure] <abdiel2707> era bait
-[23:20:25] [Async Chat Thread - #29/INFO]: [Not Secure] <Panzi01> PORQUE NO BAJAAA
-[23:20:34] [Async Chat Thread - #29/INFO]: [Not Secure] <abdiel2707> pq todos estamos abajo
-[23:20:39] [Server thread/INFO]: JzYq has made the advancement [Free the End]
-[23:20:43] [Async Chat Thread - #30/INFO]: [Not Secure] <Yesvy> XDDXD
-[23:20:44] [Async Chat Thread - #30/INFO]: [Not Secure] <ManuEV> ESE JOACO
-[23:20:44] [Async Chat Thread - #30/INFO]: [Not Secure] <Panzi01> GG JzYq
-[23:20:47] [Async Chat Thread - #30/INFO]: [Not Secure] <scorpion741> gg
-[23:20:47] [Async Chat Thread - #30/INFO]: [Not Secure] <zGander> pura trampa
-[23:20:56] [Async Chat Thread - #30/INFO]: [Not Secure] <Yesvy> gano un admin
-[23:21:01] [Async Chat Thread - #28/INFO]: [Not Secure] <Promega_DX> tp tp tp
-[23:21:06] [Async Chat Thread - #29/INFO]: [Not Secure] <Promega_DX> JAJA
-[23:21:19] [Async Chat Thread - #30/INFO]: [Not Secure] <abdiel2707> donde esta el huevo?
-[23:21:50] [Async Chat Thread - #29/INFO]: [Not Secure] <Promega_DX> DAVID_PY
-[23:22:02] [Async Chat Thread - #29/INFO]: [Not Secure] <Promega_DX> TP pls
-[23:22:14] [Async Chat Thread - #29/INFO]: [Not Secure] <Panzi01> HERBRINE TP A Promega_DX PLS
-[23:22:18] [Async Chat Thread - #29/INFO]: [Not Secure] <Herobrine> No
-[23:22:25] [Server thread/INFO]: DAVID_PY has reached the goal [The Next Generation]
-[23:22:28] [Async Chat Thread - #29/INFO]: [Not Secure] <Promega_DX> a
-[23:22:30] [Server thread/INFO]: v783 issued server command: /tp Promega_DX Panzi01
-[23:22:31] [Async Chat Thread - #30/INFO]: [Not Secure] <Panzi01> TP AUN NO ACABA
-[23:22:31] [Async Chat Thread - #29/INFO]: [Not Secure] <ManuEV> HDP
-[23:22:31] [Async Chat Thread - #29/INFO]: [Not Secure] <DAVID_PY> gg
-[23:22:40] [Async Chat Thread - #30/INFO]: [Not Secure] <DAVID_PY> foto
-[23:22:42] [Server thread/INFO]: v783 issued server command: /invsee DAVID_PY
-[23:22:46] [Async Chat Thread - #29/INFO]: [Not Secure] <DAVID_PY> jajaja
-[23:22:48] [Async Chat Thread - #29/INFO]: [Not Secure] <Panzi01> FOTO VEN DAVID_PY
-[23:22:53] [Server thread/INFO]: v783 issued server command: /invsee
-[23:22:55] [Server thread/INFO]: v783 issued server command: /invsee DAVID_PY
-[23:22:56] [Async Chat Thread - #29/INFO]: [Not Secure] <DAVID_PY> ptmr
-[23:22:58] [Async Chat Thread - #29/INFO]: [Not Secure] <Panzi01> DAVID_PY VEN
-[23:22:58] [Async Chat Thread - #30/INFO]: [Not Secure] <DAVID_PY> m,e lo quitaron
-[23:23:09] [Server thread/INFO]: scorpion741 issued server command: /msg ManuEV que cosas tienes?
-[23:23:11] [Async Chat Thread - #29/INFO]: [Not Secure] <DAVID_PY> pasa el huevo
-[23:23:15] [Async Chat Thread - #29/INFO]: [Not Secure] <JzYq> oe era activar el pvp
-[23:23:19] [Async Chat Thread - #30/INFO]: [Not Secure] <JzYq> para conseguir el heuvo
-[23:23:22] [Server thread/INFO]: ManuEV issued server command: /r Lo unico especial es la netherite el totem y las manzanas
-[23:23:22] [Async Chat Thread - #29/INFO]: [Not Secure] <DAVID_PY> paasa el huevo
-[23:23:24] [Async Chat Thread - #29/INFO]: [Not Secure] <JzYq> ahora que me acuerdo
-[23:23:27] [Async Chat Thread - #31/INFO]: [Not Secure] <DAVID_PY> gane mrd
-[23:23:29] [Server thread/INFO]: scorpion741 issued server command: /msg ManuEV no hay camas?
-[23:23:35] [Server thread/INFO]: ManuEV issued server command: /r Tengo lana pa una cama
-[23:23:38] [Server thread/INFO]: abdiel2707 has made the advancement [Remote Getaway]
-[23:23:44] [Server thread/INFO]: scorpion741 issued server command: /msg ManuEV pasa
-[23:23:45] [Async Chat Thread - #30/INFO]: [Not Secure] <DAVID_PY> pinche joaco
-[23:23:53] [Async Chat Thread - #30/INFO]: [Not Secure] <JzYq> okey
-[23:23:55] [Server thread/INFO]: v783 issued server command: /invsee DAVID_PY
-[23:24:01] [Async Chat Thread - #29/INFO]: [Not Secure] <Panzi01> SIGANME
-[23:24:19] [Server thread/INFO]: v783 issued server command: /tpaall
-[23:24:23] [Server thread/INFO]: scorpion741 issued server command: /tpaccept
-[23:24:23] [Server thread/INFO]: [Essentials] scorpion741 was denied access to command.
-[23:24:23] [Server thread/INFO]: v783 issued server command: /tpall
-[23:24:37] [Async Chat Thread - #29/INFO]: [Not Secure] <Yesvy> XD
-[23:24:38] [Async Chat Thread - #29/INFO]: [Not Secure] <JzYq> no rompan nada
-[23:24:38] [Async Chat Thread - #31/INFO]: [Not Secure] <DAVID_PY> manito me da miedo
-[23:24:48] [Async Chat Thread - #29/INFO]: [Not Secure] <Herobrine> ya lo tiene
-[23:24:58] [Async Chat Thread - #31/INFO]: [Not Secure] <scorpion741> no tiene huevos ese
-[23:25:00] [Server thread/WARN]: ManuEV moved wrongly!
-[23:25:04] [Async Chat Thread - #32/INFO]: [Not Secure] <ManuEV> verdad
-[23:25:13] [Async Chat Thread - #29/INFO]: [Not Secure] <DAVID_PY> qe sea handupand+
-[23:25:14] [Async Chat Thread - #31/INFO]: [Not Secure] <zGander> oh mamita del clickwy
-[23:25:18] [Async Chat Thread - #32/INFO]: [Not Secure] <DAVID_PY> qe sea handupand
-[23:25:24] [Server thread/INFO]: Promega_DX has made the advancement [Remote Getaway]
-[23:25:26] [Async Chat Thread - #31/INFO]: [Not Secure] <JzYq> No esta
-[23:25:30] [Async Chat Thread - #31/INFO]: [Not Secure] <DAVID_PY> :c
-[23:25:34] [Server thread/INFO]: v783 issued server command: /tpall
-[23:25:37] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:25:37] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:25:38] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:25:38] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:25:38] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:25:38] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:25:39] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
-[23:25:39] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
-[23:25:41] [Async Chat Thread - #29/INFO]: [Not Secure] <Herobrine> habla pe
-[23:25:46] [Async Chat Thread - #31/INFO]: [Not Secure] <Yesvy> HEROBRINE GEI
-[23:25:55] [Async Chat Thread - #29/INFO]: [Not Secure] <ManuEV> Ese pe herobrine
-[23:25:55] [Async Chat Thread - #31/INFO]: [Not Secure] <DAVID_PY> que se rompe peç
-[23:26:09] [Async Chat Thread - #29/INFO]: [Not Secure] <DAVID_PY> que se rompa
-[23:26:11] [Async Chat Thread - #29/INFO]: [Not Secure] <DAVID_PY> que se rompa
-[23:26:24] [Server thread/INFO]: Promega_DX has made the advancement [Sneak 100]
-[23:27:58] [Async Chat Thread - #33/INFO]: [Not Secure] <Promega_DX> AA
-[23:28:04] [Async Chat Thread - #34/INFO]: [Not Secure] <DAVID_PY> mano qe muero
-[23:28:42] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
-[23:28:48] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
-[23:29:12] [Async Chat Thread - #35/INFO]: [Not Secure] <ManuEV> Mori
-[23:29:15] [Async Chat Thread - #35/INFO]: [Not Secure] <Panzi01> MALO
-[23:29:17] [Async Chat Thread - #37/INFO]: [Not Secure] <Promega_DX> MANO me mate como a 6
-[23:29:30] [Async Chat Thread - #37/INFO]: [Not Secure] <Promega_DX> quien tiene un casco?
-[23:29:35] [Server thread/INFO]: ManuEV issued server command: /tp
-[23:29:35] [Server thread/INFO]: [Essentials] ManuEV was denied access to command.
-[23:29:41] [Async Chat Thread - #35/INFO]: [Not Secure] <ManuEV> tpo
-[23:29:50] [Async Chat Thread - #37/INFO]: [Not Secure] <JzYq> gapsss
-[23:29:51] [Async Chat Thread - #37/INFO]: [Not Secure] <ManuEV> tp
-[23:29:58] [Server thread/INFO]: scorpion741 lost connection: Disconnected
-[23:30:05] [Async Chat Thread - #37/INFO]: [Not Secure] <ManuEV> tp
-[23:30:06] [Async Chat Thread - #36/INFO]: [Not Secure] <ManuEV> tp
-[23:30:06] [Async Chat Thread - #35/INFO]: [Not Secure] <ManuEV> tp
-[23:30:10] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
-[23:30:23] [Async Chat Thread - #35/INFO]: [Not Secure] <DAVID_PY> jsjsjs por q
-[23:30:25] [Async Chat Thread - #35/INFO]: [Not Secure] <DAVID_PY> jsjs
-[23:30:28] [Async Chat Thread - #36/INFO]: [Not Secure] <Promega_DX> miralo
-[23:30:31] [Async Chat Thread - #37/INFO]: [Not Secure] <Herobrine> Juega
-[23:30:39] [Async Chat Thread - #37/INFO]: [Not Secure] <DAVID_PY> ami no era
-[23:30:49] [Async Chat Thread - #37/INFO]: [Not Secure] <DAVID_PY> yo tenia qe vivir
-[23:30:54] [Async Chat Thread - #37/INFO]: [Not Secure] <Herobrine> Los que esten escondidos les spawneo 5 warden
-[23:31:02] [Async Chat Thread - #35/INFO]: [Not Secure] <ManuEV> tp
-[23:31:04] [Async Chat Thread - #36/INFO]: [Not Secure] <Promega_DX> Panzi01
-[23:31:05] [Async Chat Thread - #36/INFO]: [Not Secure] <Herobrine> No tp
-[23:31:09] [Async Chat Thread - #35/INFO]: [Not Secure] <ManuEV> f u
-[23:31:11] [Async Chat Thread - #36/INFO]: [Not Secure] <Herobrine> una vez que mueran no pueden volver
-[23:31:20] [Async Chat Thread - #36/INFO]: [Not Secure] <ManuEV> m niego
-[23:31:27] [Server thread/INFO]: v783 issued server command: /invsee JzYq
-[23:31:51] [Async Chat Thread - #36/INFO]: [Not Secure] <Promega_DX> zGander
-[23:31:55] [Async Chat Thread - #36/INFO]: [Not Secure] <zGander> no dupe
-[23:31:55] [Async Chat Thread - #36/INFO]: [Not Secure] <Promega_DX> mi marco
-[23:32:00] [Async Chat Thread - #36/INFO]: [Not Secure] <ManuEV> ya fue
-[23:32:07] [Server thread/INFO]: ManuEV fell out of the world
-[23:32:11] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
-[23:32:20] [Async Chat Thread - #35/INFO]: [Not Secure] <ManuEV> Estaba a -13000 bloques XD
-[23:32:21] [Async Chat Thread - #35/INFO]: [Not Secure] <Promega_DX> aa
-[23:32:28] [Async Chat Thread - #36/INFO]: [Not Secure] <Promega_DX> ayudaa
-[23:32:35] [Server thread/WARN]: Yesvy was kicked for floating too long!
-[23:32:35] [Server thread/INFO]: Yesvy lost connection: Flying is not enabled on this server
-[23:32:36] [Async Chat Thread - #36/INFO]: [Not Secure] <JzYq> oe voy amorir
-[23:32:40] [Async Chat Thread - #36/INFO]: [Not Secure] <DAVID_PY> x2
-[23:32:46] [Async Chat Thread - #35/INFO]: [Not Secure] <JzYq> wn son muchos
-[23:33:28] [User Authenticator #13/INFO]: UUID of player Yesvy is 6bafee90-e623-3ffb-81c6-5f7469ef52e3
-[23:33:28] [Server thread/INFO]: Yesvy[/127.124.98.179:46489] logged in with entity id 30506 at ([world_the_end]-22.119469137096406, 58.0, 68.85244907690252)
-[23:33:28] [Craft Scheduler Thread - 90 - AuthMe/INFO]: [AuthMe] Yesvy logged in 127.124.98.179
-[23:33:43] [Async Chat Thread - #36/INFO]: [Not Secure] <Promega_DX> mano
-[23:33:46] [Async Chat Thread - #36/INFO]: [Not Secure] <Panzi01> DIME
-[23:33:51] [Async Chat Thread - #36/INFO]: [Not Secure] <Promega_DX> Panzi01 tienes una armor?
-[23:33:53] [Async Chat Thread - #35/INFO]: [Not Secure] <Panzi01> NBO
-[23:33:59] [Server thread/INFO]: v783 issued server command: /invsee DAVID_PY
-[23:34:11] [Async Chat Thread - #36/INFO]: [Not Secure] <JzYq> kadjawdjad
-[23:34:13] [Async Chat Thread - #35/INFO]: [Not Secure] <JzYq> k wea
-[23:34:17] [Async Chat Thread - #35/INFO]: [Not Secure] <JzYq> te siguen como 8
-[23:34:19] [Server thread/INFO]: Yesvy has made the advancement [Remote Getaway]
-[23:34:23] [Async Chat Thread - #35/INFO]: [Not Secure] <DAVID_PY> ptmr
-[23:34:28] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
-[23:34:36] [Server thread/INFO]: v783 issued server command: /msg DAVID_PY quieres vivir?
-[23:34:39] [Server thread/INFO]: DAVID_PY issued server command: /r si
-[23:34:41] [Async Chat Thread - #35/INFO]: [Not Secure] <DAVID_PY> si
-[23:34:48] [Server thread/INFO]: v783 issued server command: /r contrato conmigo
-[23:35:13] [Server thread/INFO]: DAVID_PY has reached the goal [Postmortal]
-[23:35:15] [Server thread/INFO]: ManuEV lost connection: Disconnected
-[23:35:29] [Async Chat Thread - #36/INFO]: [Not Secure] <zGander> se gasto totem
-[23:35:51] [Server thread/INFO]: JzYq lost connection: Disconnected
-[23:36:03] [Async Chat Thread - #36/INFO]: [Not Secure] <DAVID_PY> ptmr
-[23:36:03] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
-[23:36:16] [Server thread/INFO]: DAVID_PY issued server command: /msg v783 como cual
-[23:36:19] [Async Chat Thread - #35/INFO]: [Not Secure] <DAVID_PY> como cual trato
-[23:36:44] [Server thread/INFO]: DAVID_PY lost connection: Disconnected
-[23:36:49] [Server thread/INFO]: v783 issued server command: /r el trato es que me des el huevo y luego te lo quedas
-[23:37:19] [Server thread/WARN]: Panzi01 moved wrongly!
-[23:37:55] [Server thread/INFO]: v783 issued server command: /msg Panzi01 quieres vivir?
-[23:37:57] [Server thread/INFO]: v783 issued server command: /tp Panzi01
-[23:38:01] [Server thread/INFO]: v783 issued server command: /invsee
-[23:38:32] [Server thread/INFO]: v783 issued server command: /tp Panzi01 v783
-[23:38:36] [Server thread/INFO]: v783 issued server command: /r acepta mi contrato
-[23:38:40] [Server thread/INFO]: v783 issued server command: /r o te entrego
-[23:38:47] [Server thread/INFO]: v783 issued server command: /r apaga la pantalla
-[23:39:08] [Async Chat Thread - #38/INFO]: [Not Secure] <abdiel2707> tp
-[23:39:26] [Server thread/INFO]: v783 issued server command: /r leelo
-[23:39:28] [Async Chat Thread - #39/INFO]: [Not Secure] <abdiel2707> tp
-[23:39:28] [Async Chat Thread - #39/INFO]: [Not Secure] <abdiel2707> tp
-[23:39:28] [Async Chat Thread - #38/INFO]: [Not Secure] <abdiel2707> tp
-[23:39:44] [Async Chat Thread - #38/INFO]: [Not Secure] <abdiel2707> tp
-[23:39:44] [Async Chat Thread - #39/INFO]: [Not Secure] <abdiel2707> tp
-[23:39:44] [Async Chat Thread - #39/INFO]: [Not Secure] <abdiel2707> tp
-[23:39:56] [Server thread/INFO]: abdiel2707 lost connection: Disconnected
-[23:41:14] [Async Chat Thread - #40/INFO]: [Not Secure] <zGander> ya se acabaron?
+[00:10:24] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
+[00:10:24] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
+[00:10:24] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[00:10:24] [Server thread/INFO]: [AuthMe] Checking for updates...
+[00:10:24] [Server thread/INFO]: [PluginPortal] Enabling PluginPortal v2.0.4
+[00:10:24] [Server thread/INFO]: [PluginPortal] SYSTEM LOAD_PLUGINS Loaded 2 plugins from local cache
+[00:10:25] [Server thread/INFO]: Preparing start region for dimension minecraft:world_herobrine_graveyard
+[00:10:26] [Server thread/INFO]: Time elapsed: 931 ms
+[00:10:26] [Server thread/INFO]: Running delayed init tasks
+[00:10:26] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:10:26] [Craft Scheduler Thread - 4 - HeadDatabase/INFO]: [HeadDatabase] Trying to download heads [Try 1/10]
+[00:10:26] [Server thread/INFO]: [CombatLogX] Successfully enabled 0 late-load expansion.
+[00:10:26] [Server thread/INFO]: Done (22.518s)! For help, type "help"
+[00:10:26] [Server thread/INFO]: Timings Reset
+[00:10:26] [Craft Scheduler Thread - 5 - ClansLite/INFO]: ClansLite: *-------------------------------------------*
+[00:10:26] [Craft Scheduler Thread - 5 - ClansLite/INFO]: ClansLite: Plugin is up to date!
+[00:10:26] [Craft Scheduler Thread - 5 - ClansLite/INFO]: ClansLite: *-------------------------------------------*
+[00:10:26] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[00:10:26] [Craft Scheduler Thread - 3 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
+[00:10:26] [Craft Scheduler Thread - 7 - AuthMe/INFO]: [AuthMe] You are running the latest version.
+[00:10:26] [Thread-12/INFO]: A new version of Herobrine is available.
+To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
+[00:10:27] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[00:10:27] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Found a possible update for plugin 'BlueSlimeCore'.
+[00:10:27] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Local Version: 2.9.6.431
+[00:10:27] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Remote Version: 2.9.6.445
+[00:10:27] [Craft Scheduler Thread - 2 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] Download Link: https://hangar.papermc.io/SirBlobman/BlueSlimeCore
+[00:10:27] [Craft Scheduler Thread - 1 - TrollV4/INFO]: [TrollV4] TrollV4 has no update
+[00:10:27] [Craft Scheduler Thread - 2 - ProAntiTab/INFO]: [PAT | Bukkit] You are using the newest version! ^^
+[00:10:29] [Craft Scheduler Thread - 4 - HeadDatabase/INFO]: [HeadDatabase] Updated local database
+[00:10:31] [Craft Scheduler Thread - 2 - ClansLite/INFO]: ClansLite: Auto save task has started.
+[00:10:31] [Craft Scheduler Thread - 1 - ClansLite/INFO]: ClansLite: Auto invite wipe task has started.
+[00:10:31] [Craft Scheduler Thread - 4 - ClansLite/INFO]: ClansLite: Started top clan points cache update task.
+[00:10:31] [Craft Scheduler Thread - 4 - ClansLite/INFO]: ClansLite: Started top player points cache update task.
+[00:10:32] [Craft Scheduler Thread - 1 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[00:10:32] [Craft Scheduler Thread - 4 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[00:10:32] [Craft Scheduler Thread - 4 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[00:14:22] [User Authenticator #0/INFO]: UUID of player xXqucasXx is f9a6d05f-d652-38c9-8467-d491eb7443d8
+[00:14:22] [Server thread/INFO]: xXqucasXx[/127.61.10.242:39837] logged in with entity id 462 at ([world]3.5, 126.0, -5.5)
+[00:15:36] [Server thread/INFO]: [AuthMe] xXqucasXx registered 127.61.10.242
+[00:15:36] [Craft Scheduler Thread - 15 - AuthMe/INFO]: [AuthMe] xXqucasXx logged in 127.61.10.242
+[00:17:13] [Server thread/INFO]: xXqucasXx lost connection: Disconnected

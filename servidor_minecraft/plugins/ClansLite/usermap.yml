@@ -1,0 +1,38 @@
+users:
+  data:
+    d9fadb25-ac86-3b98-a3b9-78c6b1d90e09:
+      javaUUID: d9fadb25-ac86-3b98-a3b9-78c6b1d90e09
+      lastPlayerName: Makit0oo
+      pointBalance: 290
+      canChatSpy: true
+      isBedrockPlayer: false
+    9d53235f-5e50-388a-8b7d-1b43c79c07c5:
+      javaUUID: 9d53235f-5e50-388a-8b7d-1b43c79c07c5
+      lastPlayerName: BqYz
+      pointBalance: 0
+      canChatSpy: false
+      isBedrockPlayer: false
+    2fa73f42-7d4f-3aec-8454-a9a0a5972a76:
+      javaUUID: 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
+      lastPlayerName: _6Jul9_
+      pointBalance: 5
+      canChatSpy: false
+      isBedrockPlayer: false
+    6bafee90-e623-3ffb-81c6-5f7469ef52e3:
+      javaUUID: 6bafee90-e623-3ffb-81c6-5f7469ef52e3
+      lastPlayerName: Yesvy
+      pointBalance: 0
+      canChatSpy: false
+      isBedrockPlayer: false
+    39f69b13-e587-344f-b79f-eb9654de9c83:
+      javaUUID: 39f69b13-e587-344f-b79f-eb9654de9c83
+      lastPlayerName: v783
+      pointBalance: 165
+      canChatSpy: false
+      isBedrockPlayer: false
+    d23e8853-c241-3acd-8959-bdfa9cecc57a:
+      javaUUID: d23e8853-c241-3acd-8959-bdfa9cecc57a
+      lastPlayerName: DAVID_PY
+      pointBalance: 15
+      canChatSpy: false
+      isBedrockPlayer: false

@@ -1,0 +1,24 @@
+global:
+  commands:
+  - clanchat
+  - clan
+  - msg
+  - clans
+  - whisper
+  - tell
+  - login
+  - register
+  - afk
+  - changepassword
+  - changepass
+groups:
+  examplegroup:
+    priority: 1
+    commands:
+    - tell
+    - msg
+  players:
+    priority: 1
+    commands:
+    - msg
+    - clan

@@ -1,7 +1,7 @@
 # SuperVanish v6.2.20 - Data file
 
 InvisiblePlayers:
-- 39f69b13-e587-344f-b79f-eb9654de9c83
+- d9fadb25-ac86-3b98-a3b9-78c6b1d90e09
 PlayerData:
   39f69b13-e587-344f-b79f-eb9654de9c83:
     information:
@@ -9,3 +9,9 @@ PlayerData:
   422d3365-4f29-37e8-8d41-61e19f0d07c3:
     information:
       name: Panzi01
+  0aacaef5-a95c-3d40-b950-e353ea18e585:
+    information:
+      name: Handsupand
+  d9fadb25-ac86-3b98-a3b9-78c6b1d90e09:
+    information:
+      name: Makit0oo

@@ -1,0 +1,50 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.202.253.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732945980225
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732945885895
+  login: 1732945849596
+  kits:
+    notch: 1732943619115
+    makit0oo: 0
+money: '0'
+last-account-name: Makit0oo
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -36323.48166488431
+  y: 114.14323763821614
+  z: -20183.965736784463
+  yaw: -3.0441126823425293
+  pitch: 9.2965726852417
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -36289.13749998808
+  y: 123.20000004768372
+  z: -20198.788833344817
+  yaw: 14.026519775390625
+  pitch: 5.56625509262085
+nickname: §f§lNotch
+mail:
+- legacy: false
+  read: true
+  message: Tkm
+  sender-name: Makit0oo
+  sender-uuid: d9fadb25-ac86-3b98-a3b9-78c6b1d90e09
+  timestamp: 1732941590086
+  expire: 0

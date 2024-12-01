@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.202.253.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732938400261
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732938615056
+  login: 1732938613395
+money: '0'
+last-account-name: Handsupand
+lastlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: 57.99390802193115
+  y: 133.6733317269102
+  z: 34.73425899662427
+  yaw: 159.57794189453125
+  pitch: -12.315802574157715
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -7.5
+  y: 136.10000000149012
+  z: 4.5
+  yaw: 0.0
+  pitch: 0.0
