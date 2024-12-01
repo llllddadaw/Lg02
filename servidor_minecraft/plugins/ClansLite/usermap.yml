@@ -36,3 +36,9 @@ users:
       pointBalance: 15
       canChatSpy: false
       isBedrockPlayer: false
+    f9a6d05f-d652-38c9-8467-d491eb7443d8:
+      javaUUID: f9a6d05f-d652-38c9-8467-d491eb7443d8
+      lastPlayerName: xXqucasXx
+      pointBalance: 0
+      canChatSpy: false
+      isBedrockPlayer: false
