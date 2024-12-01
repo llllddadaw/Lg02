@@ -237,3 +237,13 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [00:25:32] [Craft Scheduler Thread - 21 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
 [00:25:32] [Craft Scheduler Thread - 20 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
 [00:25:32] [Craft Scheduler Thread - 20 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[00:36:57] [User Authenticator #1/INFO]: UUID of player v783 is 39f69b13-e587-344f-b79f-eb9654de9c83
+[00:36:57] [Server thread/INFO]: v783[/127.51.33.129:56219] logged in with entity id 896 at ([world]-36259.261587539986, 125.39822357547094, -20194.163764226672)
+[00:36:57] [Craft Scheduler Thread - 28 - AuthMe/INFO]: [AuthMe] v783 logged in 127.51.33.129
+[00:37:20] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/1169, uuid='f4db597e-6ecc-49a9-8028-dd2d0f90a2ee', l='ServerLevel[world]', x=-36306.50, y=54.00, z=-20164.50, cpos=[-2270, -1261], tl=0, v=false] died: Demon died
+[00:40:10] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/1433, uuid='d84039b9-98cf-4300-8ada-0fa20c436f20', l='ServerLevel[world]', x=-36252.50, y=27.00, z=-20232.50, cpos=[-2266, -1265], tl=0, v=false] died: Herobrine Warrior died
+[00:40:26] [Craft Scheduler Thread - 29 - LibsDisguises/INFO]: [LibsDisguises] Now looking for update on Github..
+[00:40:32] [Craft Scheduler Thread - 30 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[00:40:32] [Craft Scheduler Thread - 30 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[00:40:32] [Craft Scheduler Thread - 31 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[00:40:32] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/1476, uuid='114cd590-9a29-4fb8-b146-c63fc4ccdfa0', l='ServerLevel[world]', x=-36282.50, y=51.00, z=-20163.50, cpos=[-2268, -1261], tl=0, v=false] died: Demon died

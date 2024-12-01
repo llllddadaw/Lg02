@@ -4,7 +4,7 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 127.51.33.129
-afk: false
+afk: true
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1732946041253
-  login: 1732944637396
+  login: 1733013417830
   kits:
     notch: 1732943707390
 money: '0'
