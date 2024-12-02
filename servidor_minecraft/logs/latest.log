@@ -222,3 +222,116 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [01:08:26] [Async Chat Thread - #23/INFO]: [Not Secure] <_6Jul9_> de q
 [01:08:32] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
 [01:08:39] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[01:09:26] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[01:09:47] [Server thread/INFO]: Yesvy lost connection: Timed out
+[01:09:57] [User Authenticator #12/INFO]: UUID of player Yesvy is 6bafee90-e623-3ffb-81c6-5f7469ef52e3
+[01:09:57] [Server thread/INFO]: Yesvy[/127.124.98.179:35659] logged in with entity id 119046 at ([world]-117.69999998807907, 65.0, -320.9141686119339)
+[01:09:57] [Craft Scheduler Thread - 97 - AuthMe/INFO]: [AuthMe] Yesvy logged in 127.124.98.179
+[01:10:32] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:12:20] [Server thread/WARN]: _6Jul9_ moved wrongly!
+[01:12:24] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy donde andas
+[01:12:28] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:28] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:29] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:29] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:30] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:30] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:31] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:31] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:32] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:32] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:33] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:33] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:33] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ tienes encendedor?
+[01:12:34] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:34] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:36] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:36] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:37] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:37] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:37] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:37] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:38] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy si
+[01:12:40] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:40] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:40] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:40] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:41] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:41] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:42] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:42] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:42] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:42] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:42] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:42] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:43] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:43] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:44] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:12:44] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:12:50] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ ve al spawn
+[01:12:56] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy estoy ahi
+[01:13:12] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[01:13:18] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:13:25] [Server thread/WARN]: _6Jul9_ moved too quickly! 27.020835991544118,-5.47624411141598,-8.726534904346309
+[01:13:36] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/124277, uuid='a43bb20d-22c8-4536-9c95-a2be58e89b25', l='ServerLevel[world]', x=-2.50, y=59.00, z=91.50, cpos=[-1, 5], tl=0, v=false] died: Demon died
+[01:13:41] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/124579, uuid='912487f6-0b45-4f4b-974d-be2ae8c0aaad', l='ServerLevel[world]', x=49.50, y=89.00, z=-110.50, cpos=[3, -7], tl=0, v=false] died: Demon died
+[01:13:48] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/124781, uuid='bac83f80-d796-4170-9d24-46f8b82c180b', l='ServerLevel[world]', x=134.50, y=-10.00, z=2431.50, cpos=[8, 151], tl=0, v=false] died: Herobrine Warrior died
+[01:13:48] [Server thread/INFO]: v783 issued server command: /invsee _6Jul9_
+[01:13:54] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ vXDDD
+[01:13:55] [Server thread/WARN]: _6Jul9_ moved too quickly! 5.234591173439176,-4.647992993957516,8.508286654269773
+[01:13:57] [Server thread/INFO]: v783 issued server command: /invsee _6Jul9_
+[01:14:00] [Server thread/INFO]: [Not Secure] [Server] jadjwajduw
+[01:14:04] [Server thread/INFO]: [Not Secure] [Server] me equivoque
+[01:14:15] [Async Chat Thread - #25/INFO]: [Not Secure] <_6Jul9_> de que hablas
+[01:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[01:14:55] [Craft Scheduler Thread - 98 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[01:14:55] [Craft Scheduler Thread - 99 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[01:14:55] [Craft Scheduler Thread - 99 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[01:15:01] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/126812, uuid='77d87027-e109-4941-899c-310fea349be3', l='ServerLevel[world]', x=-35.50, y=88.00, z=41.50, cpos=[-3, 2], tl=0, v=false] died: Demon died
+[01:15:03] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/126852, uuid='2b728a2d-2f28-4c27-b264-c0e38fa94c06', l='ServerLevel[world]', x=10.50, y=37.00, z=25.50, cpos=[0, 1], tl=0, v=false] died: Demon died
+[01:15:56] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy tu lo estas matando?
+[01:16:00] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ SI XD
+[01:16:42] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:17:00] [Async Chat Thread - #27/INFO]: [Not Secure] <discordia00> muchachos que es demon
+[01:17:06] [Async Chat Thread - #28/INFO]: [Not Secure] <Yesvy> ANGEL
+[01:17:07] [User Authenticator #13/INFO]: UUID of player drinne is 465d69ca-e71b-3cf0-9814-1ffaa3b7fef6
+[01:17:07] [Server thread/INFO]: drinne[/127.21.20.230:57941] logged in with entity id 129510 at ([world_nether]-3555.7251767682305, 43.0, -1147.2372853630802)
+[01:17:08] [Server thread/INFO]: v783 issued server command: /tp discordia00
+[01:17:09] [Async Chat Thread - #29/INFO]: [Not Secure] <_6Jul9_> Dios
+[01:17:15] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:17:16] [Server thread/INFO]: v783 issued server command: /vanish
+[01:17:17] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:17:17] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:17:18] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/128640, uuid='9f87a8bb-5046-4877-9469-5468a43180d6', l='ServerLevel[world]', x=238.49, y=67.94, z=2507.42, cpos=[14, 156], tl=1115, v=true] died: Demon was slain by discordia00
+[01:17:19] [Server thread/INFO]: v783 issued server command: /vanish
+[01:17:21] [Server thread/INFO]: ClansLite: Yesvy did not have enough points to remove when they were killed!
+[01:17:21] [Server thread/INFO]: Yesvy was slain by v783
+[01:17:24] [Craft Scheduler Thread - 103 - AuthMe/INFO]: [AuthMe] drinne logged in 127.21.20.230
+[01:17:25] [Async Chat Thread - #29/INFO]: [Not Secure] <Yesvy> oe
+[01:17:28] [Async Chat Thread - #28/INFO]: [Not Secure] <_6Jul9_> el diablo
+[01:17:32] [Server thread/INFO]: v783 issued server command: /tp Yesvy _6Jul9_
+[01:17:47] [Server thread/INFO]: v783 issued server command: /herobrine speak ...
+[01:17:47] [Server thread/INFO]: <Herobrine> ...
+[01:17:49] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ hola manito
+[01:17:58] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne hola drinne
+[01:18:01] [Server thread/INFO]: v783 issued server command: /invsee _6Jul9_
+[01:18:04] [Server thread/INFO]: drinne issued server command: /r bien o q?
+[01:18:13] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ como vamos?
+[01:18:24] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne ahi bien puse casi 100 whiters en el spawn
+[01:18:24] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:18:24] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:18:37] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ bien bien
+[01:18:46] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne y tu
+[01:18:48] [Server thread/INFO]: drinne issued server command: /msg sabes las coords de la base?
+[01:19:04] [Async Chat Thread - #30/INFO]: [Not Secure] <_6Jul9_> Yesvy dame 10min ahorita vuelvo
+[01:19:09] [Async Chat Thread - #31/INFO]: [Not Secure] <Yesvy> va
+[01:19:10] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ no me habia podido conectar desde el jueves
+[01:19:16] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne eso vi mano
+[01:19:16] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/132293, uuid='0791129b-d718-44e9-8486-e00073d3c4aa', l='ServerLevel[world]', x=-21.50, y=-2.00, z=-38.50, cpos=[-2, -3], tl=0, v=false] died: Demon died
+[01:19:21] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne dame 10min ahorita vuelvo
+[01:19:23] [Server thread/INFO]: _6Jul9_ lost connection: Disconnected
+[01:19:25] [Server thread/INFO]: drinne issued server command: /msg sip dale

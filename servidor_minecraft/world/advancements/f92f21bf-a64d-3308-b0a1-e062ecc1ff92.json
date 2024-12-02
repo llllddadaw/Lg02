@@ -745,6 +745,7 @@
       "minecraft:magma_cube": "2024-12-02 00:11:38 +0000",
       "minecraft:spider": "2024-11-24 23:26:40 +0000",
       "minecraft:creeper": "2024-11-25 23:27:41 +0000",
+      "minecraft:phantom": "2024-12-02 01:19:06 +0000",
       "minecraft:wither_skeleton": "2024-12-02 00:07:33 +0000",
       "minecraft:piglin": "2024-12-02 00:04:41 +0000",
       "minecraft:enderman": "2024-12-01 23:58:20 +0000",
@@ -2162,6 +2163,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-02 00:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-02 01:15:43 +0000"
     },
     "done": true
   },
