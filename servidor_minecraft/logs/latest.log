@@ -1761,3 +1761,73 @@ java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_20_R1.block.impl.C
 [03:25:12] [Async Chat Thread - #94/INFO]: [Not Secure] <discordia00> herobrine los aldeanos no se reproducen
 [03:25:12] [Async Chat Thread - #94/INFO]: [Not Secure] <_6Jul9_> JAJAJ
 [03:25:15] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
+[03:25:24] [Server thread/INFO]: v783 issued server command: /herobrine speak lo que te quite antes empezaras con menos
+[03:25:24] [Server thread/INFO]: <Herobrine> lo que te quite antes empezaras con menos
+[03:25:29] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:25:39] [Server thread/INFO]: v783 issued server command: /invsee _6Jul9_
+[03:25:43] [Async Chat Thread - #94/INFO]: [Not Secure] <_6Jul9_> oe
+[03:25:43] [Server thread/INFO]: v783 issued server command: /ec _6Jul9_
+[03:25:46] [Async Chat Thread - #94/INFO]: [Not Secure] <_6Jul9_> pa que me lo das tons
+[03:25:49] [Async Chat Thread - #94/INFO]: [Not Secure] <discordia00> n0 c0gen los estupidos
+[03:26:34] [Server thread/INFO]: [Not Secure] [Server] me dio sueño
+[03:26:36] [Server thread/INFO]: [Not Secure] [Server] nos vemos
+[03:26:40] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[03:26:49] [Async Chat Thread - #94/INFO]: [Not Secure] <_6Jul9_> nana
+[03:26:56] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:27:35] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/448778, uuid='764dfada-6dea-4482-a371-49946afd399c', l='ServerLevel[world]', x=241.50, y=14.00, z=-429.50, cpos=[15, -27], tl=0, v=false] died: Demon died
+[03:28:29] [Server thread/INFO]: v783 issued server command: /herobrine speak Esto les pasa por bqyz
+[03:28:29] [Server thread/INFO]: <Herobrine> Esto les pasa por bqyz
+[03:28:41] [Server thread/INFO]: v783 issued server command: /alts _6Jul9_
+[03:28:47] [Async Chat Thread - #96/INFO]: [Not Secure] <_6Jul9_> ese q
+[03:28:56] [Async Chat Thread - #96/INFO]: [Not Secure] <_6Jul9_> tu le robaste lo que querias en el enderchest
+[03:29:15] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/453122, uuid='5d2fb638-ff4c-48c6-b894-a28625562d00', l='ServerLevel[world]', x=196.50, y=5.00, z=2458.50, cpos=[12, 153], tl=0, v=false] died: Herobrine Warrior died
+[03:29:31] [Server thread/INFO]: v783 issued server command: /herobrine speak No me lo dio a la primera
+[03:29:31] [Server thread/INFO]: <Herobrine> No me lo dio a la primera
+[03:29:47] [Async Chat Thread - #97/INFO]: [Not Secure] <_6Jul9_> se lo quitaste cuenta como que te lo consiguio
+[03:29:54] [Server thread/INFO]: v783 issued server command: /herobrine speak No
+[03:29:54] [Server thread/INFO]: <Herobrine> No
+[03:29:55] [Craft Scheduler Thread - 217 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[03:29:55] [Craft Scheduler Thread - 218 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[03:29:55] [Craft Scheduler Thread - 218 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[03:29:58] [Async Chat Thread - #97/INFO]: [Not Secure] <_6Jul9_> si
+[03:30:03] [Server thread/INFO]: v783 issued server command: /herobrine help
+[03:30:16] [Server thread/INFO]: v783 issued server command: /herobrine heads _6Jul9_
+[03:30:24] [Server thread/INFO]: v783 issued server command: /invsee _6Jul9_
+[03:30:27] [Server thread/INFO]: v783 issued server command: /invsee _6Jul9_
+[03:30:48] [Async Chat Thread - #97/INFO]: [Not Secure] <_6Jul9_> dame 1 elytra minimo
+[03:30:53] [Server thread/INFO]: v783 issued server command: /herobrine heads v783
+[03:31:30] [Server thread/INFO]: v783 issued server command: /herobrine speak Era solo aceptar
+[03:31:30] [Server thread/INFO]: <Herobrine> Era solo aceptar
+[03:31:37] [Server thread/INFO]: v783 issued server command: /herobrine speak Y tendrias poder
+[03:31:37] [Server thread/INFO]: <Herobrine> Y tendrias poder
+[03:31:52] [Async Chat Thread - #98/INFO]: [Not Secure] <_6Jul9_> mi dignidad no lo permite
+[03:32:01] [Async Chat Thread - #98/INFO]: [Not Secure] <_6Jul9_> yo facil me mataba a los whiters
+[03:32:05] [Server thread/INFO]: v783 issued server command: /herobrine speak Firmar mi contrato
+[03:32:05] [Server thread/INFO]: <Herobrine> Firmar mi contrato
+[03:32:27] [Server thread/INFO]: v783 issued server command: /troll
+[03:32:33] [Async Chat Thread - #100/INFO]: [Not Secure] <_6Jul9_> na
+[03:32:39] [Server thread/INFO]: v783 issued server command: /troll
+[03:32:40] [Async Chat Thread - #100/INFO]: [Not Secure] <_6Jul9_> que es este cubo
+[03:32:44] [Server thread/INFO]: _6Jul9_ fell from a high place
+[03:32:47] [Async Chat Thread - #100/INFO]: [Not Secure] <_6Jul9_> a
+[03:32:48] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:32:57] [Async Chat Thread - #100/INFO]: [Not Secure] <_6Jul9_> otra vez
+[03:33:00] [Server thread/INFO]: v783 issued server command: /troll
+[03:33:00] [Async Chat Thread - #100/INFO]: [Not Secure] <_6Jul9_> esta si me sale
+[03:33:09] [Async Chat Thread - #100/INFO]: [Not Secure] <_6Jul9_> asd
+[03:33:09] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[03:33:09] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[03:33:24] [Async Chat Thread - #98/INFO]: [Not Secure] <_6Jul9_> ahora llevame a mis cosas
+[03:33:32] [Server thread/INFO]: v783 issued server command: /herobrine speak Me voy
+[03:33:32] [Server thread/INFO]: <Herobrine> Me voy
+[03:33:41] [Async Chat Thread - #98/INFO]: [Not Secure] <_6Jul9_> tarado
+[03:33:44] [Server thread/INFO]: v783 issued server command: /herobrine speak .
+[03:33:44] [Server thread/INFO]: <Herobrine> .
+[03:35:00] [Server thread/INFO]: v783 issued server command: /tpa _6Jul9_
+[03:35:03] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:35:19] [Server thread/INFO]: v783 issued server command: /tp discordia00
+[03:35:22] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[03:35:22] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[03:35:25] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/473143, uuid='3472978b-f77d-49b5-a56e-284caceb2ad3', l='ServerLevel[world]', x=371.68, y=68.00, z=3074.28, cpos=[23, 192], tl=161, v=true] died: Demon was slain by v783
+[03:35:32] [Server thread/INFO]: v783 issued server command: /herobrine cancel discordia00
+[03:35:38] [Server thread/INFO]: v783 issued server command: /tp discordia00
