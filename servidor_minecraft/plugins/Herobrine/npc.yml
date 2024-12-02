@@ -17,7 +17,7 @@ npc:
     Drops:
       IRON_CHESTPLATE:
         Chance: 25
-        Count: 1
+        Count: 20
       IRON_HELMET:
         Chance: 20
         Count: 1

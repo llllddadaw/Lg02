@@ -3005,5 +3005,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 01:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 01:53:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

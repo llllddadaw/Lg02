@@ -15,7 +15,7 @@ users:
     2fa73f42-7d4f-3aec-8454-a9a0a5972a76:
       javaUUID: 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
       lastPlayerName: _6Jul9_
-      pointBalance: 5
+      pointBalance: 0
       canChatSpy: false
       isBedrockPlayer: false
     6bafee90-e623-3ffb-81c6-5f7469ef52e3:
@@ -27,7 +27,7 @@ users:
     39f69b13-e587-344f-b79f-eb9654de9c83:
       javaUUID: 39f69b13-e587-344f-b79f-eb9654de9c83
       lastPlayerName: v783
-      pointBalance: 170
+      pointBalance: 185
       canChatSpy: false
       isBedrockPlayer: false
     d23e8853-c241-3acd-8959-bdfa9cecc57a:
