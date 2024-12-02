@@ -1691,3 +1691,73 @@ java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_20_R1.block.impl.C
 [03:13:46] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne peleando con los whiters
 [03:14:18] [Server thread/INFO]: v783 issued server command: /tp Yesvy
 [03:14:29] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:14:55] [Craft Scheduler Thread - 207 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[03:14:55] [Craft Scheduler Thread - 208 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[03:14:55] [Craft Scheduler Thread - 208 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[03:14:58] [Server thread/INFO]: v783 issued server command: /tp discordia00
+[03:15:00] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne nomas me los soleo y me recompensa
+[03:15:04] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/398755, uuid='a120aa22-4a7f-45b6-9726-a771611a79b1', l='ServerLevel[world]', x=134.50, y=-9.00, z=2426.50, cpos=[8, 151], tl=0, v=false] died: Demon died
+[03:15:07] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:15:11] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ te ayudo?
+[03:15:17] [Server thread/INFO]: v783 issued server command: /tp drinne
+[03:15:17] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne na yo puedo
+[03:15:26] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne tranca que son faciles de matar
+[03:15:38] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ dale
+[03:15:56] [Server thread/INFO]: v783 issued server command: /tp drinne
+[03:16:02] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:16:33] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/406032, uuid='47e94ce9-6c3d-4f9a-9bdc-c81275201f58', l='ServerLevel[world]', x=-2680.50, y=67.00, z=-1640.50, cpos=[-168, -103], tl=0, v=false] died: Demon died
+[03:17:29] [Server thread/INFO]: drinne lost connection: Disconnected
+[03:18:27] [Async Chat Thread - #89/INFO]: [Not Secure] <_6Jul9_> -1
+[03:18:37] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:18:49] [Server thread/INFO]: v783 issued server command: /herobrine help
+[03:18:54] [Server thread/INFO]: v783 issued server command: /herobrine curse _6Jul9_
+[03:19:25] [Server thread/INFO]: v783 issued server command: /herobrine speak Solo acepta
+[03:19:25] [Server thread/INFO]: <Herobrine> Solo acepta
+[03:19:31] [Async Chat Thread - #91/INFO]: [Not Secure] <_6Jul9_> jamas
+[03:19:43] [Async Chat Thread - #91/INFO]: [Not Secure] <_6Jul9_> se me lageo
+[03:20:18] [Server thread/INFO]: v783 issued server command: /herobrine speak Acepta y te dejare en paz
+[03:20:18] [Server thread/INFO]: <Herobrine> Acepta y te dejare en paz
+[03:20:23] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:20:32] [Async Chat Thread - #91/INFO]: [Not Secure] <_6Jul9_> j a m a s
+[03:20:43] [Async Chat Thread - #91/INFO]: [Not Secure] <_6Jul9_> es mi dignidad
+[03:20:47] [Server thread/INFO]: v783 issued server command: /herobrine speak Proxima vez que mueras no habra tp
+[03:20:47] [Server thread/INFO]: <Herobrine> Proxima vez que mueras no habra tp
+[03:21:00] [Server thread/INFO]: v783 issued server command: /herobrine speak Empezaras de 0
+[03:21:00] [Server thread/INFO]: <Herobrine> Empezaras de 0
+[03:21:07] [Async Chat Thread - #91/INFO]: [Not Secure] <_6Jul9_> yo soy capaz
+[03:21:30] [Server thread/INFO]: v783 issued server command: /herobrine curse _6Jul9_
+[03:21:36] [Server thread/INFO]: _6Jul9_ was slain by v783
+[03:21:41] [Async Chat Thread - #91/INFO]: [Not Secure] <_6Jul9_> nana
+[03:21:44] [Async Chat Thread - #92/INFO]: [Not Secure] <_6Jul9_> te involucraste
+[03:21:48] [Async Chat Thread - #92/INFO]: [Not Secure] <_6Jul9_> malaso
+[03:21:49] [Server thread/INFO]: v783 issued server command: /herobrine speak Un hijo mio te mato
+[03:21:49] [Server thread/INFO]: <Herobrine> Un hijo mio te mato
+[03:21:52] [Server thread/INFO]: v783 issued server command: /herobrine speak Con mi poder
+[03:21:52] [Server thread/INFO]: <Herobrine> Con mi poder
+[03:22:05] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
+[03:22:10] [Async Chat Thread - #92/INFO]: [Not Secure] <discordia00> herobrine los aldeanos no se reproducen
+[03:22:11] [Server thread/INFO]: v783 issued server command: /herobrine speak Solo por que sali omi muerte
+[03:22:11] [Server thread/INFO]: <Herobrine> Solo por que sali omi muerte
+[03:22:23] [Async Chat Thread - #91/INFO]: [Not Secure] <_6Jul9_> i win
+[03:22:51] [Server thread/INFO]: _6Jul9_ was slain by Warden
+[03:22:57] [Async Chat Thread - #92/INFO]: [Not Secure] <_6Jul9_> aceptalo yo gano
+[03:23:23] [Server thread/INFO]: v783 issued server command: /herobrine speak Nos vemos
+[03:23:23] [Server thread/INFO]: <Herobrine> Nos vemos
+[03:23:24] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:23:25] [Async Chat Thread - #92/INFO]: [Not Secure] <_6Jul9_> me mate a la mayoria de tus whiters
+[03:23:36] [Server thread/INFO]: v783 issued server command: /herobrine speak Y quedaban 100 mas
+[03:23:36] [Server thread/INFO]: <Herobrine> Y quedaban 100 mas
+[03:23:40] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy traeme un enderchest
+[03:23:42] [Async Chat Thread - #92/INFO]: [Not Secure] <_6Jul9_> me los mataba
+[03:23:45] [Async Chat Thread - #93/INFO]: [Not Secure] <_6Jul9_> malo malo
+[03:23:49] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ pero yo estoy re lejos XD
+[03:24:00] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy no recuerdo donde deje uno
+[03:24:04] [Server thread/INFO]: v783 issued server command: /herobrine speak empezar de 0 te volvera mas fuerte
+[03:24:04] [Server thread/INFO]: <Herobrine> empezar de 0 te volvera mas fuerte
+[03:24:09] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:25:00] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
+[03:25:05] [Async Chat Thread - #94/INFO]: [Not Secure] <_6Jul9_> amen
+[03:25:10] [Server thread/INFO]: _6Jul9_ withered away whilst fighting Wither
+[03:25:12] [Async Chat Thread - #94/INFO]: [Not Secure] <discordia00> herobrine los aldeanos no se reproducen
+[03:25:12] [Async Chat Thread - #94/INFO]: [Not Secure] <_6Jul9_> JAJAJ
+[03:25:15] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
