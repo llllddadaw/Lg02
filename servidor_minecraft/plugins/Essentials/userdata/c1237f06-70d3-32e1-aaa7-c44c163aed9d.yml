@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1733097917682
   login: 1733097645670
 money: '0'
 last-account-name: asd10293
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -25.363322754966966
+  y: 129.0
+  z: -55.76134812310834
+  yaw: 56.110595703125
+  pitch: 12.052865982055664

@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1733098317984
   login: 1733097768079
 money: '0'
 last-account-name: mayel100
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -90.98457620056804
+  y: 120.0
+  z: -42.67382666876858
+  yaw: 9.54107666015625
+  pitch: 9.722288131713867

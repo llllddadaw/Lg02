@@ -60,3 +60,15 @@ users:
       pointBalance: 0
       canChatSpy: false
       isBedrockPlayer: false
+    957d6fee-52ff-3127-ae25-72dac00b8a7f:
+      javaUUID: 957d6fee-52ff-3127-ae25-72dac00b8a7f
+      lastPlayerName: mayel100
+      pointBalance: 0
+      canChatSpy: false
+      isBedrockPlayer: false
+    c1237f06-70d3-32e1-aaa7-c44c163aed9d:
+      javaUUID: c1237f06-70d3-32e1-aaa7-c44c163aed9d
+      lastPlayerName: asd10293
+      pointBalance: 10
+      canChatSpy: false
+      isBedrockPlayer: false
