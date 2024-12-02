@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733102235045
+  lastteleport: 1733102939114
   lastheal: 0
   mute: 0
   jail: 0
@@ -25,11 +25,11 @@ nickname: §f§lHerobrine
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: 224.71624773809785
-  y: 72.1853325757238
-  z: 2497.684602733273
-  yaw: 159.4404296875
-  pitch: 20.154211044311523
+  x: -34.30000001192093
+  y: -40.0
+  z: -105.87759805568714
+  yaw: 90.47476196289062
+  pitch: 15.604378700256348
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world

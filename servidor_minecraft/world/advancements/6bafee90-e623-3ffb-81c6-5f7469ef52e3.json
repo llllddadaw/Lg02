@@ -1003,6 +1003,7 @@
       "minecraft:magma_cube": "2024-11-25 04:21:13 +0000",
       "minecraft:spider": "2024-11-25 00:22:22 +0000",
       "minecraft:creeper": "2024-11-25 00:45:50 +0000",
+      "minecraft:wither": "2024-12-02 01:15:53 +0000",
       "minecraft:evoker": "2024-11-25 03:49:02 +0000",
       "minecraft:phantom": "2024-11-26 21:49:03 +0000",
       "minecraft:witch": "2024-11-25 03:27:49 +0000",
@@ -2981,6 +2982,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-02 01:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-02 01:16:03 +0000"
     },
     "done": true
   },

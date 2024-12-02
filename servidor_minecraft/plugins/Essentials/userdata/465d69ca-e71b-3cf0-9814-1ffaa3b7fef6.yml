@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732765031969
+  logout: 1733102636930
   login: 1733102227471
 money: '0'
 last-account-name: drinne
 logoutlocation:
   world: 0002db0d-ff51-4509-ac7d-a073f71e544c
   world-name: world_nether
-  x: -3555.7251767682305
-  y: 43.0
-  z: -1147.2372853630802
-  yaw: -177.291015625
-  pitch: 34.20000076293945
+  x: -3614.0399147017665
+  y: 44.0
+  z: -1456.699999988079
+  yaw: 133.2091827392578
+  pitch: 32.69997787475586
 lastlocation:
   world: 0002db0d-ff51-4509-ac7d-a073f71e544c
   world-name: world_nether

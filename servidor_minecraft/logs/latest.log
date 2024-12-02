@@ -335,3 +335,25 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [01:19:21] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne dame 10min ahorita vuelvo
 [01:19:23] [Server thread/INFO]: _6Jul9_ lost connection: Disconnected
 [01:19:25] [Server thread/INFO]: drinne issued server command: /msg sip dale
+[01:20:36] [Server thread/INFO]: v783 issued server command: /tp drinne
+[01:21:38] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[01:23:56] [Server thread/INFO]: drinne lost connection: Disconnected
+[01:24:31] [Server thread/INFO]: v783 issued server command: /tp y
+[01:25:43] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/139350, uuid='71ad51db-3ad9-4201-aab8-fe609e7064cd', l='ServerLevel[world]', x=-60.50, y=1.00, z=-77.50, cpos=[-4, -5], tl=0, v=false] died: Herobrine Warrior died
+[01:27:02] [Server thread/INFO]: Yesvy lost connection: Timed out
+[01:27:12] [User Authenticator #14/INFO]: UUID of player Yesvy is 6bafee90-e623-3ffb-81c6-5f7469ef52e3
+[01:27:12] [Server thread/INFO]: Yesvy[/127.124.98.179:54785] logged in with entity id 140617 at ([world]-31.859930635792207, -40.0, -104.39909859417408)
+[01:27:12] [Craft Scheduler Thread - 113 - AuthMe/INFO]: [AuthMe] Yesvy logged in 127.124.98.179
+[01:27:13] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/140690, uuid='24412300-95a2-4393-bc6c-46cd11742a83', l='ServerLevel[world]', x=2.50, y=-27.00, z=4.50, cpos=[0, 0], tl=0, v=false] died: Herobrine Warrior died
+[01:27:19] [User Authenticator #14/INFO]: UUID of player _6Jul9_ is 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
+[01:27:19] [Server thread/INFO]: _6Jul9_[/127.121.27.71:48789] logged in with entity id 140821 at ([world]-52.34144489817903, 33.0, -136.34452917368466)
+[01:27:19] [Craft Scheduler Thread - 113 - AuthMe/INFO]: [AuthMe] _6Jul9_ logged in 127.121.27.71
+[01:27:30] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy ya
+[01:28:12] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ voy
+[01:28:40] [Server thread/INFO]: v783 issued server command: /ec Yesvy
+[01:28:46] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy llevame al end
+[01:28:59] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:29:10] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ ya
+[01:29:55] [Craft Scheduler Thread - 117 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[01:29:55] [Craft Scheduler Thread - 118 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[01:29:55] [Craft Scheduler Thread - 118 - ClansLite/INFO]: ClansLite: Saved all Users to file!

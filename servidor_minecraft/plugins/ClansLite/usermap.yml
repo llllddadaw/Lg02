@@ -27,7 +27,7 @@ users:
     39f69b13-e587-344f-b79f-eb9654de9c83:
       javaUUID: 39f69b13-e587-344f-b79f-eb9654de9c83
       lastPlayerName: v783
-      pointBalance: 165
+      pointBalance: 170
       canChatSpy: false
       isBedrockPlayer: false
     d23e8853-c241-3acd-8959-bdfa9cecc57a:
@@ -75,6 +75,12 @@ users:
     422d3365-4f29-37e8-8d41-61e19f0d07c3:
       javaUUID: 422d3365-4f29-37e8-8d41-61e19f0d07c3
       lastPlayerName: Panzi01
+      pointBalance: 0
+      canChatSpy: false
+      isBedrockPlayer: false
+    465d69ca-e71b-3cf0-9814-1ffaa3b7fef6:
+      javaUUID: 465d69ca-e71b-3cf0-9814-1ffaa3b7fef6
+      lastPlayerName: drinne
       pointBalance: 0
       canChatSpy: false
       isBedrockPlayer: false

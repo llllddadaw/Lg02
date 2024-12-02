@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733101787851
-  login: 1733101797270
+  logout: 1733102822477
+  login: 1733102832720
 money: '0'
 last-account-name: Yesvy
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -117.69999998807907
-  y: 65.0
-  z: -320.9141686119339
-  yaw: 135.0777587890625
-  pitch: 13.027183532714844
+  x: -31.707239194954976
+  y: -40.0
+  z: -104.4811535228144
+  yaw: -83.44732666015625
+  pitch: 21.77311897277832
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
