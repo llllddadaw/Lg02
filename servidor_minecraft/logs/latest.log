@@ -1434,3 +1434,129 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [02:42:23] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy si quieres un poco más lejos hacemos la base permanente
 [02:42:38] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ dps dps
 [02:42:43] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ voy a hacer kits xd
+[02:42:55] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne luego hacemos una base más lejos
+[02:42:56] [Server thread/INFO]: [Not Secure] [Server] xd?
+[02:43:04] [Async Chat Thread - #75/INFO]: [Not Secure] <_6Jul9_> sv dame op
+[02:43:10] [Server thread/INFO]: [Not Secure] [Server] Quien invoca tantos
+[02:43:15] [Async Chat Thread - #75/INFO]: [Not Secure] <Yesvy> nuse
+[02:43:17] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/272504, uuid='ad39d5fa-b153-4cc4-91c1-1b5ba93e7b75', l='ServerLevel[world]', x=-36269.93, y=100.00, z=-20147.87, cpos=[-2267, -1260], tl=832, v=true] died: Herobrine Warrior was slain by drinne
+[02:43:19] [Async Chat Thread - #75/INFO]: [Not Secure] <_6Jul9_> que cosa
+[02:43:28] [Server thread/INFO]: [Not Secure] [Server] va bien el sv?
+[02:43:30] [Server thread/INFO]: [Not Secure] [Server] no lag?
+[02:43:31] [Async Chat Thread - #75/INFO]: [Not Secure] <_6Jul9_> si
+[02:43:33] [Async Chat Thread - #75/INFO]: [Not Secure] <_6Jul9_> todo nice
+[02:43:35] [Server thread/INFO]: drinne was slain by Warden
+[02:43:42] [Server thread/INFO]: [Not Secure] [Server] okey me avisan cualquier cosa
+[02:43:46] [Async Chat Thread - #75/INFO]: [Not Secure] <_6Jul9_> dame op
+[02:43:51] [Server thread/INFO]: [Not Secure] [Server] no puedo te amo
+[02:43:52] [Server thread/INFO]: [Not Secure] [Server] bye
+[02:43:59] [Async Chat Thread - #75/INFO]: [Not Secure] <_6Jul9_> omg
+[02:44:01] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[02:44:06] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[02:44:44] [Thread-12/INFO]: A new version of Herobrine is available.
+To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
+[02:44:52] [Server thread/ERROR]: Could not pass event InventoryOpenEvent to Herobrine v2.5.0
+java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_20_R1.block.impl.CraftFloorSign cannot be cast to class org.bukkit.block.data.Directional (org.bukkit.craftbukkit.v1_20_R1.block.impl.CraftFloorSign and org.bukkit.block.data.Directional are in unnamed module of loader java.net.URLClassLoader @25f38edc)
+	at net.theprogrammersworld.herobrine.AI.cores.Signs.createSign(Signs.java:88) ~[Herobine-Plugin-1.20.jar:?]
+	at net.theprogrammersworld.herobrine.AI.cores.Signs.placeSign(Signs.java:39) ~[Herobine-Plugin-1.20.jar:?]
+	at net.theprogrammersworld.herobrine.AI.cores.Signs.CallCore(Signs.java:26) ~[Herobine-Plugin-1.20.jar:?]
+	at net.theprogrammersworld.herobrine.AI.Core.RunCore(Core.java:30) ~[Herobine-Plugin-1.20.jar:?]
+	at net.theprogrammersworld.herobrine.listeners.InventoryListener.onInventoryOpen(InventoryListener.java:56) ~[Herobine-Plugin-1.20.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor237.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:git-Paper-196]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callInventoryOpenEventWithTitle(CraftEventFactory.java:1441) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.level.ServerPlayer.openMenu(ServerPlayer.java:1569) ~[?:?]
+	at net.minecraft.world.level.block.CraftingTableBlock.use(CraftingTableBlock.java:30) ~[?:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.use(BlockBehaviour.java:1177) ~[?:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:582) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:2015) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:37) ~[?:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.a(ServerboundUseItemOnPacket.java:9) ~[?:?]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:51) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[02:44:53] [Async Chat Thread - #76/INFO]: [Not Secure] <_6Jul9_> wardens mis mascotas
+[02:44:55] [Craft Scheduler Thread - 187 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[02:44:55] [Craft Scheduler Thread - 188 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[02:44:55] [Craft Scheduler Thread - 188 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[02:45:05] [Server thread/INFO]: v783 issued server command: /herobrine speak Bueno
+[02:45:05] [Server thread/INFO]: <Herobrine> Bueno
+[02:45:11] [Async Chat Thread - #75/INFO]: [Not Secure] <_6Jul9_> era bait
+[02:45:24] [Server thread/INFO]: v783 issued server command: /herobrine speak Proxima seran 20 y destruiran todo
+[02:45:24] [Server thread/INFO]: <Herobrine> Proxima seran 20 y destruiran todo
+[02:45:28] [Async Chat Thread - #77/INFO]: [Not Secure] <_6Jul9_> mentira
+[02:45:30] [Async Chat Thread - #77/INFO]: [Not Secure] <_6Jul9_> te amo
+[02:45:37] [Server thread/INFO]: v783 issued server command: /vanish
+[02:45:37] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[02:45:37] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[02:45:43] [Async Chat Thread - #77/INFO]: [Not Secure] <_6Jul9_> guapo
+[02:45:45] [Server thread/INFO]: v783 issued server command: /vanish
+[02:46:02] [Server thread/INFO]: v783 issued server command: /tp drinne
+[02:46:06] [Server thread/INFO]: drinne was slain by Warden
+[02:46:22] [Server thread/INFO]: v783 issued server command: /tp drinne v783
+[02:46:29] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne hay que movernos hay como 9 wardens abajo
+[02:46:50] [Server thread/INFO]: v783 issued server command: /herobrine speak Tienen 5 minutos antes que invoque 20 withers
+[02:46:50] [Server thread/INFO]: <Herobrine> Tienen 5 minutos antes que invoque 20 withers
+[02:46:56] [Async Chat Thread - #78/INFO]: [Not Secure] <_6Jul9_> que
+[02:47:01] [Async Chat Thread - #78/INFO]: [Not Secure] <discordia00> me desconecto
+[02:47:05] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ ya me los comi y ya los quitaron
+[02:47:08] [Async Chat Thread - #78/INFO]: [Not Secure] <_6Jul9_> no te dice a ti discordia00
+[02:47:12] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/286914, uuid='8e7ffbe2-f5d1-486e-ba3d-f01381c230e2', l='ServerLevel[world]', x=-2548.50, y=-1.00, z=-1532.50, cpos=[-160, -96], tl=0, v=false] died: Herobrine Warrior died
+[02:47:13] [Server thread/INFO]: v783 issued server command: /herobrine speak Les recomendaria guardar sus cosas
+[02:47:13] [Server thread/INFO]: <Herobrine> Les recomendaria guardar sus cosas
+[02:47:19] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne ya ps los whiters
+[02:47:23] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne movamonos
+[02:47:33] [Server thread/INFO]: v783 issued server command: /herobrine speak Pero como tienen todo en shulkers da completamente igual
+[02:47:33] [Server thread/INFO]: <Herobrine> Pero como tienen todo en shulkers da completamente igual
+[02:47:46] [Async Chat Thread - #78/INFO]: [Not Secure] <_6Jul9_> quien dice
+[02:47:53] [Async Chat Thread - #80/INFO]: [Not Secure] <_6Jul9_> tarde 15 horas en construir esa base
+[02:48:07] [Server thread/INFO]: v783 issued server command: /herobrine speak Seran 10s lo que necesitare para destruirla
+[02:48:07] [Server thread/INFO]: <Herobrine> Seran 10s lo que necesitare para destruirla
+[02:48:08] [Async Chat Thread - #80/INFO]: [Not Secure] <discordia00> ovej arosa
+[02:48:14] [Server thread/INFO]: v783 issued server command: /tp discordia00
+[02:48:16] [Server thread/INFO]: v783 issued server command: /vanish
+[02:48:17] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[02:48:17] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[02:48:21] [Async Chat Thread - #80/INFO]: [Not Secure] <_6Jul9_> no pe si yo te amo
+[02:48:32] [Server thread/INFO]: v783 issued server command: /herobrine speak Tienes un deseo que quieres
+[02:48:32] [Server thread/INFO]: <Herobrine> Tienes un deseo que quieres
+[02:48:40] [Async Chat Thread - #80/INFO]: [Not Secure] <_6Jul9_> todavia no lo usare
+[02:48:47] [Server thread/INFO]: v783 issued server command: /herobrine speak Le digo a discordia00
+[02:48:47] [Server thread/INFO]: <Herobrine> Le digo a discordia00
+[02:48:54] [Async Chat Thread - #78/INFO]: [Not Secure] <_6Jul9_> ...
+[02:48:56] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/292097, uuid='4ccba4e8-9ccc-45d2-9d05-5ba18d2e7691', l='ServerLevel[world]', x=-2784.50, y=50.00, z=-1664.50, cpos=[-175, -105], tl=0, v=false] died: Herobrine Warrior died
+[02:48:58] [Server thread/INFO]: discordia00 issued server command: /tell Herobrine quiero elitras
+[02:49:05] [Server thread/INFO]: discordia00 has reached the goal [Sky's the Limit]
+[02:49:06] [Async Chat Thread - #78/INFO]: [Not Secure] <_6Jul9_> ya me cambio
+[02:49:07] [Server thread/INFO]: v783 issued server command: /vanish
+[02:49:09] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[02:49:12] [Async Chat Thread - #81/INFO]: [Not Secure] <discordia00> vamos
+[02:49:15] [Server thread/INFO]: v783 issued server command: /herobrine speak 2minutos
+[02:49:15] [Server thread/INFO]: <Herobrine> 2minutos
+[02:49:38] [Async Chat Thread - #81/INFO]: [Not Secure] <discordia00> esqueleto montado en arña
+[02:49:42] [Async Chat Thread - #81/INFO]: [Not Secure] <discordia00> increible
+[02:49:48] [Server thread/INFO]: drinne lost connection: Disconnected
+[02:50:00] [Server thread/INFO]: v783 issued server command: /tp discordia00
+[02:50:08] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[02:50:38] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/296346, uuid='3f01bc0a-7288-4e56-97d4-bdd7db3ce9b2', l='ServerLevel[world]', x=-2678.50, y=-1.00, z=-1689.50, cpos=[-168, -106], tl=0, v=false] died: Herobrine Warrior died
+[02:50:42] [Server thread/INFO]: v783 issued server command: /herobrine speak 10s
+[02:50:42] [Server thread/INFO]: <Herobrine> 10s
+[02:51:19] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[02:52:48] [Async Chat Thread - #82/INFO]: [Not Secure] <_6Jul9_> me soleo a los whiters
+[02:52:51] [Async Chat Thread - #82/INFO]: [Not Secure] <_6Jul9_> quien dice si
