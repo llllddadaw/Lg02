@@ -454,3 +454,93 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [01:40:08] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy mandame cords que me perdi
 [01:40:11] [Async Chat Thread - #33/INFO]: [Not Secure] <_6Jul9_> omg
 [01:40:20] [Async Chat Thread - #32/INFO]: [Not Secure] <_6Jul9_> te amo herobrine
+[01:40:24] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ ve defrente hasta -4580
+[01:40:25] [Async Chat Thread - #32/INFO]: [Not Secure] <discordia00> xd
+[01:40:38] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[01:40:42] [Server thread/INFO]: v783 issued server command: /troll
+[01:40:48] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/177323, uuid='44bc7074-390f-4342-954a-05b44a845551', l='ServerLevel[world]', x=-3915.50, y=64.00, z=1566.50, cpos=[-245, 97], tl=0, v=false] died: Herobrine Warrior died
+[01:40:57] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/176184, uuid='231dee60-10ef-4262-ae0b-f2032c79708c', l='ServerLevel[world]', x=-4585.23, y=81.00, z=1587.62, cpos=[-287, 99], tl=760, v=true] died: Herobrine Warrior was slain by Yesvy
+[01:41:01] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/177914, uuid='cffd253e-e95e-491e-8214-90f30bbff1a4', l='ServerLevel[world]', x=-4062.50, y=123.00, z=1469.50, cpos=[-254, 91], tl=0, v=false] died: Demon died
+[01:41:08] [Server thread/INFO]: v783 issued server command: /troll
+[01:41:35] [Async Chat Thread - #34/INFO]: [Not Secure] <Yesvy> wtf
+[01:41:39] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy estoy
+[01:41:41] [Async Chat Thread - #34/INFO]: [Not Secure] <Yesvy> ven rapido
+[01:41:50] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ ta todo de tnt
+[01:41:59] [Server thread/INFO]: v783 issued server command: /troll
+[01:42:10] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy en esa cord pico hacia abajo?
+[01:42:14] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:42:18] [Server thread/INFO]: v783 issued server command: /troll
+[01:42:18] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ pasa tus cords
+[01:42:24] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ o ven aca
+[01:42:35] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ -4626, 74 1574
+[01:42:39] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy -4584 -3 1526
+[01:43:20] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ -4626, 74 1574 ven
+[01:43:48] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:43:58] [Async Chat Thread - #36/INFO]: [Not Secure] <_6Jul9_> gracias
+[01:44:01] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:44:01] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:44:01] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:44:01] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:44:01] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:44:01] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:44:13] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ donde estas xd?
+[01:44:41] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy te vi
+[01:44:44] [Thread-12/INFO]: A new version of Herobrine is available.
+To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
+[01:44:55] [Craft Scheduler Thread - 131 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[01:44:55] [Craft Scheduler Thread - 132 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[01:44:55] [Craft Scheduler Thread - 132 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[01:45:10] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ atras
+[01:45:28] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:45:34] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ 1688
+[01:45:34] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:34] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:36] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:36] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:36] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:36] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:36] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:36] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:37] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:37] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:38] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:38] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:38] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:38] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:40] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:40] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:40] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[01:45:40] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[01:45:44] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:45:53] [Server thread/INFO]: v783 issued server command: /troll
+[01:46:04] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/181849, uuid='a8688e53-d7fc-49c1-b7e0-04cafddd5040', l='ServerLevel[world]', x=-4543.50, y=-15.00, z=1602.50, cpos=[-284, 100], tl=0, v=false] died: Herobrine Warrior died
+[01:46:16] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy baja
+[01:46:37] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy arriba esta lleno de tnt
+[01:46:58] [Server thread/INFO]: v783 issued server command: /heal panzi01
+[01:47:03] [Server thread/INFO]: v783 issued server command: /heal panzi01
+[01:47:06] [Server thread/INFO]: v783 issued server command: /heal panzi01
+[01:47:08] [Server thread/INFO]: v783 issued server command: /heal panzi01
+[01:47:09] [Server thread/INFO]: v783 issued server command: /heal panzi01
+[01:47:11] [Server thread/INFO]: v783 issued server command: /heal panzi01
+[01:47:18] [Server thread/INFO]: v783 issued server command: /invsee _6Jul9_
+[01:47:34] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[01:47:37] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ vuelve
+[01:47:42] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ y ahi hice hueco
+[01:48:14] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[01:48:24] [Server thread/INFO]: _6Jul9_ has made the advancement [Eye Spy]
+[01:49:19] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy no traes arena o botellas?
+[01:49:25] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[01:49:29] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ nop tu
+[01:49:42] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy no se en que momento tire la arena
+[01:49:48] [Async Chat Thread - #38/INFO]: [Not Secure] <Yesvy> hero
+[01:49:50] [Async Chat Thread - #38/INFO]: [Not Secure] <Yesvy> porfa
+[01:49:51] [Async Chat Thread - #38/INFO]: [Not Secure] <Yesvy> arenita
+[01:49:53] [Async Chat Thread - #40/INFO]: [Not Secure] <Yesvy> xd
+[01:50:04] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[01:50:40] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ volvemos o vamos al portalk
+[01:50:52] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy veo arena arriba de este chunck
+[01:51:03] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ va ve
