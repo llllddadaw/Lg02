@@ -9,12 +9,15 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-11-27 04:47:46 +0000",
       "minecraft:old_growth_pine_taiga": "2024-11-27 04:59:47 +0000",
+      "minecraft:mushroom_fields": "2024-12-02 00:29:33 +0000",
       "minecraft:taiga": "2024-11-27 04:34:34 +0000",
+      "minecraft:deep_ocean": "2024-12-02 00:37:16 +0000",
       "minecraft:sunflower_plains": "2024-12-02 00:12:02 +0000",
       "minecraft:birch_forest": "2024-11-25 00:22:39 +0000",
       "minecraft:bamboo_jungle": "2024-11-24 23:33:04 +0000",
       "minecraft:wooded_badlands": "2024-11-28 00:14:51 +0000",
       "minecraft:badlands": "2024-11-25 23:14:51 +0000",
+      "minecraft:savanna_plateau": "2024-12-02 00:32:49 +0000",
       "minecraft:beach": "2024-11-24 23:55:08 +0000",
       "minecraft:dark_forest": "2024-11-25 00:17:21 +0000",
       "minecraft:stony_peaks": "2024-11-24 23:28:56 +0000",
@@ -35,6 +38,7 @@
       "minecraft:windswept_savanna": "2024-11-24 23:57:43 +0000",
       "minecraft:warm_ocean": "2024-11-25 03:19:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-25 03:18:46 +0000",
+      "minecraft:flower_forest": "2024-12-02 00:24:39 +0000",
       "minecraft:frozen_peaks": "2024-11-27 04:04:31 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-25 00:13:13 +0000",
       "minecraft:deep_dark": "2024-11-24 23:12:38 +0000",
@@ -3825,6 +3829,42 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2024-11-30 05:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-02 00:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-02 00:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-02 00:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-02 00:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-02 00:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-02 00:43:28 +0000"
     },
     "done": true
   },

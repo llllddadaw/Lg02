@@ -72,3 +72,9 @@ users:
       pointBalance: 10
       canChatSpy: false
       isBedrockPlayer: false
+    422d3365-4f29-37e8-8d41-61e19f0d07c3:
+      javaUUID: 422d3365-4f29-37e8-8d41-61e19f0d07c3
+      lastPlayerName: Panzi01
+      pointBalance: 0
+      canChatSpy: false
+      isBedrockPlayer: false

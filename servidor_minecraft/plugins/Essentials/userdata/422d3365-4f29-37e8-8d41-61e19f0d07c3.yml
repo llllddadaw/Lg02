@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1732939363154
-  login: 1732938593096
+  logout: 1733099253786
+  login: 1733099231351
 money: '0'
 last-account-name: Panzi01
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -737.5890777926838
+  x: -737.8335113916969
   y: 64.0
-  z: -21.553581292621324
-  yaw: 43.67108154296875
-  pitch: 0.17369036376476288
+  z: -16.282512826715614
+  yaw: -111.68795776367188
+  pitch: 28.266433715820312
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world

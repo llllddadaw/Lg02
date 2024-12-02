@@ -121,3 +121,47 @@
 [00:24:23] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ me habia confundido
 [00:25:09] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/55027, uuid='fe7a3649-138a-466b-ba31-82038c3e1159', l='ServerLevel[world]', x=-308.50, y=-41.00, z=-649.50, cpos=[-20, -41], tl=0, v=false] died: Demon died
 [00:25:55] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/57153, uuid='ccf6567b-0757-4a27-9878-5123a724b1ea', l='ServerLevel[world]', x=-144.50, y=-2.00, z=-160.50, cpos=[-10, -11], tl=0, v=false] died: Herobrine Warrior died
+[00:27:11] [User Authenticator #8/INFO]: UUID of player Panzi01 is 422d3365-4f29-37e8-8d41-61e19f0d07c3
+[00:27:11] [Server thread/INFO]: Panzi01[/127.69.78.99:41865] logged in with entity id 60386 at ([world]-737.5890777926838, 64.0, -21.553581292621324)
+[00:27:11] [Craft Scheduler Thread - 64 - AuthMe/INFO]: [AuthMe] Panzi01 logged in 127.69.78.99
+[00:27:33] [Server thread/INFO]: Panzi01 lost connection: Disconnected
+[00:28:10] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/63533, uuid='549da4b4-8184-4176-8d9b-517f2cfe897a', l='ServerLevel[world]', x=-1380.50, y=-18.00, z=-4309.50, cpos=[-87, -270], tl=0, v=false] died: Demon died
+[00:28:25] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/63903, uuid='93f476e9-00ed-4c8f-8c67-2b005452857b', l='ServerLevel[world]', x=-431.50, y=37.00, z=-436.50, cpos=[-27, -28], tl=0, v=false] died: Herobrine Warrior died
+[00:28:50] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/65132, uuid='d2b2e184-7ef0-4497-adbc-bb696b6379eb', l='ServerLevel[world]', x=-997.50, y=-14.00, z=-4106.50, cpos=[-63, -257], tl=0, v=false] died: Herobrine Warrior died
+[00:29:17] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/66505, uuid='2449cd8b-1cab-49c0-9742-4d5257e89195', l='ServerLevel[world]', x=156.50, y=14.00, z=450.50, cpos=[9, 28], tl=0, v=false] died: Demon died
+[00:29:50] [Craft Scheduler Thread - 68 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[00:29:50] [Craft Scheduler Thread - 69 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[00:29:50] [Craft Scheduler Thread - 69 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[00:30:27] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/68840, uuid='d613f5a5-a2fc-41a4-9677-a63b8ea8e758', l='ServerLevel[world]', x=174.50, y=33.00, z=5.50, cpos=[10, 0], tl=0, v=false] died: Demon died
+[00:30:27] [Server thread/INFO]: Yesvy has reached the goal [Postmortal]
+[00:30:30] [Async Chat Thread - #17/INFO]: [Not Secure] <Yesvy> xDDD
+[00:34:11] [Server thread/INFO]: _6Jul9_ lost connection: Disconnected
+[00:34:20] [Server thread/INFO]: discordia00 lost connection: Disconnected
+[00:34:28] [User Authenticator #9/INFO]: UUID of player discordia00 is f92f21bf-a64d-3308-b0a1-e062ecc1ff92
+[00:34:28] [Server thread/INFO]: discordia00[/127.229.195.35:46235] logged in with entity id 75192 at ([world_nether]78.40121998242927, 69.0, 414.30000001192093)
+[00:34:28] [Craft Scheduler Thread - 73 - AuthMe/INFO]: [AuthMe] discordia00 logged in 127.229.195.35
+[00:35:07] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/75474, uuid='a72a1d86-d88a-48e3-88dd-3e1387aa45b6', l='ServerLevel[world]', x=-369.50, y=-10.00, z=-463.50, cpos=[-24, -29], tl=0, v=false] died: Demon died
+[00:36:12] [User Authenticator #10/INFO]: UUID of player _6Jul9_ is 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
+[00:36:12] [Server thread/INFO]: _6Jul9_[/127.121.27.71:55217] logged in with entity id 76205 at ([world]1466.689397554618, 63.0, -3031.20580794538)
+[00:36:12] [Craft Scheduler Thread - 76 - AuthMe/INFO]: [AuthMe] _6Jul9_ logged in 127.121.27.71
+[00:36:59] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy no encuentro el spawn
+[00:37:08] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ -9, 132, 2
+[00:37:21] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy voy
+[00:37:42] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/80162, uuid='c782a0da-99b4-4d28-a214-aa8647f4648c', l='ServerLevel[world]', x=1996.50, y=-42.00, z=-2358.50, cpos=[124, -148], tl=0, v=false] died: Demon died
+[00:38:12] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/81521, uuid='28ee554c-7c80-4c81-ae26-7d42a4a49850', l='ServerLevel[world]', x=101.50, y=42.00, z=-169.50, cpos=[6, -11], tl=0, v=false] died: Demon died
+[00:39:39] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/85563, uuid='91f9fdc0-d7d0-4203-a365-6634a5d75063', l='ServerLevel[world]', x=1606.50, y=67.00, z=-844.50, cpos=[100, -53], tl=0, v=false] died: Herobrine Warrior died
+[00:40:12] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/88013, uuid='3fb34d7e-3c3b-4209-8e21-1b977b71014b', l='ServerLevel[world]', x=-350.50, y=38.00, z=-410.50, cpos=[-22, -26], tl=0, v=false] died: Herobrine Warrior died
+[00:40:30] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/87105, uuid='7b248f0f-3cec-4bf5-bbd8-49ba0b35e87e', l='ServerLevel[world]', x=-102.64, y=89.00, z=112.66, cpos=[-7, 7], tl=572, v=true] died: Herobrine Warrior was slain by Yesvy
+[00:41:44] [Async Chat Thread - #19/INFO]: [Not Secure] <_6Jul9_> Quien vive en bioma de meceta
+[00:42:28] [Server thread/INFO]: JzYq lost connection: Disconnected
+[00:42:44] [User Authenticator #11/INFO]: UUID of player v783 is 39f69b13-e587-344f-b79f-eb9654de9c83
+[00:42:44] [Server thread/INFO]: v783[/127.51.33.129:33307] logged in with entity id 91848 at ([world]-36244.59691418274, 138.0, -20192.424727392052)
+[00:42:44] [Craft Scheduler Thread - 80 - AuthMe/INFO]: [AuthMe] v783 logged in 127.51.33.129
+[00:43:00] [Server thread/INFO]: v783 issued server command: /vanish
+[00:44:44] [Thread-12/INFO]: A new version of Herobrine is available.
+To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
+[00:44:50] [Craft Scheduler Thread - 85 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[00:44:50] [Craft Scheduler Thread - 86 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[00:44:50] [Craft Scheduler Thread - 86 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[00:45:50] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/95794, uuid='84e6206d-f99d-448a-bcde-e2617f5768bd', l='ServerLevel[world]', x=-60.50, y=56.00, z=655.50, cpos=[-4, 40], tl=0, v=false] died: Demon died
+[00:45:50] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/95797, uuid='d7b45a1b-63fa-4d09-94dd-c74d408bd782', l='ServerLevel[world]', x=-60.50, y=56.00, z=655.50, cpos=[-4, 40], tl=0, v=false] died: Demon died
