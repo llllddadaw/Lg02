@@ -2954,6 +2954,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-02 01:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2024-12-02 00:30:27 +0000"
@@ -2963,6 +2969,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-12-02 00:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-02 01:03:34 +0000"
     },
     "done": true
   },

@@ -4,14 +4,14 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 127.51.33.129
-afk: true
+afk: false
 socialspy: false
 npc: false
 powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1732944615867
+  lastteleport: 1733101719814
   lastheal: 0
   mute: 0
   jail: 0
@@ -25,11 +25,11 @@ nickname: §f§lHerobrine
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -36316.514635436964
-  y: 111.0
-  z: -20203.23750001192
-  yaw: 73.48898315429688
-  pitch: 9.209277153015137
+  x: 42.17773533789995
+  y: 142.61366448984532
+  z: -175.9025618067943
+  yaw: 61.90104675292969
+  pitch: 27.697237014770508
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
