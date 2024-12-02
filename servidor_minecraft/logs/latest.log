@@ -1599,3 +1599,95 @@ java.lang.ClassCastException: class org.bukkit.craftbukkit.v1_20_R1.block.impl.C
 [03:00:24] [Server thread/INFO]: v783 issued server command: /gamemode creative
 [03:02:58] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
 [03:03:44] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:04:55] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/350072, uuid='734b27b3-c31a-490b-9f68-3e8261d251f0', l='ServerLevel[world]', x=202.50, y=42.00, z=2608.50, cpos=[12, 163], tl=0, v=false] died: Demon died
+[03:05:01] [Server thread/INFO]: v783 issued server command: /vanish
+[03:05:05] [Server thread/INFO]: v783 issued server command: /gamemode survival
+[03:05:07] [Server thread/INFO]: v783 issued server command: /fly
+[03:05:59] [Server thread/INFO]: v783 issued server command: /gamemode creative
+[03:06:07] [Server thread/INFO]: v783 issued server command: /trollv4
+[03:06:12] [Server thread/INFO]: v783 issued server command: /trollv4
+[03:06:24] [Server thread/INFO]: v783 issued server command: /gamemode survival
+[03:06:25] [Server thread/INFO]: v783 issued server command: /fly
+[03:06:41] [Server thread/INFO]: v783 issued server command: /gamemode creative
+[03:07:01] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[03:07:01] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[03:07:01] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[03:07:01] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[03:07:02] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[03:07:02] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[03:07:03] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[03:07:03] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[03:07:04] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[03:07:04] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[03:07:04] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[03:07:04] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[03:07:05] [Server thread/INFO]: v783 issued server command: /vanish
+[03:07:11] [Server thread/INFO]: ClansLite: _6Jul9_ did not have enough points to remove when they were killed!
+[03:07:11] [Server thread/INFO]: _6Jul9_ was slain by v783
+[03:07:33] [Server thread/INFO]: _6Jul9_ was shot by a skull from Wither
+[03:07:34] [Server thread/INFO]: [Not Secure] [Server] reload
+[03:07:40] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/366353, uuid='e0c13b0d-79d4-40f4-a8e9-a154976751e2', l='ServerLevel[world]', x=-2684.50, y=2.00, z=-1692.50, cpos=[-168, -106], tl=0, v=false] died: Herobrine Warrior died
+[03:07:42] [Async Chat Thread - #84/INFO]: [Not Secure] <_6Jul9_> oe mrd
+[03:07:50] [Async Chat Thread - #84/INFO]: [Not Secure] <_6Jul9_> mis cosas
+[03:07:52] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
+[03:07:59] [Server thread/INFO]: [Not Secure] [Server] ???
+[03:08:04] [Async Chat Thread - #84/INFO]: [Not Secure] <_6Jul9_> este hdp
+[03:08:08] [Server thread/INFO]: [Not Secure] [Server] nse en que esten pero rapido
+[03:08:14] [Server thread/INFO]: v783 issued server command: /heal _6Jul9_
+[03:08:14] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/369040, uuid='3e678f20-ed7d-4027-9b68-61ec18ea9c83', l='ServerLevel[world]', x=173.50, y=-24.00, z=2460.50, cpos=[10, 153], tl=0, v=false] died: Demon died
+[03:08:15] [Server thread/INFO]: v783 issued server command: /heal _6Jul9_
+[03:08:16] [Server thread/INFO]: v783 issued server command: /heal _6Jul9_
+[03:08:18] [Server thread/INFO]: v783 issued server command: /heal _6Jul9_
+[03:08:24] [Server thread/INFO]: _6Jul9_ was shot by a skull from Wither
+[03:08:30] [Async Chat Thread - #85/INFO]: [Not Secure] <_6Jul9_> contra 30 whiters asi de pro soy
+[03:08:31] [Server thread/INFO]: [Not Secure] [Server] xd?
+[03:08:36] [Server thread/INFO]: _6Jul9_ withered away
+[03:08:39] [Server thread/INFO]: [Not Secure] [Server] que esta pasando?
+[03:08:47] [Async Chat Thread - #84/INFO]: [Not Secure] <_6Jul9_> ahi nomas
+[03:08:53] [Async Chat Thread - #86/INFO]: [Not Secure] <_6Jul9_> muriendo por herobrine
+[03:08:56] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
+[03:09:04] [Server thread/INFO]: [Not Secure] [Server] 20 veces te vi muerto
+[03:09:10] [Server thread/INFO]: [Not Secure] [Server] tas bien?
+[03:09:14] [Async Chat Thread - #85/INFO]: [Not Secure] <_6Jul9_> maso
+[03:09:26] [Server thread/INFO]: v783 issued server command: /heal _6Jul9_
+[03:09:27] [Server thread/INFO]: v783 issued server command: /heal _6Jul9_
+[03:09:28] [Server thread/INFO]: v783 issued server command: /heal _6Jul9_
+[03:09:38] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
+[03:09:42] [Server thread/INFO]: _6Jul9_ experienced kinetic energy whilst trying to escape Wither
+[03:09:59] [Server thread/INFO]: [Not Secure] [Server] puedo hacer reload?
+[03:10:07] [Async Chat Thread - #85/INFO]: [Not Secure] <Yesvy> no
+[03:10:08] [Async Chat Thread - #84/INFO]: [Not Secure] <_6Jul9_> no
+[03:10:11] [Async Chat Thread - #84/INFO]: [Not Secure] <_6Jul9_> mis cosas tamare
+[03:10:15] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
+[03:10:15] [Async Chat Thread - #87/INFO]: [Not Secure] <_6Jul9_> este idiotaso
+[03:10:17] [Server thread/INFO]: _6Jul9_ was shot by a skull from Wither
+[03:10:19] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/378648, uuid='7f20ec5f-3b0b-431d-8b6c-9bf4ac082e3e', l='ServerLevel[world]', x=-86.50, y=100.00, z=-1.50, cpos=[-6, -1], tl=0, v=false] died: Herobrine Warrior died
+[03:10:22] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_ v783
+[03:10:28] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:10:52] [Server thread/INFO]: v783 issued server command: /herobrine speak Quieres seguir?
+[03:10:52] [Server thread/INFO]: <Herobrine> Quieres seguir?
+[03:10:52] [Async Chat Thread - #84/INFO]: [Not Secure] <_6Jul9_> dame mis cosas y me soleo los whiter
+[03:10:59] [Async Chat Thread - #87/INFO]: [Not Secure] <_6Jul9_> si me das mis cosas sigo
+[03:11:01] [Async Chat Thread - #87/INFO]: [Not Secure] <_6Jul9_> me los soleo
+[03:11:15] [User Authenticator #19/INFO]: UUID of player drinne is 465d69ca-e71b-3cf0-9814-1ffaa3b7fef6
+[03:11:15] [Server thread/INFO]: drinne[/127.21.20.230:50707] logged in with entity id 382284 at ([world]-36307.73167999401, 110.0, -20207.857063947475)
+[03:11:15] [Craft Scheduler Thread - 205 - AuthMe/INFO]: [AuthMe] drinne logged in 127.21.20.230
+[03:11:19] [Server thread/INFO]: v783 issued server command: /tp drinne
+[03:11:20] [Async Chat Thread - #88/INFO]: [Not Secure] <_6Jul9_> faltan un vrg de cosas
+[03:11:45] [Server thread/INFO]: v783 issued server command: /herobrine speak Tranquilo que despues de esto si sobrevives te quedan 3 vidas seras recompensado
+[03:11:45] [Server thread/INFO]: <Herobrine> Tranquilo que despues de esto si sobrevives te quedan 3 vidas seras recompensado
+[03:11:50] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:11:58] [Async Chat Thread - #88/INFO]: [Not Secure] <_6Jul9_> ya ps y mi armadura
+[03:12:01] [Async Chat Thread - #88/INFO]: [Not Secure] <_6Jul9_> como me los mato
+[03:12:03] [Server thread/INFO]: v783 issued server command: /invsee drinne
+[03:12:21] [Server thread/INFO]: v783 issued server command: /tp drinne
+[03:12:24] [Async Chat Thread - #88/INFO]: [Not Secure] <_6Jul9_> dame un enderchest
+[03:12:37] [Server thread/INFO]: v783 issued server command: /give _6Jul9_ enderchest 1
+[03:12:40] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
+[03:13:02] [Async Chat Thread - #87/INFO]: [Not Secure] <_6Jul9_> drinne sal de aca
+[03:13:10] [Async Chat Thread - #88/INFO]: [Not Secure] <drinne> si sr
+[03:13:23] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/392066, uuid='fabfb1d6-b985-4f31-b1bf-09359e673764', l='ServerLevel[world]', x=-36320.50, y=17.00, z=-20273.50, cpos=[-2271, -1268], tl=0, v=false] died: Demon died
+[03:13:40] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ ontas?
+[03:13:46] [Server thread/INFO]: _6Jul9_ issued server command: /msg drinne peleando con los whiters
+[03:14:18] [Server thread/INFO]: v783 issued server command: /tp Yesvy
+[03:14:29] [Server thread/INFO]: v783 issued server command: /tp _6Jul9_
