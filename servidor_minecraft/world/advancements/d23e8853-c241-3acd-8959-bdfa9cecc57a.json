@@ -30,12 +30,14 @@
       "minecraft:forest": "2024-11-24 22:59:01 +0000",
       "minecraft:ice_spikes": "2024-11-28 00:28:01 +0000",
       "minecraft:frozen_ocean": "2024-11-29 22:33:32 +0000",
+      "minecraft:desert": "2024-12-03 04:07:54 +0000",
       "minecraft:windswept_forest": "2024-11-25 00:22:43 +0000",
       "minecraft:deep_frozen_ocean": "2024-11-29 22:44:15 +0000",
       "minecraft:jungle": "2024-11-24 23:00:54 +0000",
       "minecraft:ocean": "2024-12-02 23:12:29 +0000",
       "minecraft:snowy_beach": "2024-11-29 22:41:05 +0000",
       "minecraft:windswept_savanna": "2024-11-24 23:57:47 +0000",
+      "minecraft:warm_ocean": "2024-12-03 04:07:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-27 00:25:46 +0000",
       "minecraft:flower_forest": "2024-12-02 23:50:45 +0000",
       "minecraft:frozen_peaks": "2024-11-27 04:04:37 +0000",
@@ -3006,6 +3008,18 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-02 23:35:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-03 04:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-03 04:10:25 +0000"
     },
     "done": true
   },

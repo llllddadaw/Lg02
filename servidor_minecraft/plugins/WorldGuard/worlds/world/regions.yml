@@ -14,10 +14,10 @@ regions:
         min: {x: -2623, y: 65, z: -2294}
         max: {x: -2393, y: 126, z: -2099}
         members: {}
-        flags: {other-explosion: deny, use: deny, invincible: deny, interact: deny,
-            vehicle-destroy: deny, pvp: allow, firework-damage: deny, mob-spawning: deny,
-            enderpearl: deny, sleep: deny, item-drop: allow, mob-damage: allow, damage-animals: allow,
-            entity-painting-destroy: deny}
+        flags: {other-explosion: deny, chorus-fruit-teleport: deny, use: deny, invincible: deny,
+            interact: deny, vehicle-destroy: deny, pvp: allow, firework-damage: deny,
+            mob-spawning: deny, enderpearl: deny, sleep: deny, item-drop: allow, mob-damage: allow,
+            damage-animals: allow, entity-painting-destroy: deny}
         owners: {}
         type: cuboid
         priority: 10

@@ -1954,3 +1954,396 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [03:53:10] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" -h 5 coliseo enderpearl DENY
 [03:53:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
 [03:53:17] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" -h 5 coliseo chorus-fruit-teleport DENY
+[03:53:32] [Async Chat Thread - #48/INFO]: [Not Secure] <BqYz> mas adelante quieres ?
+[03:53:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:53:53] [Server thread/INFO]: Makit0oo issued server command: /ec
+[03:54:01] [Server thread/INFO]: JzYq issued server command: /clear
+[03:54:13] [Async Chat Thread - #48/INFO]: [Not Secure] <_6Jul9_> donde caiste
+[03:54:21] [Async Chat Thread - #48/INFO]: [Not Secure] <BqYz> mas adelante
+[03:54:28] [Async Chat Thread - #48/INFO]: [Not Secure] <BqYz> donde caiste tu?
+[03:54:37] [Async Chat Thread - #48/INFO]: [Not Secure] <_6Jul9_> ando en 2k
+[03:54:45] [Server thread/INFO]: Makit0oo issued server command: /gamemode survival
+[03:55:22] [Server thread/INFO]: JzYq issued server command: /gm 0
+[03:55:39] [Async Chat Thread - #49/INFO]: [Not Secure] <_6Jul9_> que te parece ahi
+[03:55:43] [Async Chat Thread - #49/INFO]: [Not Secure] <BqYz> se
+[03:55:43] [Server thread/INFO]: JzYq issued server command: /deop
+[03:55:57] [Server thread/INFO]: JzYq issued server command: /deop JzYq
+[03:55:57] [Server thread/INFO]: [JzYq: Made JzYq no longer a server operator]
+[03:56:10] [Server thread/INFO]: JzYq was slain by Makit0oo using [Le Salmone]
+[03:56:16] [Async Chat Thread - #49/INFO]: [Not Secure] <BqYz> pera Xd bloques
+[03:56:22] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /tp jzyq makit0oo
+[03:57:17] [Server thread/INFO]: Made JzYq a server operator
+[03:57:38] [Server thread/INFO]: JzYq issued server command: /invsee Notch
+[03:57:39] [Async Chat Thread - #51/INFO]: [Not Secure] <BqYz> pa alla
+[03:57:41] [Async Chat Thread - #51/INFO]: [Not Secure] <_6Jul9_> se
+[03:57:44] [Async Chat Thread - #51/INFO]: [Not Secure] <BqYz> en la mera punta
+[03:57:49] [Server thread/INFO]: Makit0oo issued server command: /invsee
+[03:57:51] [Server thread/INFO]: Makit0oo issued server command: /invsee JzYq
+[03:57:53] [Server thread/INFO]: JzYq issued server command: /effect clear Makit0oo
+[03:57:53] [Server thread/INFO]: [JzYq: Removed every effect from Makit0oo]
+[03:57:58] [Server thread/INFO]: JzYq issued server command: /invsee Notch
+[03:58:04] [Server thread/INFO]: JzYq issued server command: /fly
+[03:58:07] [Server thread/INFO]: Makit0oo lost connection: Disconnected
+[03:58:07] [Server thread/INFO]: Makit0oo was killed for logging out during combat.
+[03:58:09] [User Authenticator #11/INFO]: UUID of player Makit0oo is d9fadb25-ac86-3b98-a3b9-78c6b1d90e09
+[03:58:09] [Server thread/INFO]: Makit0oo[/127.199.104.98:56105] logged in with entity id 134486 at ([world]-2471.0852195743614, 67.24947197770308, -2193.890996246544)
+[03:58:09] [Craft Scheduler Thread - 111 - AuthMe/INFO]: [AuthMe] Makit0oo logged in 127.199.104.98
+[03:58:13] [Server thread/INFO]: Makit0oo issued server command: /back
+[03:58:15] [Thread-26/INFO]: A new version of Herobrine is available.
+To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
+[03:58:17] [Server thread/INFO]: Makit0oo issued server command: /tp JzYq
+[03:58:21] [Craft Scheduler Thread - 109 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[03:58:21] [Craft Scheduler Thread - 110 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[03:58:21] [Craft Scheduler Thread - 110 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[03:58:21] [Server thread/INFO]: Makit0oo issued server command: /v
+[03:58:21] [Server thread/INFO]: Makit0oo issued server command: /thor Makit0oo
+[03:58:23] [Server thread/INFO]: JzYq issued server command: /gm 0 Makit0oo
+[03:58:26] [Server thread/INFO]: JzYq issued server command: /vanish Makit0oo
+[03:58:32] [Server thread/INFO]: JzYq issued server command: /gm 1
+[03:58:33] [Server thread/INFO]: Makit0oo issued server command: /invsee
+[03:58:34] [Server thread/INFO]: Makit0oo issued server command: /invsee JzYq
+[03:58:40] [Server thread/INFO]: JzYq issued server command: /invsee Makit0oo
+[03:58:43] [Server thread/INFO]: Makit0oo issued server command: /gamemode creative
+[03:58:49] [Server thread/INFO]: JzYq issued server command: /gm 0 Makit0oo
+[03:58:54] [Server thread/INFO]: JzYq issued server command: /vanish Makit0oo
+[03:59:03] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:07] [Server thread/INFO]: Makit0oo issued server command: /invsee JzYq
+[03:59:07] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:08] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:09] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:09] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:10] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:10] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:11] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:11] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:11] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:12] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:12] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:13] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:14] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:14] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:15] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:15] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:16] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:16] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:17] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:17] [Server thread/INFO]: JzYq issued server command: /kill Makit0oo
+[03:59:23] [Async Chat Thread - #53/INFO]: [Not Secure] <BqYz> trae bloques me quede sin XD
+[03:59:28] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick jzyq
+[03:59:28] [Server thread/INFO]: JzYq lost connection: Kicked from server.
+[03:59:28] [Server thread/INFO]: [Essentials] Player Console kicked JzYq for Kicked from server..
+[03:59:34] [Server thread/INFO]: Makit0oo issued server command: /gamemode creative
+[03:59:37] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /kick makit0oo
+[03:59:37] [Server thread/INFO]: Makit0oo lost connection: Kicked from server.
+[03:59:37] [Server thread/INFO]: [Essentials] Player Console kicked Makit0oo for Kicked from server..
+[03:59:44] [User Authenticator #12/INFO]: UUID of player Makit0oo is d9fadb25-ac86-3b98-a3b9-78c6b1d90e09
+[03:59:44] [Server thread/INFO]: Makit0oo[/127.199.104.98:57915] logged in with entity id 135351 at ([world]-29.747074276160458, 127.99302608081037, 3.6258051910488347)
+[03:59:44] [Craft Scheduler Thread - 114 - AuthMe/INFO]: [AuthMe] Makit0oo logged in 127.199.104.98
+[03:59:47] [Server thread/INFO]: Makit0oo issued server command: /troll
+[03:59:48] [User Authenticator #12/INFO]: UUID of player JzYq is afc0ef30-7ea8-3d46-8f83-24c2ce8af24e
+[03:59:48] [Server thread/INFO]: JzYq[/127.234.163.178:60041] logged in with entity id 135382 at ([world]-2480.2544533522055, 66.0, -2195.4964284090006)
+[03:59:48] [Craft Scheduler Thread - 115 - AuthMe/INFO]: [AuthMe] JzYq logged in 127.234.163.178
+[03:59:52] [Server thread/INFO]: Makit0oo issued server command: /troll
+[03:59:55] [Server thread/INFO]: JzYq lost connection: Disconnected
+[03:59:57] [Server thread/INFO]: Makit0oo issued server command: /troll server
+[04:00:02] [User Authenticator #12/INFO]: UUID of player v783 is 39f69b13-e587-344f-b79f-eb9654de9c83
+[04:00:02] [Server thread/INFO]: v783[/127.234.163.178:51997] logged in with entity id 135750 at ([world]3.2737541757954385, 130.79167218887488, -21.118711243080472)
+[04:00:02] [Craft Scheduler Thread - 114 - AuthMe/INFO]: [AuthMe] v783 logged in 127.234.163.178
+[04:00:05] [Async Chat Thread - #53/INFO]: [Not Secure] <_6Jul9_> a
+[04:00:10] [Async Chat Thread - #53/INFO]: [Not Secure] <BqYz> hp
+[04:00:15] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:15] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:15] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:15] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:16] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:16] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:17] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:17] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:19] [Async Chat Thread - #53/INFO]: [Not Secure] <BqYz> susto de monda
+[04:00:19] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:19] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:19] [Server thread/INFO]: Makit0oo issued server command: /invsee
+[04:00:19] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:19] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:23] [Server thread/INFO]: Makit0oo issued server command: /invsee jzyq
+[04:00:24] [Server thread/INFO]: v783 issued server command: /op makit0oo
+[04:00:30] [Server thread/INFO]: Makit0oo issued server command: /invsee v783
+[04:00:32] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:32] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:33] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:33] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:34] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:34] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:35] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:00:35] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:00:39] [Server thread/INFO]: Makit0oo lost connection: Disconnected
+[04:00:43] [User Authenticator #12/INFO]: UUID of player JzYq is afc0ef30-7ea8-3d46-8f83-24c2ce8af24e
+[04:00:43] [Server thread/INFO]: JzYq[/127.199.104.98:45425] logged in with entity id 136044 at ([world]-2501.9954692238935, 81.65826237592255, -2208.0427634567354)
+[04:00:48] [Server thread/INFO]: v783 issued server command: /tp JzYq
+[04:01:02] [Server thread/INFO]: v783 issued server command: /invsee JzYq
+[04:01:06] [Server thread/INFO]: JzYq lost connection: Disconnected
+[04:01:11] [User Authenticator #12/INFO]: UUID of player Makit0oo is d9fadb25-ac86-3b98-a3b9-78c6b1d90e09
+[04:01:11] [Server thread/INFO]: Makit0oo[/127.199.104.98:55685] logged in with entity id 136530 at ([world]-16.30000001192093, 126.0, 77.30000001192093)
+[04:01:11] [Craft Scheduler Thread - 120 - AuthMe/INFO]: [AuthMe] Makit0oo logged in 127.199.104.98
+[04:01:16] [Server thread/INFO]: Makit0oo issued server command: /invsee v783
+[04:01:16] [Server thread/INFO]: v783 issued server command: /tp notch
+[04:01:20] [Server thread/INFO]: v783 issued server command: /tp Makit0oo
+[04:01:21] [User Authenticator #12/INFO]: UUID of player DAVID_PY is d23e8853-c241-3acd-8959-bdfa9cecc57a
+[04:01:21] [Server thread/INFO]: DAVID_PY[/127.19.157.248:54901] logged in with entity id 136589 at ([world]-39977.28158241183, 61.0, -20510.601316340493)
+[04:01:28] [Craft Scheduler Thread - 122 - AuthMe/INFO]: [AuthMe] DAVID_PY logged in 127.19.157.248
+[04:01:31] [Server thread/INFO]: v783 issued server command: /tp BqYz
+[04:01:36] [Server thread/INFO]: Makit0oo issued server command: /tp BqYz
+[04:01:45] [Server thread/INFO]: v783 issued server command: /invsee _6Jul9_
+[04:02:00] [Server thread/INFO]: DAVID_PY issued server command: /spawn
+[04:02:09] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> que hermoso gracias
+[04:02:13] [Server thread/INFO]: v783 issued server command: /vanish
+[04:02:14] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:02:14] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:02:18] [Server thread/INFO]: v783 issued server command: /vanish
+[04:02:18] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:02:18] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:02:20] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> no tu no : , v
+[04:02:38] [Async Chat Thread - #55/INFO]: [Not Secure] <_6Jul9_> un brote de arbol pofa
+[04:02:39] [Async Chat Thread - #57/INFO]: [Not Secure] <BqYz> tu nos dañas las bases :(
+[04:02:47] [Server thread/INFO]: v783 issued server command: /herobrine speak Eso es culpa tuya
+[04:02:47] [Server thread/INFO]: <Herobrine> Eso es culpa tuya
+[04:02:51] [Server thread/INFO]: Makit0oo issued server command: /give Makit0oo barrier
+[04:02:54] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> pq culpa mia
+[04:03:04] [Server thread/INFO]: v783 issued server command: /herobrine speak Dije no dupear el huevo
+[04:03:04] [Server thread/INFO]: <Herobrine> Dije no dupear el huevo
+[04:03:08] [Server thread/INFO]: Makit0oo issued server command: /tp 0 100 0
+[04:03:21] [Async Chat Thread - #57/INFO]: [Not Secure] <BqYz> no lo dupee ps igual ya ni lo tengo el que te pase era el real
+[04:03:25] [Async Chat Thread - #57/INFO]: [Not Secure] <BqYz> el otro se perdio
+[04:03:36] [Server thread/INFO]: v783 issued server command: /herobrine speak Si habian 2 cuando vi
+[04:03:36] [Server thread/INFO]: <Herobrine> Si habian 2 cuando vi
+[04:03:36] [Async Chat Thread - #57/INFO]: [Not Secure] <BqYz> ya no hay mas huevo del dragon aparte del que tienes tu
+[04:03:47] [Server thread/INFO]: v783 issued server command: /herobrine speak Por eso tu base no existe
+[04:03:47] [Server thread/INFO]: <Herobrine> Por eso tu base no existe
+[04:03:56] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> si pero recuerdas las tnt que explotaron la base cuando pedi mis cosas ?
+[04:04:02] [Server thread/INFO]: v783 issued server command: /herobrine speak Si
+[04:04:02] [Server thread/INFO]: <Herobrine> Si
+[04:04:05] [Server thread/INFO]: v783 issued server command: /herobrine speak Que tiene esa
+[04:04:05] [Server thread/INFO]: <Herobrine> Que tiene esa
+[04:04:13] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> explotaron el huevo dupe que hizo el david
+[04:04:19] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> ya no exite huevo del dragon
+[04:04:24] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> solo el que tienes tu
+[04:04:32] [Server thread/INFO]: v783 issued server command: /herobrine speak Pero ya sabes por que tu base no existe
+[04:04:32] [Server thread/INFO]: <Herobrine> Pero ya sabes por que tu base no existe
+[04:04:38] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> si ps
+[04:04:40] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> y entiendo
+[04:04:47] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/139728, uuid='60e41e18-04ed-4df6-ada2-c5d2e6aaf9c1', l='ServerLevel[world]', x=-39728.50, y=-42.00, z=-21396.50, cpos=[-2484, -1338], tl=0, v=false] died: Demon died
+[04:04:50] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> pero ya nadie tiene nada solo tu el real huevo y ya
+[04:04:56] [Async Chat Thread - #57/INFO]: [Not Secure] <BqYz> no dañes esta ps
+[04:05:00] [Server thread/INFO]: v783 issued server command: /herobrine speak Ok
+[04:05:00] [Server thread/INFO]: <Herobrine> Ok
+[04:05:06] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/140020, uuid='70debb19-0bce-4db8-b773-a29a723666ba', l='ServerLevel[world]', x=-39440.50, y=27.00, z=-21302.50, cpos=[-2466, -1332], tl=0, v=false] died: Demon died
+[04:05:08] [Server thread/INFO]: v783 issued server command: /vanish
+[04:05:08] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:05:08] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:05:18] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> ademas como puedes estar aqui XD?
+[04:05:29] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> tu no eres del nether ps y del overworld
+[04:05:34] [Server thread/INFO]: v783 issued server command: /herobrine speak al darme el huevo tengo permitido todo los mundos
+[04:05:34] [Server thread/INFO]: <Herobrine> al darme el huevo tengo permitido todo los mundos
+[04:05:39] [Async Chat Thread - #57/INFO]: [Not Secure] <BqYz> a ya
+[04:05:46] [Async Chat Thread - #57/INFO]: [Not Secure] <BqYz> y te haz cruzado el del end ?
+[04:05:53] [Server thread/INFO]: v783 issued server command: /herobrine speak No
+[04:05:53] [Server thread/INFO]: <Herobrine> No
+[04:06:07] [Async Chat Thread - #55/INFO]: [Not Secure] <BqYz> al espiritu del end no te lo haz cruzado ?
+[04:06:13] [Server thread/INFO]: v783 issued server command: /herobrine speak No
+[04:06:13] [Server thread/INFO]: <Herobrine> No
+[04:06:56] [Server thread/INFO]: v783 issued server command: /vanish
+[04:06:56] [Server thread/INFO]: v783 issued server command: /execute at v783 run summon minecraft:lightning_bolt
+[04:06:56] [Server thread/INFO]: [v783: Summoned new Lightning Bolt]
+[04:07:21] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> lo viste hiba a utilizar el hacha para acomodar de obsi
+[04:07:26] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> no supo usarla Xd
+[04:07:29] [Async Chat Thread - #58/INFO]: [Not Secure] <_6Jul9_> no vi
+[04:07:33] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/142926, uuid='5918b6ca-f093-4e3e-b06c-214124dda7a5', l='ServerLevel[world]', x=-38043.50, y=-42.00, z=-20834.50, cpos=[-2378, -1303], tl=0, v=false] died: Demon died
+[04:08:05] [Async Chat Thread - #58/INFO]: [Not Secure] <_6Jul9_> en mi mente dice que hagamos doble suelo asd
+[04:08:18] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> pero hagamos un circulo
+[04:08:24] [Async Chat Thread - #58/INFO]: [Not Secure] <_6Jul9_> ya ps
+[04:08:38] [Async Chat Thread - #58/INFO]: [Not Secure] <_6Jul9_> solo pongamos este suelo primero
+[04:08:45] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> y le colocamos doble suelo ps
+[04:09:02] [Async Chat Thread - #59/INFO]: [Not Secure] <BqYz> oe pablo y la camita Xd
+[04:09:08] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> es que si morimos cagada
+[04:09:13] [Async Chat Thread - #58/INFO]: [Not Secure] <_6Jul9_> aqui explota ps
+[04:09:19] [Async Chat Thread - #59/INFO]: [Not Secure] <_6Jul9_> por eso queria el clan base
+[04:09:20] [Async Chat Thread - #59/INFO]: [Not Secure] <BqYz> si? : v
+[04:09:24] [Async Chat Thread - #59/INFO]: [Not Secure] <_6Jul9_> si ps
+[04:09:26] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/147087, uuid='c2c615d5-d11b-4c23-a9e3-a9febfbec18a', l='ServerLevel[world]', x=-36329.50, y=29.00, z=-20134.50, cpos=[-2271, -1259], tl=0, v=false] died: Herobrine Warrior died
+[04:09:28] [Async Chat Thread - #59/INFO]: [Not Secure] <_6Jul9_> no has jugado survival?
+[04:09:39] [Async Chat Thread - #59/INFO]: [Not Secure] <BqYz> no recuerdo q explotara XD
+[04:09:48] [Async Chat Thread - #59/INFO]: [Not Secure] <_6Jul9_> por eso hay que hacer paredes para no caernos
+[04:10:16] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> si pues que ya te explico lo que quiero hacer ps bien pa que entiendas
+[04:10:25] [Server thread/INFO]: DAVID_PY has made the advancement [Spooky Scary Skeleton]
+[04:10:52] [Server thread/INFO]: v783 issued server command: /tp Makit0oo
+[04:11:05] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> oe DAVID_PY vas ayudar ?
+[04:11:10] [Async Chat Thread - #59/INFO]: [Not Secure] <DAVID_PY> no
+[04:11:14] [Async Chat Thread - #58/INFO]: [Not Secure] <DAVID_PY> trabajen
+[04:11:15] [Async Chat Thread - #59/INFO]: [Not Secure] <DAVID_PY> negros
+[04:11:20] [Async Chat Thread - #59/INFO]: [Not Secure] <BqYz> entonces sacalo del grupo pablo
+[04:11:22] [Async Chat Thread - #59/INFO]: [Not Secure] <_6Jul9_> vagaso
+[04:11:45] [Async Chat Thread - #58/INFO]: [Not Secure] <DAVID_PY> como osas votar a tu macho
+[04:11:49] [Server thread/INFO]: v783 issued server command: /schematic list
+[04:11:49] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/149575, uuid='ca740e52-3701-417f-a959-71b9e66702af', l='ServerLevel[world]', x=-35834.50, y=31.00, z=-20662.50, cpos=[-2240, -1292], tl=0, v=false] died: Herobrine Warrior died
+[04:11:53] [Server thread/INFO]: v783 issued server command: /schem load "Notch base.schem"
+[04:11:54] [WorldEdit Task Executor - 0/INFO]: v783 loaded /workspaces/Lg02/servidor_minecraft/plugins/WorldEdit/schematics/Notch base.schem
+[04:11:56] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> cual macho si eres un peruano
+[04:12:01] [Server thread/INFO]: v783 issued server command: //paste
+[04:12:17] [User Authenticator #13/INFO]: UUID of player _6Jul9_ is 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
+[04:12:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-196 (MC: 1.20.1) ---
+[04:12:22] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[04:12:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:12:22] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[04:12:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:12:22] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[04:12:22] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[04:12:22] [Paper Watchdog Thread/ERROR]: 	Stack:
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:208)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockStateFinal(LevelChunk.java:414)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockState(LevelChunk.java:400)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getBlockState(Level.java:867)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.NeighborUpdater.executeShapeUpdate(NeighborUpdater.java:47)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater$ShapeUpdate.runNext(CollectingNeighborUpdater.java:158)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.runUpdates(CollectingNeighborUpdater.java:79)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.addAndRun(CollectingNeighborUpdater.java:63)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.shapeUpdate(CollectingNeighborUpdater.java:30)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.neighborShapeChanged(Level.java:827)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.updateNeighbourShapes(BlockBehaviour.java:1135)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateNeighbors(PaperweightWorldNativeAccess.java:180)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateNeighbors(PaperweightWorldNativeAccess.java:44)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.internal.wna.WorldNativeAccess.markAndNotifyBlock(WorldNativeAccess.java:191)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.internal.wna.WorldNativeAccess.applySideEffects(WorldNativeAccess.java:110)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.BukkitWorld.applySideEffects(BukkitWorld.java:518)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extent.world.SideEffectExtent$1.resume(SideEffectExtent.java:132)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.internalFlushSession(EditSession.java:977)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.close(EditSession.java:921)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:549)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$DMH/0x000078e6f8001000.invokeSpecial(LambdaForm$DMH)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8cc1800.invoke(LambdaForm$MH)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8d62400.invokeExact_MT(LambdaForm$MH)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:391)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:324)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:308)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.PlayerConnection$$Lambda/0x000078e6f9a27298.run(Unknown Source)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.IAsyncTaskHandler$$Lambda/0x000078e6f9a274b0.get(Unknown Source)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000078e6f8a18cd0.run(Unknown Source)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
+[04:12:22] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
+[04:12:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:12:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[04:12:22] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24103ms or 482 ticks behind
+[04:12:26] [Async Chat Thread - #59/INFO]: [Not Secure] <BqYz> guacala : v
+[04:12:26] [Server thread/INFO]: _6Jul9_ lost connection: Disconnected
+[04:12:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@42e01d83[id=2fa73f42-7d4f-3aec-8454-a9a0a5972a76,name=_6Jul9_,properties={textures=[com.mojang.authlib.properties.Property@233911ba]},legacy=false] (/127.121.27.71:46647) lost connection: Disconnected
+[04:12:26] [Server thread/WARN]: v783 moved too quickly! 7.702744547748637,6.694329950252808,0.2856574544987964
+[04:12:26] [Server thread/WARN]: Makit0oo moved too quickly! -9.213054333684454,3.4068748869919006,2.155525887442482
+[04:12:27] [User Authenticator #13/INFO]: UUID of player _6Jul9_ is 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
+[04:12:27] [Server thread/INFO]: _6Jul9_[/127.121.27.71:40211] logged in with entity id 150962 at ([world_the_end]-2093.476755477819, 1.0, 3868.5634560529907)
+[04:12:27] [Craft Scheduler Thread - 127 - AuthMe/INFO]: [AuthMe] _6Jul9_ logged in 127.121.27.71
+[04:12:32] [Async Chat Thread - #58/INFO]: [Not Secure] <_6Jul9_> me kgue
+[04:12:34] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> q lagaso
+[04:12:39] [Async Chat Thread - #60/INFO]: [Not Secure] <BqYz> pense que fue mi net
+[04:12:42] [Async Chat Thread - #60/INFO]: [Not Secure] <_6Jul9_> vi mi muerte pasar ante mis ojos
+[04:12:47] [Async Chat Thread - #60/INFO]: [Not Secure] <BqYz> jajajaj
+[04:12:52] [Server thread/INFO]: v783 issued server command: /undo
+[04:13:08] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-196 (MC: 1.20.1) ---
+[04:13:08] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[04:13:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:13:08] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[04:13:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:13:08] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[04:13:08] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[04:13:08] [Paper Watchdog Thread/ERROR]: 	Stack:
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ThreadedLevelLightEngine.checkBlock(ThreadedLevelLightEngine.java:211)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateLightingForBlock(PaperweightWorldNativeAccess.java:102)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateLightingForBlock(PaperweightWorldNativeAccess.java:44)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.internal.wna.WorldNativeAccess.applySideEffects(WorldNativeAccess.java:107)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.BukkitWorld.applySideEffects(BukkitWorld.java:518)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extent.world.SideEffectExtent$1.resume(SideEffectExtent.java:132)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.internalFlushSession(EditSession.java:977)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.undo(EditSession.java:849)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.LocalSession.undo(LocalSession.java:264)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.command.HistoryCommands.undo(HistoryCommands.java:81)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.command.HistoryCommandsRegistration.cmd$undo(HistoryCommandsRegistration.java:138)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.command.HistoryCommandsRegistration$$Lambda/0x000078e6fa3d5808.run(Unknown Source)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:506)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$DMH/0x000078e6f8001000.invokeSpecial(LambdaForm$DMH)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8cc1800.invoke(LambdaForm$MH)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8d62400.invokeExact_MT(LambdaForm$MH)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:391)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:324)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:308)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.PlayerConnection$$Lambda/0x000078e6f9a27298.run(Unknown Source)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.IAsyncTaskHandler$$Lambda/0x000078e6f9a274b0.get(Unknown Source)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1424)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000078e6f8a18cd0.run(Unknown Source)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
+[04:13:08] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
+[04:13:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:13:08] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[04:13:08] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:13:10] [Server thread/WARN]: Makit0oo moved too quickly! -52.572565269915685,-35.511472938623385,-9.290516807165027
+[04:13:10] [Async Chat Thread - #60/INFO]: [Not Secure] <_6Jul9_> pense que me habia caido y no me funcionaban los cohetes
+[04:13:10] [Async Chat Thread - #58/INFO]: [Not Secure] <BqYz> hibas volando no XD?
+[04:13:14] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/152975, uuid='415be1d9-0dca-42e0-95bf-9e0ac1c61404', l='ServerLevel[world]', x=-35779.50, y=106.00, z=-20753.50, cpos=[-2237, -1298], tl=0, v=false] died: Herobrine Warrior died
+[04:13:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18975ms or 379 ticks behind
+[04:13:19] [Async Chat Thread - #58/INFO]: [Not Secure] <_6Jul9_> si mano
+[04:14:04] [Craft Scheduler Thread - 132 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[04:14:04] [Craft Scheduler Thread - 131 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[04:14:04] [Craft Scheduler Thread - 131 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[04:14:13] [Server thread/INFO]: v783 issued server command: /schem load "Notch base.schem"
+[04:14:14] [WorldEdit Task Executor - 1/INFO]: v783 loaded /workspaces/Lg02/servidor_minecraft/plugins/WorldEdit/schematics/Notch base.schem
+[04:14:16] [Server thread/INFO]: v783 issued server command: //paste

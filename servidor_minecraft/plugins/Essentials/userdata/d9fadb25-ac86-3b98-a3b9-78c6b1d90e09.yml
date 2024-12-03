@@ -4,20 +4,20 @@ godmode: false
 muted: false
 jailed: false
 ip-address: 127.199.104.98
-afk: true
+afk: false
 socialspy: true
 npc: false
 powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733196971614
+  lastteleport: 1733198496055
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733197004554
-  login: 1733197005745
+  logout: 1733198475044
+  login: 1733198471245
   kits:
     notch: 1732943619115
     makit0oo: 0
@@ -26,19 +26,19 @@ last-account-name: Makit0oo
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -2487.9984044217726
-  y: 71.74390884716955
-  z: -2217.879766554993
-  yaw: -104.83515167236328
-  pitch: 30.889368057250977
+  x: -16.30000001192093
+  y: 126.0
+  z: 77.30000001192093
+  yaw: 18.564685821533203
+  pitch: 4.640966415405273
 lastlocation:
   world: bf7b7afd-f343-4ea0-8cff-a5890a4565b9
   world-name: world_the_end
-  x: -1.300000011920929
-  y: 42.0
-  z: 78.69999998807907
-  yaw: 39.8837890625
-  pitch: 14.025339126586914
+  x: -2125.5079487936982
+  y: 12.393221185422236
+  z: 3819.185129087187
+  yaw: -32.957366943359375
+  pitch: -16.61508560180664
 nickname: §f§lNotch
 mail:
 - legacy: false
