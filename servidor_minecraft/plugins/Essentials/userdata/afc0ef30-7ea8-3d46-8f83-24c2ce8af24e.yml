@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733194621032
-  login: 1733194698337
+  logout: 1733196504308
+  login: 1733196507238
 money: '0'
 last-account-name: JzYq
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -2495.3545783103636
-  y: 67.16610926093821
-  z: -2202.0953422237803
-  yaw: -87.81619262695312
-  pitch: 14.041553497314453
+  x: -2508.6679751945676
+  y: 66.0
+  z: -2209.8848540471095
+  yaw: -109.2576904296875
+  pitch: 3.220867156982422
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
