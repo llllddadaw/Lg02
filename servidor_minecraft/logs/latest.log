@@ -1597,3 +1597,109 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [03:11:34] [Server thread/INFO]: BqYz[/127.112.153.223:46843] logged in with entity id 69364 at ([world]-4629.005971334343, -34.0, 1659.7844683042226)
 [03:11:34] [Craft Scheduler Thread - 77 - AuthMe/INFO]: [AuthMe] BqYz logged in 127.112.153.223
 [03:11:34] [Server thread/INFO]: JzYq issued server command: /gm 1
+[03:11:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:11:59] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy en el nuevo spawn que pongan hacemos un cuadrado asi
+[03:12:03] [Server thread/INFO]: _6Jul9_ issued server command: /msg Yesvy al rededor del spawn
+[03:12:07] [Server thread/INFO]: Yesvy issued server command: /r va
+[03:12:11] [Server thread/INFO]: Yesvy issued server command: /msg _6Jul9_ vava
+[03:12:32] [Server thread/INFO]: zGander lost connection: Disconnected
+[03:12:35] [Async Chat Thread - #26/INFO]: [Not Secure] <Yesvy> XD
+[03:12:38] [Async Chat Thread - #26/INFO]: [Not Secure] <_6Jul9_> ya no llegan
+[03:12:41] [Async Chat Thread - #26/INFO]: [Not Secure] <Yesvy> lo rompierom
+[03:12:49] [Async Chat Thread - #27/INFO]: [Not Secure] <_6Jul9_> fui yo
+[03:12:55] [Async Chat Thread - #27/INFO]: [Not Secure] <_6Jul9_> ven baja
+[03:13:07] [Async Chat Thread - #26/INFO]: [Not Secure] <Yesvy> XD
+[03:13:09] [Server thread/INFO]: JzYq issued server command: /region define coliseo
+[03:13:11] [Async Chat Thread - #26/INFO]: [Not Secure] <_6Jul9_> se bugeo asd
+[03:13:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:13:20] [Server thread/INFO]: JzYq issued server command: /rg flag coliseo block-break deny
+[03:13:21] [Craft Scheduler Thread - 83 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[03:13:21] [Craft Scheduler Thread - 82 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[03:13:21] [Craft Scheduler Thread - 82 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[03:13:21] [Async Chat Thread - #27/INFO]: [Not Secure] <Yesvy> metete ahi
+[03:13:22] [Async Chat Thread - #26/INFO]: [Not Secure] <Yesvy> XD
+[03:13:25] [Server thread/INFO]: JzYq issued server command: /rg flag coliseo block-place deny
+[03:13:33] [Server thread/INFO]: JzYq issued server command: /rg flags coliseo
+[03:13:39] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" -h 1 coliseo pvp ALLOW
+[03:13:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:13:44] [Server thread/INFO]: JzYq issued server command: /deop JzYq
+[03:13:44] [Server thread/INFO]: [JzYq: Made JzYq no longer a server operator]
+[03:13:46] [Async Chat Thread - #27/INFO]: [Not Secure] <_6Jul9_> tiene un rango de 3 bloques
+[03:13:46] [Server thread/INFO]: JzYq issued server command: /gm 0
+[03:13:47] [Async Chat Thread - #27/INFO]: [Not Secure] <Yesvy> casi muero xd
+[03:13:48] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /gm 0 jzyq
+[03:13:48] [Server thread/INFO]: Set game mode survival for JzYq.
+[03:13:52] [Async Chat Thread - #26/INFO]: [Not Secure] <_6Jul9_> jajaj
+[03:13:54] [Async Chat Thread - #26/INFO]: [Not Secure] <_6Jul9_> no se quita
+[03:13:57] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /fly jzyq
+[03:13:57] [Server thread/INFO]: Set fly mode enabled for JzYq.
+[03:13:58] [Async Chat Thread - #26/INFO]: [Not Secure] <_6Jul9_> para mi que se bugeo
+[03:14:00] [Async Chat Thread - #26/INFO]: [Not Secure] <Yesvy> ya
+[03:14:03] [Async Chat Thread - #26/INFO]: [Not Secure] <_6Jul9_> a no
+[03:14:39] [Async Chat Thread - #26/INFO]: [Not Secure] <Yesvy> hay que hacerlo al rededor
+[03:14:51] [Async Chat Thread - #26/INFO]: [Not Secure] <_6Jul9_> de aqui o ahi donde estas
+[03:14:59] [Async Chat Thread - #26/INFO]: [Not Secure] <Yesvy> spawn
+[03:15:15] [Server thread/INFO]: Made JzYq a server operator
+[03:15:20] [Server thread/INFO]: JzYq issued server command: /gm 1
+[03:15:23] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/82690, uuid='e00073c7-e784-44d2-943d-9b43f595ab4b', l='ServerLevel[world]', x=-104.50, y=96.00, z=-92.50, cpos=[-7, -6], tl=0, v=false] died: Herobrine Warrior died
+[03:15:57] [Server thread/INFO]: JzYq issued server command: /region delete coliseo
+[03:16:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:17:33] [Async Chat Thread - #28/INFO]: [Not Secure] <Yesvy> tienes la madera=
+[03:17:40] [Async Chat Thread - #28/INFO]: [Not Secure] <_6Jul9_> en los shulkers esta
+[03:17:56] [Server thread/INFO]: JzYq issued server command: /region define coliseo
+[03:18:05] [Server thread/INFO]: JzYq issued server command: /deop JzYq
+[03:18:05] [Server thread/INFO]: [JzYq: Made JzYq no longer a server operator]
+[03:18:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:18:25] [Server thread/INFO]: Made JzYq a server operator
+[03:18:34] [Server thread/INFO]: JzYq issued server command: /deop jzyq
+[03:18:34] [Server thread/INFO]: [JzYq: Made JzYq no longer a server operator]
+[03:18:43] [Async Chat Thread - #30/INFO]: [Not Secure] <drinne> hola alguien me puede hacer tp, me encerre arriba del nether :/
+[03:18:49] [Async Chat Thread - #30/INFO]: [Not Secure] <_6Jul9_> a
+[03:18:51] [Server thread/INFO]: Made JzYq a server operator
+[03:18:57] [Async Chat Thread - #30/INFO]: [Not Secure] <_6Jul9_> como es posible eso
+[03:19:00] [Server thread/INFO]: JzYq issued server command: /region delete coliseo
+[03:19:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:19:12] [Async Chat Thread - #30/INFO]: [Not Secure] <BqYz> es que es tontito
+[03:19:14] [Async Chat Thread - #30/INFO]: [Not Secure] <drinne> yo solo hago lo imposible
+[03:19:24] [Async Chat Thread - #31/INFO]: [Not Secure] <_6Jul9_> no llevas enderchest?
+[03:19:25] [Server thread/INFO]: JzYq issued server command: /region define coliseo
+[03:19:29] [Async Chat Thread - #32/INFO]: [Not Secure] <drinne> no es q no tengo los enderchets
+[03:19:29] [Server thread/INFO]: JzYq issued server command: /deop jzyq
+[03:19:29] [Server thread/INFO]: [JzYq: Made JzYq no longer a server operator]
+[03:19:34] [Async Chat Thread - #30/INFO]: [Not Secure] <Yesvy> si
+[03:19:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:19:54] [Server thread/INFO]: Makit0oo issued server command: /tp drinne
+[03:19:56] [Async Chat Thread - #32/INFO]: [Not Secure] <drinne> por la vez q nos mataron los perdi y se me olvido sacar otros
+[03:20:01] [Async Chat Thread - #32/INFO]: [Not Secure] <drinne> y aca estoy
+[03:20:01] [Server thread/INFO]: Made JzYq a server operator
+[03:20:04] [Async Chat Thread - #32/INFO]: [Not Secure] <_6Jul9_> a
+[03:20:06] [Server thread/INFO]: JzYq issued server command: /rg flags coliseo
+[03:20:07] [Async Chat Thread - #30/INFO]: [Not Secure] <_6Jul9_> ya fue
+[03:20:08] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" -h 1 coliseo pvp ALLOW
+[03:20:10] [Server thread/INFO]: Makit0oo issued server command: /tp drinne
+[03:20:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:20:13] [Async Chat Thread - #32/INFO]: [Not Secure] <drinne> tenqiu
+[03:20:19] [Async Chat Thread - #31/INFO]: [Not Secure] <BqYz> tepenlo a mi si pueden porfa
+[03:20:19] [Server thread/INFO]: JzYq issued server command: /tp Makit0oo JzYq
+[03:20:22] [Server thread/INFO]: JzYq issued server command: /gm 0 Makit0oo
+[03:20:30] [Async Chat Thread - #31/INFO]: [Not Secure] <BqYz> yo le doy enderchest
+[03:20:43] [Async Chat Thread - #32/INFO]: [Not Secure] <drinne> ya esta BqYz
+[03:20:48] [Server thread/INFO]: JzYq issued server command: /deop Makit0oo
+[03:20:48] [Server thread/INFO]: [JzYq: Made Makit0oo no longer a server operator]
+[03:20:50] [Server thread/INFO]: JzYq issued server command: /deop JzYq
+[03:20:50] [Server thread/INFO]: [JzYq: Made JzYq no longer a server operator]
+[03:20:51] [Async Chat Thread - #32/INFO]: [Not Secure] <BqYz> a bue
+[03:20:58] [Async Chat Thread - #31/INFO]: [Not Secure] <drinne> ya voy espera
+[03:21:11] [Async Chat Thread - #32/INFO]: [Not Secure] <Yesvy> ya mñn mas
+[03:21:15] [Async Chat Thread - #31/INFO]: [Not Secure] <Yesvy> voy a una reunion xd
+[03:21:32] [Async Chat Thread - #32/INFO]: [Not Secure] <_6Jul9_> dale destruyo los shulkers?
+[03:21:36] [Async Chat Thread - #32/INFO]: [Not Secure] <Yesvy> si quieres
+[03:21:38] [Server thread/INFO]: Made JzYq a server operator
+[03:21:40] [Async Chat Thread - #32/INFO]: [Not Secure] <Yesvy> bueno me voy
+[03:21:42] [Async Chat Thread - #32/INFO]: [Not Secure] <Yesvy> be
+[03:21:45] [Server thread/INFO]: Yesvy lost connection: Disconnected
+[03:21:47] [Server thread/INFO]: JzYq issued server command: /op Makit0oo
+[03:21:47] [Server thread/INFO]: [JzYq: Made Makit0oo a server operator]
+[03:21:50] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 2 coliseo
+[03:21:54] [Server thread/INFO]: Makit0oo issued server command: /give Makit0oo light
+[03:22:08] [Server thread/INFO]: Makit0oo issued server command: /gamemode creative

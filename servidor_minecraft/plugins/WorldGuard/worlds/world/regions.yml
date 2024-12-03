@@ -11,10 +11,10 @@
 #
 regions:
     coliseo:
-        min: {x: -2623, y: 66, z: -2294}
-        max: {x: -2393, y: 66, z: -2099}
+        min: {x: -2623, y: 65, z: -2294}
+        max: {x: -2393, y: 126, z: -2099}
         members: {}
-        flags: {block-break: deny, pvp: allow, mob-spawning: deny, block-place: deny}
+        flags: {pvp: allow}
         owners: {}
         type: cuboid
         priority: 0

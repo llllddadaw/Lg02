@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733195319471
+  lastteleport: 1733196010665
   lastheal: 0
   mute: 0
   jail: 0
@@ -32,13 +32,13 @@ logoutlocation:
   yaw: -94.14470672607422
   pitch: -41.25412368774414
 lastlocation:
-  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
-  world-name: world
-  x: -4628.300000011921
-  y: -34.0
-  z: 1662.1048033689547
-  yaw: 117.822265625
-  pitch: 13.533408164978027
+  world: 0002db0d-ff51-4509-ac7d-a073f71e544c
+  world-name: world_nether
+  x: -624.6999999880791
+  y: 124.0
+  z: 189.49914099562292
+  yaw: -37.41061782836914
+  pitch: 61.63945007324219
 nickname: §f§lNotch
 mail:
 - legacy: false
