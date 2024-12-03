@@ -2693,3 +2693,90 @@ java.lang.IllegalArgumentException: minY <= maxY required
 [04:23:10] [Async Chat Thread - #66/INFO]: [Not Secure] <_6Jul9_> solo que quitemos alguans capas de esta cosa
 [04:24:11] [Server thread/INFO]: Makit0oo issued server command: /tp v783
 [04:25:17] [Async Chat Thread - #68/INFO]: [Not Secure] <_6Jul9_> ire por el cristal
+[04:25:23] [Async Chat Thread - #68/INFO]: [Not Secure] <BqYz> dale
+[04:25:23] [Server thread/INFO]: Makit0oo issued server command: /fill 112 60 286 111 60 68 minecraft:smooth_stone
+[04:25:23] [Server thread/INFO]: [Makit0oo: Successfully filled 338 block(s)]
+[04:25:42] [Server thread/INFO]: Makit0oo issued server command: /fill 112 61 286 111 61 68 minecraft:rail
+[04:25:42] [Server thread/INFO]: [Makit0oo: Successfully filled 438 block(s)]
+[04:26:17] [Server thread/INFO]: Makit0oo issued server command: /fill 112 61 286 111 61 68 minecraft:air
+[04:26:17] [Server thread/INFO]: [Makit0oo: Successfully filled 436 block(s)]
+[04:26:46] [Async Chat Thread - #70/INFO]: [Not Secure] <_6Jul9_> a
+[04:27:16] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/168529, uuid='fd78c5c5-14f1-413a-9b5b-252801c06b15', l='ServerLevel[world]', x=-283.50, y=47.00, z=159.50, cpos=[-18, 9], tl=0, v=false] died: Demon died
+[04:27:23] [Server thread/INFO]: Makit0oo issued server command: /fill 112 60 286 111 60 68 minecraft:air
+[04:27:23] [Server thread/INFO]: [Makit0oo: Successfully filled 202 block(s)]
+[04:27:41] [Server thread/INFO]: Makit0oo lost connection: Disconnected
+[04:28:04] [Async Chat Thread - #72/INFO]: [Not Secure] <BqYz> pendejo
+[04:28:09] [Async Chat Thread - #72/INFO]: [Not Secure] <_6Jul9_> BqYz revisa si hay tierra en el shulker
+[04:28:16] [Async Chat Thread - #72/INFO]: [Not Secure] <BqYz> dile al david que traiga cristal
+[04:28:25] [Async Chat Thread - #72/INFO]: [Not Secure] <_6Jul9_> ya ando en el overworld
+[04:28:30] [Async Chat Thread - #73/INFO]: [Not Secure] <BqYz> a
+[04:28:43] [Async Chat Thread - #73/INFO]: [Not Secure] <BqYz> como XD?
+[04:28:49] [Async Chat Thread - #72/INFO]: [Not Secure] <_6Jul9_> regrese al portal ps
+[04:28:55] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/171914, uuid='017e7938-7bd4-44bf-84db-8ea7e1cb0fd2', l='ServerLevel[world]', x=-1104.50, y=7.00, z=730.50, cpos=[-70, 45], tl=0, v=false] died: Demon died
+[04:28:55] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/171917, uuid='3d2f6197-8677-4a47-89e6-f29cd2fe9787', l='ServerLevel[world]', x=-1104.50, y=7.00, z=730.50, cpos=[-70, 45], tl=0, v=false] died: Demon died
+[04:29:00] [Async Chat Thread - #72/INFO]: [Not Secure] <BqYz> al que vimos ahorita ?
+[04:29:01] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/172150, uuid='85f9dd77-1006-41ec-891c-72f64fbd2833', l='ServerLevel[world]', x=-1231.50, y=11.00, z=943.50, cpos=[-77, 58], tl=0, v=false] died: Herobrine Warrior died
+[04:29:01] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/172169, uuid='d161ba70-7443-4e02-9935-a45fbeb609bc', l='ServerLevel[world]', x=-1224.50, y=13.00, z=987.50, cpos=[-77, 61], tl=0, v=false] died: Herobrine Warrior died
+[04:29:03] [Async Chat Thread - #73/INFO]: [Not Secure] <_6Jul9_> si
+[04:29:23] [Async Chat Thread - #72/INFO]: [Not Secure] <BqYz> por ahi fuiste a la isla principal ps y fuiste y ya vuelves ?
+[04:29:38] [Async Chat Thread - #72/INFO]: [Not Secure] <_6Jul9_> si
+[04:29:41] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/173203, uuid='139fc1e5-2a33-4305-a9ed-6598d067ef8c', l='ServerLevel[world]', x=-1651.50, y=-17.00, z=1118.50, cpos=[-104, 69], tl=0, v=false] died: Herobrine Warrior died
+[04:30:03] [Async Chat Thread - #72/INFO]: [Not Secure] <BqYz> si hay
+[04:30:06] [Craft Scheduler Thread - 143 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[04:30:06] [Craft Scheduler Thread - 143 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[04:30:06] [Craft Scheduler Thread - 144 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[04:30:06] [Async Chat Thread - #72/INFO]: [Not Secure] <BqYz> 6 de tierra
+[04:30:12] [Async Chat Thread - #74/INFO]: [Not Secure] <_6Jul9_> ya ahi llevo 1 brote
+[04:30:16] [Async Chat Thread - #74/INFO]: [Not Secure] <_6Jul9_> por si acaso
+[04:30:23] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/175488, uuid='0a309163-e38c-492a-a2f2-5dee1f23ccd6', l='ServerLevel[world]', x=-2324.50, y=29.00, z=1541.50, cpos=[-146, 96], tl=0, v=false] died: Herobrine Warrior died
+[04:31:05] [Async Chat Thread - #73/INFO]: [Not Secure] <BqYz> si pq DAVID_PY no sirve pa na
+[04:31:16] [Async Chat Thread - #74/INFO]: [Not Secure] <DAVID_PY> callate
+[04:31:20] [Async Chat Thread - #74/INFO]: [Not Secure] <DAVID_PY> toy enojado contigo
+[04:31:29] [Async Chat Thread - #75/INFO]: [Not Secure] <BqYz> pq estas enojado conmigo ps
+[04:31:34] [Async Chat Thread - #75/INFO]: [Not Secure] <DAVID_PY> por negra
+[04:31:46] [Async Chat Thread - #73/INFO]: [Not Secure] <BqYz> si es que hablas pendejadas pa todo
+[04:31:58] [Async Chat Thread - #73/INFO]: [Not Secure] <DAVID_PY> soy pro
+[04:32:03] [Async Chat Thread - #73/INFO]: [Not Secure] <DAVID_PY> trabajen
+[04:32:11] [Async Chat Thread - #73/INFO]: [Not Secure] <BqYz> probablemente tarado no ?
+[04:32:30] [Async Chat Thread - #75/INFO]: [Not Secure] <DAVID_PY> probablemente fiel
+[04:32:56] [Async Chat Thread - #75/INFO]: [Not Secure] <_6Jul9_> BqYz llevo cristal gris y negro por si acaso?
+[04:33:02] [Async Chat Thread - #75/INFO]: [Not Secure] <BqYz> si Xd
+[04:33:04] [Async Chat Thread - #73/INFO]: [Not Secure] <BqYz> por si algo
+[04:33:08] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/178857, uuid='7dba6e2e-9989-45c6-b111-9a3dc0b1a6ef', l='ServerLevel[world]', x=-35504.02, y=98.00, z=-21211.93, cpos=[-2220, -1326], tl=142, v=true] died: Demon was slain by DAVID_PY
+[04:33:13] [Server thread/INFO]: v783 issued server command: /region define notch
+[04:33:23] [Server thread/INFO]: v783 issued server command: /rg flag notch
+[04:33:29] [Async Chat Thread - #73/INFO]: [Not Secure] <BqYz> voy al baño ps
+[04:33:29] [Server thread/INFO]: v783 issued server command: /rg flags notch
+[04:33:30] [Server thread/INFO]: BqYz lost connection: Disconnected
+[04:33:32] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 1 notch pvp ALLOW
+[04:33:36] [Server thread/INFO]: v783 issued server command: /rg flags -w "world_the_end" -p 2 notch
+[04:33:38] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch mob-damage ALLOW
+[04:33:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_the_end' have been background saved
+[04:33:44] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch wither-damage DENY
+[04:33:45] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch other-explosion DENY
+[04:33:47] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch enderman-grief DENY
+[04:33:49] [Server thread/INFO]: v783 issued server command: /rg flags -w "world_the_end" -p 3 notch
+[04:33:53] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 3 notch mob-spawning DENY
+[04:34:01] [Server thread/INFO]: v783 issued server command: /deop v783
+[04:34:01] [Server thread/INFO]: [v783: Made v783 no longer a server operator]
+[04:34:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_the_end' have been background saved
+[04:34:17] [Thread-14/INFO]: A new version of Herobrine is available.
+To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
+[04:34:55] [Server thread/INFO]: Made v783 a server operator
+[04:34:59] [Server thread/INFO]: v783 issued server command: /rg delete notch
+[04:35:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_the_end' have been background saved
+[04:35:12] [User Authenticator #15/INFO]: UUID of player BqYz is 9d53235f-5e50-388a-8b7d-1b43c79c07c5
+[04:35:13] [Server thread/INFO]: BqYz[/127.112.153.223:37311] logged in with entity id 180370 at ([world_the_end]-2094.6094965678817, 1.0, 3861.0582296601997)
+[04:35:13] [Craft Scheduler Thread - 149 - AuthMe/INFO]: [AuthMe] BqYz logged in 127.112.153.223
+[04:35:19] [Server thread/INFO]: v783 issued server command: /region define notch
+[04:35:26] [Server thread/INFO]: v783 issued server command: /rg flags notch
+[04:35:28] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 1 notch pvp ALLOW
+[04:35:33] [Server thread/INFO]: v783 issued server command: /rg flags -w "world_the_end" -p 2 notch
+[04:35:35] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch enderman-grief DENY
+[04:35:36] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch wither-damage DENY
+[04:35:37] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch ghast-fireball DENY
+[04:35:38] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch enderdragon-block-damage DENY
+[04:35:39] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch creeper-explosion DENY
+[04:35:40] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch mob-damage DENY
+[04:35:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_the_end' have been background saved
+[04:35:42] [Server thread/INFO]: v783 issued server command: /rg flags -w "world_the_end" -p 3 notch
