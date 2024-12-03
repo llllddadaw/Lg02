@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733192818998
-  login: 1733193370094
+  logout: 1733194697433
+  login: 1733194698337
 money: '0'
 last-account-name: _6Jul9_
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: 5.699704452908548
-  y: 126.0
-  z: -11.851284573956203
-  yaw: 78.21359252929688
-  pitch: 23.16233253479004
+  x: 13.107990639623312
+  y: 156.39999997615814
+  z: -94.30000001192093
+  yaw: -713.96044921875
+  pitch: 15.938403129577637
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world

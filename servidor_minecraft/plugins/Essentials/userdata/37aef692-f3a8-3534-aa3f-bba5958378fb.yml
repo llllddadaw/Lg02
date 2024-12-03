@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733191918012
-  login: 1733193419461
+  logout: 1733194699690
+  login: 1733194703144
 money: '0'
 last-account-name: zGander
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -0.6291041646299014
-  y: 1.8247549121401745
-  z: 4.352039215241482
-  yaw: 9.569042205810547
-  pitch: 8.387980461120605
+  x: -34976.680547980555
+  y: 98.0
+  z: -25305.42404314443
+  yaw: 103.22994995117188
+  pitch: 90.0
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world

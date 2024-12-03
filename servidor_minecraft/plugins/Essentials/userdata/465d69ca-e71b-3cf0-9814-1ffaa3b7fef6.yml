@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733192819000
-  login: 1733193499844
+  logout: 1733194698531
+  login: 1733194806345
 money: '0'
 last-account-name: drinne
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -4581.699999988079
-  y: 64.0
-  z: 1647.403867924452
-  yaw: 27.8980712890625
-  pitch: 37.94997787475586
+  x: -4516.20740013239
+  y: 25.00133597911215
+  z: 1601.7081551729564
+  yaw: -65.4134521484375
+  pitch: -3.9000749588012695
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world

@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733193582065
+  lastteleport: 1733194681152
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733193331541
-  login: 1733193331583
+  logout: 1733194691246
+  login: 1733194698336
   kits:
     notch: 1732943619115
     makit0oo: 0
@@ -26,19 +26,19 @@ last-account-name: Makit0oo
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -6.526667306265929
-  y: 126.0
-  z: -16.660560609244193
-  yaw: -152.6641387939453
-  pitch: 40.5429573059082
+  x: -16.406113454770907
+  y: 129.36650050841337
+  z: -42.41205283307011
+  yaw: -94.14470672607422
+  pitch: -41.25412368774414
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -34932.7541560754
-  y: 105.49390748022948
-  z: -25302.864581760437
-  yaw: 77.38299560546875
-  pitch: 12.661184310913086
+  x: -34973.456314331714
+  y: 99.0
+  z: -25308.120426001275
+  yaw: -34.501861572265625
+  pitch: 12.7539644241333
 nickname: §f§lNotch
 mail:
 - legacy: false
