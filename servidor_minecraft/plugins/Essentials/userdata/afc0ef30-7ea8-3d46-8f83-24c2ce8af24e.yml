@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.51.33.129
+ip-address: 127.234.163.178
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,29 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1733193827664
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733100148281
-  login: 1733097394607
+  logout: 1733187978718
+  login: 1733193478516
 money: '0'
 last-account-name: JzYq
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -424.01947387056106
-  y: 71.0
-  z: -1108.0865552623188
-  yaw: 130.5408172607422
-  pitch: 14.525568008422852
+  x: -24.80306446282102
+  y: 134.0
+  z: -70.70435098556092
+  yaw: -2.9925591945648193
+  pitch: 23.754764556884766
 lastlocation:
-  world: bf7b7afd-f343-4ea0-8cff-a5890a4565b9
-  world-name: world_the_end
-  x: 38.56650802444302
-  y: 58.0
-  z: 140.69999998807907
-  yaw: 96.58738708496094
-  pitch: 31.678569793701172
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: -34942.929757211146
+  y: 103.0
+  z: -25276.845004602776
+  yaw: 106.3862075805664
+  pitch: 19.60554313659668
+nickname: §fJzYq

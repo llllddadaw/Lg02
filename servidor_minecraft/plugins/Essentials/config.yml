@@ -245,24 +245,17 @@ mute-commands:
 player-commands:
   - afk
   - afk.auto
-  - depth
-  - delhome
-  - getpos
-  - geoip.show
-  - info
-  - itemdb
   - me
-  - motd
   - msg
   - msg.color
   - near
-  - ping
   - r
   - renamehome
   - seen
   - setxmpp
   - worth
   - xmpp
+  - spawn
 
 # Use this option to force superperms-based permissions handler regardless of detected installed perms plugin.
 # This is useful if you want superperms-based permissions (with wildcards) for custom permissions plugins.
@@ -659,7 +652,7 @@ allow-world-in-broadcastworld: true
 # Consider water blocks as "safe," therefore allowing players to teleport
 # using commands such as /home or /spawn to a location that is occupied
 # by water blocks
-is-water-safe: false
+is-water-safe: true
 
 # Should the usermap try to sanitise usernames before saving them?
 # You should only change this to false if you use Minecraft China.

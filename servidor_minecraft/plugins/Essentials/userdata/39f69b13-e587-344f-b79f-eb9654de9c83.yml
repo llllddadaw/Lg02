@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.51.33.129
+ip-address: 127.234.163.178
 afk: false
 socialspy: false
 npc: false
@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733110538236
+  lastteleport: 1733191332240
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1733108824269
-  login: 1733100164098
+  logout: 1733193361910
+  login: 1733193361971
   kits:
     notch: 1732943707390
 money: '0'
@@ -25,17 +25,42 @@ nickname: §f§lHerobrine
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: 376.7901122733038
-  y: 80.50400164113674
-  z: 3065.5558473115766
-  yaw: -113.07715606689453
-  pitch: 34.867462158203125
+  x: -519.3000000119209
+  y: 45.0
+  z: 241.23750001192093
+  yaw: 143.4410400390625
+  pitch: -0.20078788697719574
 logoutlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -36244.59691418274
-  y: 138.0
-  z: -20192.424727392052
-  yaw: -127.42364501953125
-  pitch: 8.511582374572754
+  x: 3.2737541757954385
+  y: 130.79167218887488
+  z: -21.118711243080472
+  yaw: 14.8135986328125
+  pitch: 40.6428108215332
 last-account-name: v783
+homes:
+  home:
+    world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+    world-name: world
+    x: -329894.1053211293
+    y: 93.86594888014565
+    z: -343892.2061534031
+    yaw: 90.68606567382812
+    pitch: 21.455730438232422
+  casa:
+    world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+    world-name: world
+    x: -329898.876050275
+    y: 88.0
+    z: -343892.2120241256
+    yaw: 90.68606567382812
+    pitch: 21.455730438232422
+  hero:
+    world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+    world-name: world
+    x: -329689.54707323987
+    y: 190.0
+    z: -343920.71619763714
+    yaw: 0.8665771484375
+    pitch: 1.2158453464508057

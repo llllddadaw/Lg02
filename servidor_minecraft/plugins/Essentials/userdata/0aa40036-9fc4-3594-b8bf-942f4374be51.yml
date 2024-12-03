@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.63.115.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733183260665
+  login: 1733183226900
+money: '0'
+last-account-name: kokushibo2423
+logoutlocation:
+  world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
+  world-name: world
+  x: 12.153364338726615
+  y: 121.46634750372172
+  z: 14.442951192066687
+  yaw: -12.151273727416992
+  pitch: 42.010982513427734

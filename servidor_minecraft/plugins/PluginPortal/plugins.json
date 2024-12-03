@@ -16,5 +16,23 @@
     "sha256": "c1c4dbfc9a0ad43dd57e954ce96b1679e407b2ec8bfcd6b79dc71c9c4ee73f2b",
     "sha512": "8758d4dbc1a636f6c9d2b0a852c35234d72b2f95ab1f28c3709ff51a0e19f2cc3fe3e6c4b981ee4fd82ab863949bfee845300f3d1284fc090daf86d62807e047",
     "installedAt": 1732336563662
+  },
+  {
+    "platformId": "1u6JkXh5",
+    "name": "WorldEdit",
+    "version": "7.3.9",
+    "platform": "MODRINTH",
+    "sha256": "75df26f120ff424e62cba3a6e41b3b4e496251d5613b3c55c5f35b96bd8fd57c",
+    "sha512": "ce19097ab93a3ff75a929a1efec58138adc5b700f876ec8ac7a96c97d98d77a06f22661f0418c3407d644ca2d9713fde417d5789c79864d9c2094f203f372c76",
+    "installedAt": 1733177118281
+  },
+  {
+    "platformId": "DKY9btbd",
+    "name": "WorldGuard",
+    "version": "7.0.12",
+    "platform": "MODRINTH",
+    "sha256": "48b136938b3cd4816a95887847ff28e56a06fb110103344bb574739c35f9e86c",
+    "sha512": "5917a0bf2de577021a3881e440386acefa285dfb3625c4a69be12922e4bc03cfea16ea07335f0cc71d4ea516f19477679001f6968d853969a89bfee0c9ecd7b9",
+    "installedAt": 1733188926522
   }
 ]

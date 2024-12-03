@@ -1,3 +1,37 @@
 clans:
-  data: {}
+  data:
+    39f69b13-e587-344f-b79f-eb9654de9c83:
+      clanOwner: 39f69b13-e587-344f-b79f-eb9654de9c83
+      clanOwnerName: v783
+      clanFinalName: '...'
+      clanPrefix: '...'
+      clanMembers:
+      - d9fadb25-ac86-3b98-a3b9-78c6b1d90e09
+      clanAllies: []
+      clanEnemies: []
+      friendlyFire: true
+      clanPoints: 0
+    2fa73f42-7d4f-3aec-8454-a9a0a5972a76:
+      clanOwner: 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
+      clanOwnerName: _6Jul9_
+      clanFinalName: Blastors
+      clanPrefix: Blastors
+      clanMembers:
+      - 9d53235f-5e50-388a-8b7d-1b43c79c07c5
+      - d23e8853-c241-3acd-8959-bdfa9cecc57a
+      - 465d69ca-e71b-3cf0-9814-1ffaa3b7fef6
+      clanAllies: []
+      clanEnemies: []
+      friendlyFire: true
+      clanPoints: 0
+    37aef692-f3a8-3534-aa3f-bba5958378fb:
+      clanOwner: 37aef692-f3a8-3534-aa3f-bba5958378fb
+      clanOwnerName: zGander
+      clanFinalName: EQS
+      clanPrefix: EQS
+      clanMembers: []
+      clanAllies: []
+      clanEnemies: []
+      friendlyFire: true
+      clanPoints: 0
 name-strip-colour-complete: true

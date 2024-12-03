@@ -2,7 +2,6 @@ global:
   commands:
   - clanchat
   - clan
-  - msg
   - clans
   - whisper
   - tell
@@ -11,6 +10,10 @@ global:
   - afk
   - changepassword
   - changepass
+  - /spawn
+  - spawn
+  - msg
+  - msgtoggle
 groups:
   examplegroup:
     priority: 1

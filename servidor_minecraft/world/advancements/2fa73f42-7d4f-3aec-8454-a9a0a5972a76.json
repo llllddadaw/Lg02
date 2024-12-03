@@ -12,6 +12,7 @@
       "minecraft:mushroom_fields": "2024-12-02 00:29:33 +0000",
       "minecraft:taiga": "2024-11-27 04:34:34 +0000",
       "minecraft:deep_ocean": "2024-12-02 00:37:16 +0000",
+      "minecraft:eroded_badlands": "2024-12-02 22:38:05 +0000",
       "minecraft:sunflower_plains": "2024-12-02 00:12:02 +0000",
       "minecraft:birch_forest": "2024-11-25 00:22:39 +0000",
       "minecraft:bamboo_jungle": "2024-11-24 23:33:04 +0000",
@@ -24,6 +25,7 @@
       "minecraft:sparse_jungle": "2024-11-24 23:39:42 +0000",
       "minecraft:lukewarm_ocean": "2024-11-24 23:55:25 +0000",
       "minecraft:river": "2024-11-24 23:32:58 +0000",
+      "minecraft:stony_shore": "2024-12-03 01:53:46 +0000",
       "minecraft:dripstone_caves": "2024-11-24 23:00:53 +0000",
       "minecraft:snowy_taiga": "2024-12-02 00:08:40 +0000",
       "minecraft:swamp": "2024-11-25 00:15:51 +0000",
@@ -492,6 +494,7 @@
       "minecraft:creeper": "2024-11-24 23:41:04 +0000",
       "minecraft:wither": "2024-12-02 02:54:08 +0000",
       "minecraft:phantom": "2024-11-25 00:21:16 +0000",
+      "minecraft:zombified_piglin": "2024-12-02 23:52:49 +0000",
       "minecraft:witch": "2024-11-25 00:16:45 +0000",
       "minecraft:wither_skeleton": "2024-11-25 05:38:54 +0000",
       "minecraft:ender_dragon": "2024-12-02 02:33:15 +0000",
@@ -500,6 +503,7 @@
       "minecraft:silverfish": "2024-11-30 05:24:02 +0000",
       "minecraft:endermite": "2024-11-27 02:30:06 +0000",
       "minecraft:zombie": "2024-11-24 23:02:23 +0000",
+      "minecraft:drowned": "2024-12-03 00:34:32 +0000",
       "minecraft:zombie_villager": "2024-11-26 03:50:41 +0000"
     },
     "done": false
@@ -4056,15 +4060,33 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-02 02:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2024-12-02 02:49:19 +0000"
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
-      "killed_dragon": "2024-12-02 02:33:15 +0000"
+      "has_sand": "2024-12-02 03:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-02 23:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2024-12-03 01:13:40 +0000"
     },
     "done": true
   },
