@@ -2347,3 +2347,349 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [04:14:13] [Server thread/INFO]: v783 issued server command: /schem load "Notch base.schem"
 [04:14:14] [WorldEdit Task Executor - 1/INFO]: v783 loaded /workspaces/Lg02/servidor_minecraft/plugins/WorldEdit/schematics/Notch base.schem
 [04:14:16] [Server thread/INFO]: v783 issued server command: //paste
+[04:14:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-196 (MC: 1.20.1) ---
+[04:14:36] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[04:14:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:14:36] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[04:14:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:14:36] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[04:14:36] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[04:14:36] [Paper Watchdog Thread/ERROR]: 	Stack:
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extent.world.SideEffectExtent$1.resume(SideEffectExtent.java:133)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.internalFlushSession(EditSession.java:977)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.close(EditSession.java:921)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:549)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$DMH/0x000078e6f8001000.invokeSpecial(LambdaForm$DMH)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8cc1800.invoke(LambdaForm$MH)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8d62400.invokeExact_MT(LambdaForm$MH)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:391)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:324)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:308)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.PlayerConnection$$Lambda/0x000078e6f9a27298.run(Unknown Source)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.IAsyncTaskHandler$$Lambda/0x000078e6f9a274b0.get(Unknown Source)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000078e6f8a18cd0.run(Unknown Source)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
+[04:14:36] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
+[04:14:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:14:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[04:14:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:14:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-196 (MC: 1.20.1) ---
+[04:14:41] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[04:14:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:14:41] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[04:14:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:14:41] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[04:14:41] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[04:14:41] [Paper Watchdog Thread/ERROR]: 	Stack:
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:208)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockStateFinal(LevelChunk.java:414)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockState(LevelChunk.java:400)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getBlockState(Level.java:867)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.NeighborUpdater.executeShapeUpdate(NeighborUpdater.java:47)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater$ShapeUpdate.runNext(CollectingNeighborUpdater.java:158)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.runUpdates(CollectingNeighborUpdater.java:79)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.addAndRun(CollectingNeighborUpdater.java:63)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.shapeUpdate(CollectingNeighborUpdater.java:30)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.neighborShapeChanged(Level.java:827)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.updateNeighbourShapes(BlockBehaviour.java:1135)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateNeighbors(PaperweightWorldNativeAccess.java:180)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateNeighbors(PaperweightWorldNativeAccess.java:44)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.internal.wna.WorldNativeAccess.markAndNotifyBlock(WorldNativeAccess.java:191)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.internal.wna.WorldNativeAccess.applySideEffects(WorldNativeAccess.java:110)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.BukkitWorld.applySideEffects(BukkitWorld.java:518)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extent.world.SideEffectExtent$1.resume(SideEffectExtent.java:132)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.internalFlushSession(EditSession.java:977)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.close(EditSession.java:921)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:549)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$DMH/0x000078e6f8001000.invokeSpecial(LambdaForm$DMH)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8cc1800.invoke(LambdaForm$MH)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8d62400.invokeExact_MT(LambdaForm$MH)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:391)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:324)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:308)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.PlayerConnection$$Lambda/0x000078e6f9a27298.run(Unknown Source)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.IAsyncTaskHandler$$Lambda/0x000078e6f9a274b0.get(Unknown Source)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000078e6f8a18cd0.run(Unknown Source)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
+[04:14:41] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
+[04:14:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:14:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[04:14:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25952ms or 519 ticks behind
+[04:14:42] [Async Chat Thread - #61/INFO]: [Not Secure] <_6Jul9_> a
+[04:15:09] [Server thread/INFO]: Makit0oo issued server command: /tp v783
+[04:15:12] [Server thread/INFO]: [Not Secure] [Server] viene otro perdon
+[04:15:23] [Server thread/INFO]: v783 issued server command: /undo
+[04:15:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-196 (MC: 1.20.1) ---
+[04:15:39] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[04:15:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:15:39] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[04:15:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:15:39] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[04:15:39] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[04:15:39] [Paper Watchdog Thread/ERROR]: 	Stack:
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.NeighborUpdater.executeShapeUpdate(NeighborUpdater.java:47)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater$ShapeUpdate.runNext(CollectingNeighborUpdater.java:158)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.runUpdates(CollectingNeighborUpdater.java:79)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.addAndRun(CollectingNeighborUpdater.java:63)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.redstone.CollectingNeighborUpdater.shapeUpdate(CollectingNeighborUpdater.java:30)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.neighborShapeChanged(Level.java:827)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.updateNeighbourShapes(BlockBehaviour.java:1135)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateNeighbors(PaperweightWorldNativeAccess.java:180)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateNeighbors(PaperweightWorldNativeAccess.java:44)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.internal.wna.WorldNativeAccess.markAndNotifyBlock(WorldNativeAccess.java:191)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.internal.wna.WorldNativeAccess.applySideEffects(WorldNativeAccess.java:110)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.BukkitWorld.applySideEffects(BukkitWorld.java:518)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extent.world.SideEffectExtent$1.resume(SideEffectExtent.java:132)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.internalFlushSession(EditSession.java:977)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.undo(EditSession.java:849)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.LocalSession.undo(LocalSession.java:264)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.command.HistoryCommands.undo(HistoryCommands.java:81)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.command.HistoryCommandsRegistration.cmd$undo(HistoryCommandsRegistration.java:138)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.command.HistoryCommandsRegistration$$Lambda/0x000078e6fa3d5808.run(Unknown Source)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:506)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$DMH/0x000078e6f8001000.invokeSpecial(LambdaForm$DMH)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8cc1800.invoke(LambdaForm$MH)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8d62400.invokeExact_MT(LambdaForm$MH)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:391)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:324)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:308)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.PlayerConnection$$Lambda/0x000078e6f9a27298.run(Unknown Source)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.IAsyncTaskHandler$$Lambda/0x000078e6f9a274b0.get(Unknown Source)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1424)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1170)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000078e6f8a18cd0.run(Unknown Source)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
+[04:15:39] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
+[04:15:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:15:39] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[04:15:39] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:15:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16335ms or 326 ticks behind
+[04:15:40] [Server thread/WARN]: Makit0oo moved too quickly! 6.863745227777322,1.024424088213685,7.301747245148022
+[04:15:44] [Async Chat Thread - #61/INFO]: [Not Secure] <_6Jul9_> BqYz
+[04:16:21] [Async Chat Thread - #61/INFO]: [Not Secure] <BqYz> dime
+[04:16:30] [Async Chat Thread - #61/INFO]: [Not Secure] <_6Jul9_> ya andas viendo como hacer el circulo?
+[04:16:36] [Server thread/INFO]: v783 issued server command: //paste
+[04:16:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-196 (MC: 1.20.1) ---
+[04:16:55] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[04:16:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:16:55] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[04:16:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:16:55] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[04:16:55] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[04:16:55] [Paper Watchdog Thread/ERROR]: 	Stack:
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.queue.RadiusAwarePrioritisedExecutor$DependencyTree.pushNode(RadiusAwarePrioritisedExecutor.java:205)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.queue.RadiusAwarePrioritisedExecutor.queue(RadiusAwarePrioritisedExecutor.java:69)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.queue.RadiusAwarePrioritisedExecutor$Task.queue(RadiusAwarePrioritisedExecutor.java:481)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.light.LightQueue$ChunkTasks.schedule(LightQueue.java:211)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.light.LightQueue.queueBlockChange(LightQueue.java:91)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.starlight.common.light.StarLightInterface.blockChange(StarLightInterface.java:390)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ThreadedLevelLightEngine.lambda$checkBlock$6(ThreadedLevelLightEngine.java:212)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.LightEngineThreaded$$Lambda/0x000078e6f9828660.get(Unknown Source)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ThreadedLevelLightEngine.queueTaskForSection(ThreadedLevelLightEngine.java:141)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ThreadedLevelLightEngine.checkBlock(ThreadedLevelLightEngine.java:211)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateLightingForBlock(PaperweightWorldNativeAccess.java:102)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightWorldNativeAccess.updateLightingForBlock(PaperweightWorldNativeAccess.java:44)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.internal.wna.WorldNativeAccess.applySideEffects(WorldNativeAccess.java:107)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.BukkitWorld.applySideEffects(BukkitWorld.java:518)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extent.world.SideEffectExtent$1.resume(SideEffectExtent.java:132)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.internalFlushSession(EditSession.java:977)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.EditSession.close(EditSession.java:921)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:549)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$DMH/0x000078e6f8001000.invokeSpecial(LambdaForm$DMH)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8cc1800.invoke(LambdaForm$MH)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x000078e6f8d62400.invokeExact_MT(LambdaForm$MH)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:391)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.1.jar//com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:324)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:308)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.PlayerConnection$$Lambda/0x000078e6f9a27298.run(Unknown Source)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.IAsyncTaskHandler$$Lambda/0x000078e6f9a274b0.get(Unknown Source)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000078e6f8a18cd0.run(Unknown Source)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
+[04:16:55] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
+[04:16:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:16:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[04:16:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[04:16:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19935ms or 398 ticks behind
+[04:16:56] [Async Chat Thread - #61/INFO]: [Not Secure] <BqYz> si pues
+[04:16:56] [Async Chat Thread - #63/INFO]: [Not Secure] <_6Jul9_> uuh
+[04:16:56] [Async Chat Thread - #63/INFO]: [Not Secure] <BqYz> ya te mande
+[04:17:01] [Async Chat Thread - #64/INFO]: [Not Secure] <_6Jul9_> si eso ando viendo
+[04:17:06] [Async Chat Thread - #64/INFO]: [Not Secure] <_6Jul9_> hermano esta epic
+[04:17:46] [Server thread/INFO]: Makit0oo issued server command: /v
+[04:17:46] [Server thread/INFO]: Makit0oo issued server command: /thor Makit0oo
+[04:17:58] [Server thread/INFO]: v783 issued server command: /tp Notch
+[04:18:01] [Server thread/INFO]: Makit0oo issued server command: /tp v783
+[04:18:01] [Server thread/INFO]: v783 issued server command: /tp Notch
+[04:18:36] [Server thread/INFO]: _6Jul9_ lost connection: Disconnected
+[04:19:31] [Server thread/INFO]: Makit0oo issued server command: /tp v783
+[04:20:06] [User Authenticator #14/INFO]: UUID of player _6Jul9_ is 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
+[04:20:07] [Server thread/INFO]: _6Jul9_[/127.121.27.71:52083] logged in with entity id 162813 at ([world_the_end]-2092.223246071198, 1.0, 3860.0357972881197)
+[04:20:07] [Craft Scheduler Thread - 138 - AuthMe/INFO]: [AuthMe] _6Jul9_ logged in 127.121.27.71
+[04:20:55] [Server thread/WARN]: v783 moved too quickly! -4.183511630615683,-28.682097278845916,-16.785965319376714
+[04:21:17] [Async Chat Thread - #65/INFO]: [Not Secure] <BqYz> no ahi no XD
+[04:21:17] [Async Chat Thread - #66/INFO]: [Not Secure] <_6Jul9_> mira
+[04:21:21] [Async Chat Thread - #65/INFO]: [Not Secure] <_6Jul9_> a
+[04:21:21] [Server thread/INFO]: Makit0oo issued server command: //replace end_stone
+[04:21:30] [Server thread/INFO]: Makit0oo issued server command: //fill end_stone
+[04:21:38] [Server thread/INFO]: DAVID_PY issued server command: /clan
+[04:21:40] [Server thread/INFO]: Makit0oo issued server command: //fill end_stone
+[04:21:43] [Async Chat Thread - #65/INFO]: [Not Secure] <_6Jul9_> ya no deja ps
+[04:21:44] [Server thread/INFO]: Makit0oo issued server command: //fill end_stone 10
+[04:21:44] [Server thread/ERROR]: An unexpected error while handling a WorldEdit command
+java.lang.IllegalArgumentException: minY <= maxY required
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:145) ~[guava-31.1-jre.jar:?]
+	at com.sk89q.worldedit.function.mask.BoundedHeightMask.<init>(BoundedHeightMask.java:42) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.EditSession.fillXZ(EditSession.java:1055) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.command.UtilityCommands.fill(UtilityCommands.java:106) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.command.UtilityCommandsRegistration.cmd$_fill(UtilityCommandsRegistration.java:433) ~[worldedit-bukkit-7.3.1.jar:?]
+	at org.enginehub.piston.CommandManager.execute(CommandManager.java:157) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:506) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:391) ~[worldedit-bukkit-7.3.1.jar:?]
+	at com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55) ~[worldedit-bukkit-7.3.1.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServer.java:987) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:64) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:265) ~[paper-1.20.1.jar:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:324) ~[?:?]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:308) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performChatCommand(ServerGamePacketListenerImpl.java:2354) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$21(ServerGamePacketListenerImpl.java:2314) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.lambda$submitAsync$0(BlockableEventLoop.java:59) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1338) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:197) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1315) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1308) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1286) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04:21:50] [Async Chat Thread - #66/INFO]: [Not Secure] <BqYz> de vrd no ? XD
+[04:22:06] [Async Chat Thread - #66/INFO]: [Not Secure] <BqYz> a no we XDDD
+[04:22:16] [Async Chat Thread - #66/INFO]: [Not Secure] <BqYz> coge el agua
+[04:22:27] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 287 minecraft:end_stone
+[04:22:32] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 287 minecraft:end_stone
+[04:22:37] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 280 minecraft:end_stone
+[04:22:41] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 275 minecraft:end_stone
+[04:22:53] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 290 minecraft:end_stone
+[04:22:57] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 292 minecraft:end_stone
+[04:22:59] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 294 minecraft:end_stone
+[04:23:02] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 296 minecraft:end_stone
+[04:23:08] [Server thread/INFO]: Makit0oo issued server command: /fill 208 0 491 40 0 300 minecraft:end_stone
+[04:23:08] [Server thread/INFO]: [Makit0oo: Successfully filled 6037 block(s)]
+[04:23:10] [Async Chat Thread - #66/INFO]: [Not Secure] <_6Jul9_> solo que quitemos alguans capas de esta cosa
+[04:24:11] [Server thread/INFO]: Makit0oo issued server command: /tp v783
+[04:25:17] [Async Chat Thread - #68/INFO]: [Not Secure] <_6Jul9_> ire por el cristal

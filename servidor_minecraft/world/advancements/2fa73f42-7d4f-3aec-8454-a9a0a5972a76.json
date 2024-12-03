@@ -4091,15 +4091,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_slab": {
+  "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "has_purpur_block": "2024-12-03 03:49:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/levitate": {
-    "criteria": {
-      "levitated": "2024-12-03 03:51:30 +0000"
+      "entered_end_gateway": "2024-12-03 03:35:05 +0000"
     },
     "done": true
   },
@@ -4109,9 +4103,15 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "entered_end_gateway": "2024-12-03 03:35:05 +0000"
+      "has_shulker_shell": "2024-12-03 03:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-03 03:49:39 +0000"
     },
     "done": true
   },
@@ -4133,12 +4133,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2024-12-03 03:40:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2024-12-03 03:49:39 +0000"
@@ -4148,6 +4142,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-03 03:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-12-03 03:51:30 +0000"
     },
     "done": true
   },
