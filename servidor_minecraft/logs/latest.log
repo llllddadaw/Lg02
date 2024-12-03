@@ -1498,3 +1498,102 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [03:00:41] [Server thread/INFO]: BqYz issued server command: /msg drinne ya perate lo encuentro y envio coords
 [03:00:46] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/45986, uuid='41f1a4e5-2620-4108-ae39-f19b6ee2f4b0', l='ServerLevel[world]', x=-34721.50, y=44.00, z=-25165.50, cpos=[-2171, -1573], tl=0, v=false] died: Demon died
 [03:00:57] [Server thread/INFO]: drinne issued server command: /msg BqYz no era ahi lo q mando por dc?
+[03:00:59] [Server thread/INFO]: drinne issued server command: /msg BqYz no era ahi lo q mando por dc?
+[03:01:02] [Server thread/INFO]: JzYq issued server command: /gm 1
+[03:01:05] [Server thread/INFO]: drinne issued server command: /spawn
+[03:01:05] [Async Chat Thread - #16/INFO]: [Not Secure] <_6Jul9_> Yesvy como se hacia el reloj
+[03:01:12] [Server thread/INFO]: JzYq issued server command: /rg flag coliseo
+[03:01:15] [Server thread/INFO]: BqYz issued server command: /msg drinne si por ahi no directamente la del portal
+[03:01:18] [Server thread/INFO]: JzYq issued server command: /rg flag coliseopvp
+[03:01:20] [Server thread/INFO]: JzYq issued server command: /rg flag coliseo
+[03:01:25] [Server thread/INFO]: JzYq issued server command: /region flag coliseo
+[03:01:47] [Server thread/INFO]: JzYq issued server command: /region flag coliseo asd
+[03:01:47] [Server thread/WARN]: JzYq moved too quickly! 0.32277024621362216,-10.312500617038765,-0.08872399809388298
+[03:01:58] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" coliseo block-break
+[03:02:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:02:12] [Async Chat Thread - #18/INFO]: [Not Secure] <_6Jul9_> a ya
+[03:02:20] [Async Chat Thread - #19/INFO]: [Not Secure] <BqYz> dc pablo
+[03:02:22] [Async Chat Thread - #18/INFO]: [Not Secure] <BqYz> porfa
+[03:02:27] [Async Chat Thread - #20/INFO]: [Not Secure] <_6Jul9_> ya te respondi
+[03:02:58] [Server thread/INFO]: JzYq issued server command: /deop
+[03:03:01] [Server thread/INFO]: JzYq issued server command: /gm 0
+[03:03:05] [Server thread/INFO]: JzYq issued server command: /deop
+[03:03:20] [Server thread/INFO]: drinne issued server command: /msg _6Jul9_ oe los clanes no iban a tener solo 3 miembros?
+[03:03:28] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/50755, uuid='0a8f4b0b-352b-4735-a874-56008abb5961', l='ServerLevel[world]', x=-44.50, y=89.00, z=-86.50, cpos=[-3, -6], tl=0, v=false] died: Herobrine Warrior died
+[03:03:45] [Server thread/INFO]: JzYq issued server command: /fly
+[03:04:17] [Server thread/INFO]: JzYq issued server command: /rg flags coliseo
+[03:04:22] [Server thread/INFO]: drinne issued server command: /clan
+[03:04:25] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" -h 1 coliseo pvp ALLOW
+[03:04:40] [Server thread/INFO]: JzYq issued server command: /deop jzyq
+[03:04:40] [Server thread/INFO]: [JzYq: Made JzYq no longer a server operator]
+[03:04:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:04:47] [Server thread/INFO]: Makit0oo issued server command: /tp JzYq
+[03:04:53] [Server thread/INFO]: JzYq was slain by Makit0oo using [Le Salmone]
+[03:05:00] [Async Chat Thread - #21/INFO]: [Not Secure] <_6Jul9_> a
+[03:05:02] [Server thread/INFO]: JzYq fell from a high place
+[03:05:07] [Server thread/INFO]: Makit0oo issued server command: /tp JzYq Makit0oo
+[03:05:12] [Server thread/INFO]: drinne issued server command: /clan sethome
+[03:05:18] [Server thread/INFO]: drinne issued server command: /clan home
+[03:05:19] [Server thread/INFO]: Makit0oo issued server command: /op JzYq
+[03:05:19] [Server thread/INFO]: [Makit0oo: Made JzYq a server operator]
+[03:05:50] [Server thread/WARN]: drinne moved wrongly!
+[03:05:51] [Server thread/WARN]: drinne moved wrongly!
+[03:05:59] [Server thread/INFO]: Makit0oo issued server command: /effect give JzYq minecraft:regeneration infinite 255
+[03:05:59] [Server thread/INFO]: [Makit0oo: Applied effect Regeneration to JzYq]
+[03:06:05] [Server thread/INFO]: Makit0oo issued server command: /effect give JzYq minecraft:regeneration 10
+[03:06:08] [Server thread/INFO]: JzYq issued server command: /rg flags coliseo
+[03:06:10] [Server thread/INFO]: Makit0oo issued server command: /effect give JzYq minecraft:regeneration 10 255
+[03:06:19] [Server thread/INFO]: Makit0oo issued server command: /effect clear JzYq
+[03:06:19] [Server thread/INFO]: [Makit0oo: Removed every effect from JzYq]
+[03:06:24] [Server thread/INFO]: Makit0oo issued server command: /tp drinne
+[03:06:38] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 2 coliseo
+[03:06:44] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 3 coliseo
+[03:06:45] [Server thread/INFO]: Makit0oo issued server command: /tp drinne
+[03:06:47] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" -h 3 coliseo mob-spawning DENY
+[03:06:50] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 4 coliseo
+[03:06:50] [Server thread/INFO]: Makit0oo issued server command: /tp BqYz
+[03:06:54] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 5 coliseo
+[03:06:56] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 6 coliseo
+[03:06:59] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 5 coliseo
+[03:07:00] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 4 coliseo
+[03:07:01] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 3 coliseo
+[03:07:01] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 2 coliseo
+[03:07:02] [Server thread/INFO]: JzYq issued server command: /rg flags -w "world" -p 1 coliseo
+[03:07:07] [Server thread/INFO]: Makit0oo issued server command: /say Les salo cndo consigo un logro?
+[03:07:07] [Server thread/INFO]: [Not Secure] [Makit0oo] Les salo cndo consigo un logro?
+[03:07:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:07:12] [Server thread/INFO]: Makit0oo issued server command: /say salgo*
+[03:07:12] [Server thread/INFO]: [Not Secure] [Makit0oo] salgo*
+[03:07:35] [Server thread/INFO]: Makit0oo issued server command: /advancement grant Makit0oo only minecraft:adventure/adventuring_time
+[03:07:35] [Server thread/INFO]: [Makit0oo: Granted the advancement [Adventuring Time] to Makit0oo]
+[03:07:41] [Async Chat Thread - #23/INFO]: [Not Secure] <_6Jul9_> Yesvy ayudame aqui
+[03:07:54] [Async Chat Thread - #25/INFO]: [Not Secure] <_6Jul9_> necesito tnt
+[03:08:15] [Server thread/INFO]: JzYq issued server command: /worldguard:god
+[03:08:20] [Server thread/INFO]: JzYq issued server command: /rg flags coliseo
+[03:08:24] [Server thread/INFO]: Makit0oo issued server command: /tp Yesvy
+[03:08:31] [Server thread/INFO]: Makit0oo issued server command: /tp _6Jul9_
+[03:08:34] [Server thread/INFO]: Makit0oo issued server command: /tp BqYz
+[03:08:39] [Server thread/INFO]: Makit0oo issued server command: /tp zGander
+[03:08:47] [Server thread/INFO]: JzYq issued server command: /rg flag coliseo god
+[03:08:52] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" coliseo block-break
+[03:08:57] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" coliseo block-break
+[03:09:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:09:13] [Server thread/INFO]: JzYq issued server command: /rg flag -w "world" coliseo block-break
+[03:09:33] [Server thread/INFO]: BqYz lost connection: Disconnected
+[03:09:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:09:46] [Server thread/INFO]: JzYq issued server command: /rg info coliseo
+[03:10:01] [Server thread/INFO]: JzYq issued server command: /rg flag coliseo block-break deny
+[03:10:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:10:13] [Server thread/INFO]: JzYq issued server command: /rg flag coliseo block-place deny
+[03:10:22] [Server thread/INFO]: JzYq issued server command: /Fly
+[03:10:25] [Server thread/INFO]: JzYq issued server command: /fly
+[03:10:29] [Server thread/INFO]: JzYq issued server command: /deop JzYq
+[03:10:29] [Server thread/INFO]: [JzYq: Made JzYq no longer a server operator]
+[03:10:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:11:00] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/64734, uuid='1cb55c5f-4936-48ff-bfcd-012b11256c5d', l='ServerLevel[world]', x=69.50, y=82.00, z=-11.50, cpos=[4, -1], tl=0, v=false] died: Demon died
+[03:11:25] [Server thread/INFO]: Made JzYq a server operator
+[03:11:30] [Server thread/INFO]: JzYq issued server command: /rg delete coliseo
+[03:11:34] [User Authenticator #8/INFO]: UUID of player BqYz is 9d53235f-5e50-388a-8b7d-1b43c79c07c5
+[03:11:34] [Server thread/INFO]: BqYz[/127.112.153.223:46843] logged in with entity id 69364 at ([world]-4629.005971334343, -34.0, 1659.7844683042226)
+[03:11:34] [Craft Scheduler Thread - 77 - AuthMe/INFO]: [AuthMe] BqYz logged in 127.112.153.223
+[03:11:34] [Server thread/INFO]: JzYq issued server command: /gm 1

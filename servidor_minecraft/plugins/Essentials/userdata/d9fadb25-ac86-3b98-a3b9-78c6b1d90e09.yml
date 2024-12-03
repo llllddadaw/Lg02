@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1733194681152
+  lastteleport: 1733195319471
   lastheal: 0
   mute: 0
   jail: 0
@@ -34,11 +34,11 @@ logoutlocation:
 lastlocation:
   world: dab01236-5b6e-462d-ae24-c4bff4fe68fc
   world-name: world
-  x: -34973.456314331714
-  y: 99.0
-  z: -25308.120426001275
-  yaw: -34.501861572265625
-  pitch: 12.7539644241333
+  x: -4628.300000011921
+  y: -34.0
+  z: 1662.1048033689547
+  yaw: 117.822265625
+  pitch: 13.533408164978027
 nickname: §f§lNotch
 mail:
 - legacy: false
