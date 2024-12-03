@@ -2780,3 +2780,75 @@ To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
 [04:35:40] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 2 notch mob-damage DENY
 [04:35:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_the_end' have been background saved
 [04:35:42] [Server thread/INFO]: v783 issued server command: /rg flags -w "world_the_end" -p 3 notch
+[04:35:44] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 3 notch mob-spawning DENY
+[04:35:50] [Server thread/INFO]: v783 issued server command: /rg flags -w "world_the_end" -p 4 notch
+[04:35:57] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 4 notch invincible DENY
+[04:35:57] [Server thread/INFO]: v783 issued server command: /rg flags -w "world_the_end" -p 5 notch
+[04:36:08] [Server thread/INFO]: v783 issued server command: /deop v783
+[04:36:08] [Server thread/INFO]: [v783: Made v783 no longer a server operator]
+[04:36:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_the_end' have been background saved
+[04:36:45] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/182223, uuid='f2c84558-429d-4462-badf-f5d6b64199ff', l='ServerLevel[world]', x=-35506.85, y=98.00, z=-21212.18, cpos=[-2220, -1326], tl=131, v=true] died: Demon was slain by DAVID_PY
+[04:36:52] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: f84c6a79-0a4e-45e0-879b-cd49ebd4c4e2, mapped to HumanEntity['Herobrine'/1240, uuid='f84c6a79-0a4e-45e0-879b-cd49ebd4c4e2', l='ServerLevel[world]', x=-279.00, y=94.00, z=-959.30, cpos=[-18, -60], tl=144266, v=true](Herobrine at -278.9999997615814,94.0,-959.3000000119209), can't add HumanEntity['Herobrine'/182367, uuid='f84c6a79-0a4e-45e0-879b-cd49ebd4c4e2', l='ServerLevel[world]', x=-35507.50, y=-100.00, z=-21209.50, cpos=[-2220, -1326], tl=0, v=false](Herobrine at -35507.5,-100.0,-21209.5)
+[04:38:15] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: f84c6a79-0a4e-45e0-879b-cd49ebd4c4e2, mapped to HumanEntity['Herobrine'/30985, uuid='f84c6a79-0a4e-45e0-879b-cd49ebd4c4e2', l='ServerLevel[world_the_end]', x=-893.00, y=-662.00, z=-605.00, cpos=[-56, -38], tl=124532, v=true](Herobrine at -893.0,-662.0,-605.0), can't add HumanEntity['Herobrine'/183240, uuid='f84c6a79-0a4e-45e0-879b-cd49ebd4c4e2', l='ServerLevel[world_the_end]', x=-60.00, y=0.00, z=-90.00, cpos=[-4, -6], tl=0, v=false](Herobrine at -60.0,0.0,-90.0)
+[04:38:17] [Async Chat Thread - #76/INFO]: [Not Secure] <BqYz> llegamos al limite de construccion vrd pablo?
+[04:38:21] [Async Chat Thread - #76/INFO]: [Not Secure] <_6Jul9_> si
+[04:38:29] [Async Chat Thread - #76/INFO]: [Not Secure] <BqYz> pero ps puedo volar no ?
+[04:38:29] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/183367, uuid='5e56b960-d4da-4515-a6b1-e990292c7fc4', l='ServerLevel[world]', x=-3650.94, y=-4.00, z=1612.56, cpos=[-229, 100], tl=0, v=false] died: Herobrine Warrior died
+[04:38:32] [Async Chat Thread - #76/INFO]: [Not Secure] <_6Jul9_> si
+[04:38:51] [Async Chat Thread - #76/INFO]: [Not Secure] <_6Jul9_> pero no tan abajo o sino si sufres daño
+[04:39:16] [Async Chat Thread - #77/INFO]: [Not Secure] <BqYz> pero si como pa entrar a la base por donde te dije no ?
+[04:39:27] [Async Chat Thread - #76/INFO]: [Not Secure] <_6Jul9_> creo que si
+[04:39:55] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/184369, uuid='71597430-3345-4660-8b9a-f8d5bac0f8bf', l='ServerLevel[world]', x=-35598.50, y=102.00, z=-21257.50, cpos=[-2225, -1329], tl=0, v=false] died: Demon died
+[04:40:24] [Server thread/INFO]: Named entity CustomZombie['Herobrine Warrior'/184123, uuid='1326cef8-b9e8-47d9-ae85-7d7ea67cba1e', l='ServerLevel[world]', x=-3723.91, y=-11.00, z=1746.19, cpos=[-233, 109], tl=728, v=true] died: Herobrine Warrior was slain by _6Jul9_
+[04:40:29] [Async Chat Thread - #78/INFO]: [Not Secure] <BqYz> q paja tengo cita mañana a las 10
+[04:40:32] [Async Chat Thread - #78/INFO]: [Not Secure] <BqYz> am
+[04:40:40] [Async Chat Thread - #78/INFO]: [Not Secure] <_6Jul9_> cancela y ya
+[04:40:49] [Async Chat Thread - #80/INFO]: [Not Secure] <BqYz> no ps es de los brackets
+[04:40:49] [Server thread/INFO]: _6Jul9_ has made the advancement [The Cutest Predator]
+[04:41:13] [Async Chat Thread - #80/INFO]: [Not Secure] <BqYz> me tocaba el sabado pero lo aplaze para mañana martes
+[04:41:15] [Async Chat Thread - #80/INFO]: [Not Secure] <_6Jul9_> llevo ajolotes?
+[04:41:28] [Async Chat Thread - #80/INFO]: [Not Secure] <BqYz> XD?
+[04:41:35] [Async Chat Thread - #80/INFO]: [Not Secure] <_6Jul9_> no sabes?
+[04:41:38] [Async Chat Thread - #78/INFO]: [Not Secure] <BqYz> te gustab ?
+[04:41:43] [Async Chat Thread - #78/INFO]: [Not Secure] <_6Jul9_> si ps
+[04:41:48] [Async Chat Thread - #79/INFO]: [Not Secure] <BqYz> trae ps
+[04:42:05] [Server thread/INFO]: _6Jul9_ has made the advancement [Tactical Fishing]
+[04:42:28] [Async Chat Thread - #80/INFO]: [Not Secure] <_6Jul9_> ahora vuelvo
+[04:42:30] [Server thread/INFO]: _6Jul9_ lost connection: Disconnected
+[04:42:40] [Server thread/INFO]: Nothing changed. The player already is an operator
+[04:42:44] [Server thread/INFO]: Made v783 a server operator
+[04:44:20] [User Authenticator #16/INFO]: UUID of player _6Jul9_ is 2fa73f42-7d4f-3aec-8454-a9a0a5972a76
+[04:44:20] [Server thread/INFO]: _6Jul9_[/127.121.27.71:48041] logged in with entity id 186702 at ([world]-3721.4903132042796, 49.0, 1710.4358655311944)
+[04:44:21] [Craft Scheduler Thread - 156 - AuthMe/INFO]: [AuthMe] _6Jul9_ logged in 127.121.27.71
+[04:44:21] [Server thread/INFO]: v783 issued server command: /rg flags notch
+[04:44:24] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 1 notch interact ALLOW
+[04:44:26] [Server thread/INFO]: v783 issued server command: /rg flag -w "world_the_end" -h 1 notch use ALLOW
+[04:44:41] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_the_end' have been background saved
+[04:45:06] [Craft Scheduler Thread - 161 - ClansLite/INFO]: ClansLite: Cleared all outstanding clan invites!
+[04:45:06] [Craft Scheduler Thread - 160 - ClansLite/INFO]: ClansLite: Saved all Clans to file!
+[04:45:06] [Craft Scheduler Thread - 160 - ClansLite/INFO]: ClansLite: Saved all Users to file!
+[04:45:10] [Server thread/INFO]: v783 issued server command: /rg flag notch use allow
+[04:45:11] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world_the_end' have been background saved
+[04:45:25] [Server thread/INFO]: v783 issued server command: /vanish
+[04:45:35] [Server thread/INFO]: v783 issued server command: /vanish
+[04:47:53] [Server thread/INFO]: v783 issued server command: /vanish
+[04:47:54] [Server thread/INFO]: v783 issued server command: /vanish
+[04:48:06] [Server thread/INFO]: v783 issued server command: /tp BqYz
+[04:49:31] [Async Chat Thread - #81/INFO]: [Not Secure] <_6Jul9_> BqYz me perdi
+[04:49:40] [Async Chat Thread - #81/INFO]: [Not Secure] <BqYz> ajjaja
+[04:49:46] [Async Chat Thread - #81/INFO]: [Not Secure] <BqYz> te paso corrds
+[04:49:51] [Async Chat Thread - #81/INFO]: [Not Secure] <_6Jul9_> se
+[04:50:20] [Server thread/INFO]: BqYz issued server command: /msg _6Jul9_ -2080 7 3849
+[04:52:18] [Thread-21/INFO]: A new version of Herobrine is available.
+To get it, go to www.theprogrammersworld.net/Herobrine and click "Download".
+[04:52:32] [Server thread/INFO]: v783 issued server command: /tp DAVID_PY
+[04:52:38] [Async Chat Thread - #83/INFO]: [Not Secure] <_6Jul9_> ya traigo los 3 tipos de cristales
+[04:52:50] [Server thread/INFO]: v783 issued server command: /tp 4993 -3 -6297
+[04:54:39] [Server thread/INFO]: v783 issued server command: /tp BqYz
+[04:55:19] [Server thread/INFO]: Named entity CustomSkeleton['Demon'/206274, uuid='ee0cb70c-e08c-46de-b3b5-c02907cace57', l='ServerLevel[world]', x=-35539.50, y=95.00, z=-21150.50, cpos=[-2222, -1322], tl=0, v=false] died: Demon died
+[04:55:26] [Async Chat Thread - #85/INFO]: [Not Secure] <BqYz> no te muevas de la base pablo por unos minutos pe
+[04:55:31] [Server thread/INFO]: v783 issued server command: /tp 105 57 45
+[04:55:34] [Async Chat Thread - #85/INFO]: [Not Secure] <_6Jul9_> por
+[04:55:40] [Async Chat Thread - #86/INFO]: [Not Secure] <BqYz> hazme caso
+[04:55:43] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /tp bqyz 105 56 45
+[04:55:43] [Server thread/INFO]: Teleporting...

@@ -14,8 +14,9 @@ regions:
         min: {x: 40, y: 0, z: 287}
         max: {x: 208, y: 145, z: 491}
         members: {}
-        flags: {wither-damage: deny, creeper-explosion: deny, mob-damage: deny, enderman-grief: deny,
-            pvp: allow, ghast-fireball: deny, enderdragon-block-damage: deny}
+        flags: {wither-damage: deny, creeper-explosion: deny, use: allow, invincible: deny,
+            mob-damage: deny, interact: allow, enderman-grief: deny, pvp: allow, ghast-fireball: deny,
+            mob-spawning: deny, enderdragon-block-damage: deny}
         owners: {}
         type: cuboid
         priority: 0
